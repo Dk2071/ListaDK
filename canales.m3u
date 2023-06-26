@@ -488,7 +488,7 @@ http://38.7.131.2:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2 (GUA)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="verch",ESPN2 (GUA)
 http://190.122.186.88:8000/play/a0hy/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2 (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sf.png" group-title="verch",ESPN2 (HON)
+#EXTINF:-1 tvg-id="ESPN2 (HON)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="verch",ESPN2 (HON)
 http://181.189.243.254:8000/play/a0sf/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2 HD (GUA)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="verch",ESPN2 HD (GUA)
