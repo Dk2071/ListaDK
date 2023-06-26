@@ -244,16 +244,16 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 
 + Series y Películas RD +
 
-#EXTINF:-1 tvg-id="A&E" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s8.png" group-title="verch", A&E
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.imgur.com/xmcJRh9.png" group-title="verch", A&E
 http://190.122.186.88:8000/play/a0hr/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s8.png" group-title="verch", A&E (HON)
 http://181.189.243.254:8000/play/a0s8/index.m3u8
 
-#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",A&E HD
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://i.imgur.com/qpS9g9y.png" group-title="verch",A&E HD
 http://38.7.131.2:8000/play/a0ed/index.m3u8
 
-#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",A&E HD (GUA)
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://i.imgur.com/qpS9g9y.png" group-title="verch",A&E HD (GUA)
 http://190.122.186.88:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0q7.png" group-title="verch", A&E HD (HON)
