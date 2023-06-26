@@ -575,10 +575,6 @@ http://190.122.186.88:8000/play/a0fg/index.m3u8
 http://190.122.186.88:8000/play/a0hm/index.m3u8
 
 ---------------------------------
-
-#EXTINF:-1 tvg-id="Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="verch",Multipremier (GUA)
-http://190.122.186.88:8000/play/a0j4/index.m3u8
-
  
 #EXTINF:-1 group-title="Lista 6 Guatemala", 118. Multipremier  
 #EXTINF:-1 group-title="Lista 6 Guatemala", 119. Nat Geo HD http://190.122.186.88:8000/play/a0jr/index.m3u8 
