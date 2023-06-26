@@ -373,7 +373,7 @@ http://38.7.131.2:8000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",TVE
 http://190.122.186.88:8000/play/a0k2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ej0DFE3.png" group-title="verch",MyTime movie network Mexico (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b9cvzgC.png" group-title="verch",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Atres Series" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="verch",Atres Series
