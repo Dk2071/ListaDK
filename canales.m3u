@@ -244,7 +244,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 
 + Series y Películas RD +
 
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch", A&E
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s8.png" group-title="verch", A&E
 http://190.122.186.88:8000/play/a0hr/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0s8.png" group-title="verch", A&E (HON)
@@ -310,10 +310,13 @@ http://38.7.131.2:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="Golden Premiere 2 HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Golden Premiere 2 HD
 http://38.7.131.2:8000/play/a07e/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",AXN HD
+#EXTINF:-1 tvg-id="AXN (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="verch",AXN (HON)
+http://181.189.243.254:8000/play/a0pp/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="verch",AXN HD
 http://38.7.131.2:8000/play/a09u/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",AXN HD (GUA)
+#EXTINF:-1 tvg-id="AXN HD (GUA)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="verch",AXN HD (GUA)
 http://190.122.186.88:8000/play/a0ji/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Comedy Central HD (GUA)
@@ -1003,5 +1006,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 
 #EXTINF:-1 tvg-id="PlutoTVMTVEmbarazadaalos16.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="USA",Pluto TV MTV Embarazada a los 16 (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-
