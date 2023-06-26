@@ -328,6 +328,15 @@ http://38.7.131.2:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="AXN HD (GUA)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="verch",AXN HD (GUA)
 http://190.122.186.88:8000/play/a0ji/index.m3u8
 
+#EXTINF:-1 tvg-id="Paramount (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Paramount (GUA)
+http://190.122.186.88:8000/play/a0e3/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ol.png" group-title="verch",Paramount (HON)
+http://181.189.243.254:8000/play/a0ol/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t9.png" group-title="verch",Paramount HD (HON)
+http://181.189.243.254:8000/play/a0t9/index.m3u8
+
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Comedy Central HD (GUA)
 http://190.122.186.88:8000/play/a0id/index.m3u8
 
@@ -612,14 +621,10 @@ http://190.122.186.88:8000/play/a0hm/index.m3u8
 
 ---------------------------------
 
-
-
  
-#EXTINF:-1 group-title="Lista 6 Guatemala", 118. Multipremier  
 #EXTINF:-1 group-title="Lista 6 Guatemala", 119. Nat Geo HD http://190.122.186.88:8000/play/a0jr/index.m3u8 
 #EXTINF:-1 group-title="Lista 6 Guatemala", 120. National Geographic http://190.122.186.88:8000/play/a0ey/index.m3u8 
 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 125. Paramount http://190.122.186.88:8000/play/a0e3/index.m3u8 
 #EXTINF:-1 group-title="Lista 6 Guatemala", 133. SONY http://190.122.186.88:8000/play/a0ho/index.m3u8 
 #EXTINF:-1 group-title="Lista 6 Guatemala", 134. SONY HD http://190.122.186.88:8000/play/a0i3/index.m3u8 
 #EXTINF:-1 group-title="Lista 6 Guatemala", 135. Sony Movies HD http://190.122.186.88:8000/play/a0fr/index.m3u8 
