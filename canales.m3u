@@ -283,11 +283,14 @@ http://38.7.131.2:8000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Cine Latino (GUA)
 http://190.122.186.88:8000/play/a0j5/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Canal HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Cine Canal HD
+#EXTINF:-1 tvg-id="CINE CANAL HD" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="verch",CINE CANAL HD
 http://38.7.131.2:8000/play/a06h/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Canal HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Cine Canal HD (GUA)
+#EXTINF:-1 tvg-id="CINE CANAL HD (GUA)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="verch",CINE CANAL HD (GUA)
 http://190.122.186.88:8000/play/a0i4/index.m3u8
+
+#EXTINF:-1 tvg-id="CINE CANAL HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sl.png" group-title="verch",CINE CANAL HD (HON)
+http://181.189.243.254:8000/play/a0sl/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMax" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",CineMax
 http://38.7.131.2:8000/play/a09i/index.m3u8
