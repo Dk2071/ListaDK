@@ -447,10 +447,10 @@ http://190.122.186.88:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="H2 History" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",H2 History
 http://190.122.186.88:8000/play/a0ge/index.m3u8
 
-#EXTINF:-1 tvg-id="National Geographic (GUA)" tvg-logo="https://i.imgur.com/6lEq1SB.png" group-title="verch",National Geographic (GUA)
+#EXTINF:-1 tvg-id="Nat Geo (GUA)" tvg-logo="https://i.imgur.com/6lEq1SB.png" group-title="verch",National Geographic (GUA)
 http://190.122.186.88:8000/play/a0ey/index.m3u8
 
-#EXTINF:-1 tvg-id="National Geographic (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t8.png" group-title="verch",National Geographic (HON)
+#EXTINF:-1 tvg-id="Nat Geo (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t8.png" group-title="verch",National Geographic (HON)
 http://181.189.243.254:8000/play/a0pk/index.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo HD (GUA)" tvg-logo="https://i.imgur.com/6lEq1SB.png" group-title="verch",Nat Geo HD (GUA)
