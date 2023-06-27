@@ -151,23 +151,35 @@ http://38.7.131.2:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="Exa TV" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Exa TV (Gua)
 http://190.122.186.88:8000/play/a0hz/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="verch",MTV
 http://190.122.186.88:8000/play/a0j0/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV 00s
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="verch",MTV 00s
 http://190.122.186.88:8000/play/a0gm/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV 80s
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rf.png" group-title="verch",MTV 00s (HON)
+http://181.189.243.254:8000/play/a0rf/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV 00s HD (HON)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="verch",MTV 00s HD (HON)
+http://181.189.243.254:8000/play/a0sw/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="verch",MTV 80s
 http://38.7.131.2:8000/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV 80s (Gua) 
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="verch",MTV 80s (GUA) 
 http://190.122.186.88:8000/play/a0f2/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV Hits
+#EXTINF:-1 tvg-id="MTV 80s (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0po.png" group-title="verch",MTV 80s (HON) 
+http://181.189.243.254:8000/play/a0po/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="https://i.imgur.com/Hpu8fxL.png" group-title="verch",MTV Hits
 http://38.7.131.2:8000/play/a06u/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV Hits (GUA)
+#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="https://i.imgur.com/Hpu8fxL.png" group-title="verch",MTV Hits (GUA)
 http://190.122.186.88:8000/play/a0f1/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV Hits (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pn.png" group-title="verch",MTV Hits (HON)
+http://181.189.243.254:8000/play/a0pn/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV HD
 http://38.7.131.2:8000/play/a0a0/index.m3u8
@@ -175,17 +187,23 @@ http://38.7.131.2:8000/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV HD (GUA)
 http://190.122.186.88:8000/play/a0fd/index.m3u8
 
+#EXTINF:-1 tvg-id="MTV HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pz.png" group-title="verch",MTV HD (HON)
+http://181.189.243.254:8000/play/a0pz/index.m3u8
+
 #EXTINF:-1 tvg-id="MTV 00S HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV 00S HD
 http://38.7.131.2:8000/play/a0ex/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 00S HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV 00S HD (GUA)
+#EXTINF:-1 tvg-id="MTV 00S HD (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV 00S HD (GUA)
 http://190.122.186.88:8000/play/a0if/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV Live HD
+#EXTINF:-1 tvg-id="MTV SIM HD" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="verch",MTV SIM HD
 http://38.7.131.2:8000/play/a0ew/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV Live HD (GUA)
+#EXTINF:-1 tvg-id="MTV SIM HD (GUA)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="verch",MTV SIM HD (GUA)
 http://190.122.186.88:8000/play/a0ie/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV SIM HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sv.png" group-title="verch",MTV SIM HD (HON)
+http://181.189.243.254:8000/play/a0sv/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="verch",Music Top (ARG)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
