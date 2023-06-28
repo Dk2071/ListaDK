@@ -142,23 +142,29 @@ http://190.122.186.88:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="verch",Teleritmo (720p)
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="Claro Musica" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Claro Musica
+#EXTINF:-1 tvg-id="Claro Musica" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="verch",Claro Musica
 http://190.122.186.88:8000/play/a0gl/index.m3u8
 
-#EXTINF:-1 tvg-id="Exa TV" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Exa TV
+#EXTINF:-1 tvg-id="Exa TV" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="verch",Exa TV
 http://38.7.131.2:8000/play/a06d/index.m3u8
 
-#EXTINF:-1 tvg-id="Exa TV" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Exa TV (Gua)
+#EXTINF:-1 tvg-id="Exa TV" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="verch",Exa TV (Gua)
 http://190.122.186.88:8000/play/a0hz/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="verch",MTV
+#EXTINF:-1 tvg-id="MTV (GUA)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="verch",MTV (GUA)
 http://190.122.186.88:8000/play/a0j0/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="verch",MTV 00s
+#EXTINF:-1 tvg-id="MTV 00s (GUA)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="verch",MTV 00s (GUA)
 http://190.122.186.88:8000/play/a0gm/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rf.png" group-title="verch",MTV 00s (HON)
+#EXTINF:-1 tvg-id="MTV 00s (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rf.png" group-title="verch",MTV 00s (HON)
 http://181.189.243.254:8000/play/a0rf/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV 00S HD" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="verch",MTV 00S HD
+http://38.7.131.2:8000/play/a0ex/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV 00S HD (GUA)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="verch",MTV 00S HD (GUA)
+http://190.122.186.88:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 00s HD (HON)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="verch",MTV 00s HD (HON)
 http://181.189.243.254:8000/play/a0sw/index.m3u8
@@ -166,7 +172,7 @@ http://181.189.243.254:8000/play/a0sw/index.m3u8
 #EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="verch",MTV 80s
 http://38.7.131.2:8000/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="verch",MTV 80s (GUA) 
+#EXTINF:-1 tvg-id="MTV 80s (GUA)" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="verch",MTV 80s (GUA) 
 http://190.122.186.88:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 80s (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0po.png" group-title="verch",MTV 80s (HON) 
@@ -175,26 +181,20 @@ http://181.189.243.254:8000/play/a0po/index.m3u8
 #EXTINF:-1 tvg-id="MTV Hits" tvg-logo="https://i.imgur.com/Hpu8fxL.png" group-title="verch",MTV Hits
 http://38.7.131.2:8000/play/a06u/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="https://i.imgur.com/Hpu8fxL.png" group-title="verch",MTV Hits (GUA)
+#EXTINF:-1 tvg-id="MTV Hits (GUA)" tvg-logo="https://i.imgur.com/Hpu8fxL.png" group-title="verch",MTV Hits (GUA)
 http://190.122.186.88:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV Hits (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pn.png" group-title="verch",MTV Hits (HON)
 http://181.189.243.254:8000/play/a0pn/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV HD
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="verch",MTV HD
 http://38.7.131.2:8000/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV HD (GUA)
+#EXTINF:-1 tvg-id="MTV HD (GUA)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="verch",MTV HD (GUA)
 http://190.122.186.88:8000/play/a0fd/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pz.png" group-title="verch",MTV HD (HON)
 http://181.189.243.254:8000/play/a0pz/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV 00S HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV 00S HD
-http://38.7.131.2:8000/play/a0ex/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV 00S HD (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",MTV 00S HD (GUA)
-http://190.122.186.88:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV SIM HD" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="verch",MTV SIM HD
 http://38.7.131.2:8000/play/a0ew/index.m3u8
@@ -566,19 +566,25 @@ http://190.122.186.88:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="ESPN (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0se.png" group-title="verch",ESPN (HON)
 http://181.189.243.254:8000/play/a0se/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="verch",ESPN HD (GUA)
+#EXTINF:-1 tvg-id="ESPN HD (GUA)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="verch",ESPN HD (GUA)
 http://190.122.186.88:8000/play/a0jn/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t4.png" group-title="verch",ESPN HD (HON)
+#EXTINF:-1 tvg-id="ESPN HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t4.png" group-title="verch",ESPN HD (HON)
 http://181.189.243.254:8000/play/a0t4/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN HD (HON2)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t4.png" group-title="verch",ESPN HD (HON2)
+http://45.166.92.22:58001/play/a01g/index.m3u8 
+
+#EXTINF:-1 tvg-id="ESPN+ (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0py.png" group-title="verch",ESPN+ (HON)
+http://181.189.243.254:8000/play/a0rc/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN+" tvg-logo="https://i.imgur.com/2N9sg90.png" group-title="verch",ESPN+
 http://38.7.131.2:8000/play/a071/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (GUA)" tvg-logo="https://i.imgur.com/2N9sg90.png" group-title="verch",ESPN+ (GUA)
+#EXTINF:-1 tvg-id="ESPN+ HD (GUA)" tvg-logo="https://i.imgur.com/2N9sg90.png" group-title="verch",ESPN+ HD (GUA)
 http://190.122.186.88:8000/play/a0fc/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+ (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0py.png" group-title="verch",ESPN+ (HON)
+#EXTINF:-1 tvg-id="ESPN+ HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0py.png" group-title="verch",ESPN+ HD (HON)
 http://181.189.243.254:8000/play/a0py/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="verch",ESPN2
@@ -596,6 +602,9 @@ http://190.122.186.88:8000/play/a0jp/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2 HD (HON)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="verch",ESPN2 HD (HON)
 http://181.189.243.254:8000/play/a0t6/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN2 HD (HON2)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="verch",ESPN2 HD (HON2)
+http://45.166.92.22:58001/play/a01i/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="verch",ESPN3
 http://38.7.131.2:8000/play/a08r/index.m3u8
 
@@ -610,6 +619,9 @@ http://190.122.186.88:8000/play/a0jo/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3 HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t5.png" group-title="verch",ESPN3 HD (HON)
 http://181.189.243.254:8000/play/a0t5/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3 HD (HON2)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t5.png" group-title="verch",ESPN3 HD (HON2)
+http://45.166.92.22:58001/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="verch",ESPN4 (GUA)
 http://190.122.186.88:8000/play/a0iz/index.m3u8
@@ -1118,4 +1130,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 
 #EXTINF:-1 tvg-id="PlutoTVMTVEmbarazadaalos16.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="USA",Pluto TV MTV Embarazada a los 16 (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
 
