@@ -235,13 +235,19 @@ http://38.7.131.2:8000/play/a0eb/index.m3u8
 #EXTINF:-1 tvg-id="E! Entertairment HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",E! Entertairment HD (GUA)
 http://190.122.186.88:8000/play/a0fk/index.m3u8
 
-#EXTINF:-1 tvg-id="El Gourmet " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",El Gourmet
+#EXTINF:-1 tvg-id="El Gourmet (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",El Gourmet (GUA)
 http://190.122.186.88:8000/play/a0gz/index.m3u8
 
-#EXTINF:-1 tvg-id="HOLA! TV HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HOLA! TV HD
+#EXTINF:-1 tvg-id="Mas Chic (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nu.png" group-title="verch",Mas Chic (HON)
+http://181.189.243.254:8000/play/a0nu/index.m3u8
+
+#EXTINF:-1 tvg-id="HOLA! TV (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0nz.png" group-title="verch",HOLA! TV (HON)
+http://181.189.243.254:8000/play/a0nz/index.m3u8
+
+#EXTINF:-1 tvg-id="HOLA! TV HD (GUA)" tvg-logo="https://i.imgur.com/W3TTedy.png" group-title="verch",HOLA! TV HD (GUA)
 http://190.122.186.88:8000/play/a0ic/index.m3u8
 
-#EXTINF:-1 tvg-id="HTV " tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/htv.jpg" group-title="verch",HTV
+#EXTINF:-1 tvg-id="HTV" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/htv.jpg" group-title="verch",HTV
 http://190.122.186.88:8000/play/a0gn/index.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlus.cl" tvg-country="CL;PE" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="verch",Retro Plus (720p)
@@ -253,8 +259,11 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="verch",Retro Plus 3 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="+23 (PAN)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",+23 (PAN)
+#EXTINF:-1 tvg-id="MAS23TV (PAN)" tvg-logo="https://i.imgur.com/xQPeXgW.png" group-title="verch",MAS23TV (PAN)
 http://190.122.186.88:8000/play/a0g6/index.m3u8
+
+#EXTINF:-1 tvg-id="MAS23TV (PAN)" tvg-logo="https://i.imgur.com/xQPeXgW.png" group-title="verch",MAS23TV (PAN)
+http://181.189.243.254:8000/play/a0qx/index.m3u8
 
 #EXTINF:1 tvg-id="TEN TV (HON)" tvg-logo="https://tencanal10.tv/wp-content/uploads/2023/04/cropped-TEN-BUEN-CANAL.png" group-title="verch",TEN TV (HON)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
@@ -364,21 +373,6 @@ http://190.122.186.88:8000/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-id="Canal Claro HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Canal Claro HD
 http://190.122.186.88:8000/play/a0e6/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO HD
-http://190.122.186.88:8000/play/a0e8/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2 HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO2 HD
-http://190.122.186.88:8000/play/a0eP/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Plus HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO Plus HD
-http://190.122.186.88:8000/play/a0ea/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Family HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO Family HD
-http://190.122.186.88:8000/play/a0ec/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2 HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO2 HD
-http://190.122.186.88:8000/play/a0et/index.m3u8
-
 #EXTINF:-1 tvg-id="DHE" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",DHE (GUA)
 http://190.122.186.88:8000/play/a0e2/index.m3u8
 
@@ -397,6 +391,48 @@ http://190.122.186.88:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="LIFE TIME (GUA})" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",LIFE TIME
 http://190.122.186.88:8000/play/a0ez/index.m3u8
 
+#EXTINF:-1 tvg-id="SONY (GUA)" tvg-logo="https://i.imgur.com/h5NVg9h.png" group-title="verch",SONY (GUA)
+http://190.122.186.88:8000/play/a0ho/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sk.png" group-title="verch",SONY (HON)
+http://181.189.243.254:8000/play/a0s5/index.m3u8 
+
+#EXTINF:-1 tvg-id="SONY HD (GUA)" tvg-logo="https://i.imgur.com/h5NVg9h.png" group-title="verch",SONY HD (GUA)
+http://190.122.186.88:8000/play/a0i3/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sk.png" group-title="verch",SONY HD (HON)
+http://181.189.243.254:8000/play/a0sk/index.m3u8 
+  
+#EXTINF:-1 tvg-id="SONY MOVIES HD (GUA)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="verch",SONY MOVIES HD (GUA)
+http://190.122.186.88:8000/play/a0fr/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY MOVIES HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0qc.png" group-title="verch",SONY MOVIES HD (HON)
+http://181.189.243.254:8000/play/a0qc/index.m3u8 
+
+#EXTINF:-1 tvg-id="SPACE (GUA)" tvg-logo="https://i.imgur.com/15K5toU.png" group-title="verch",SPACE (GUA)
+http://190.122.186.88:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-id="SPACE (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ph.png" group-title="verch",SPACE (HON)
+http://181.189.243.254:8000/play/a0ph/index.m3u8  
+
+#EXTINF:-1 tvg-id="SPACE HD (GUA)" tvg-logo="https://i.imgur.com/15K5toU.png" group-title="verch",SPACE HD (GUA)
+http://190.122.186.88:8000/play/a0jj/index.m3u8
+
+#EXTINF:-1 tvg-id="SPACE HD (HON)" tvg-logo="https://i.imgur.com/15K5toU.png" group-title="verch",SPACE HD (HON)
+http://45.166.92.22:58001/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR CHANNEL (GUA)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="verch",STAR CHANNEL (GUA)
+http://190.122.186.88:8000/play/a0iu/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR CHANNEL (COL)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="verch",STAR CHANNEL (HON)
+http://191.97.14.59:8045/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR CHANNEL HD (GUA)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="verch",STAR CHANNEL (GUA)
+http://190.122.186.88:8000/play/a0i1/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR CHANNEL HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0si.png" group-title="verch",STAR CHANNEL HD (HON)
+http://181.189.243.254:8000/play/a0si/index.m3u8
+
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Warner
 http://190.122.186.88:8000/play/a0hp/index.m3u8
 
@@ -406,10 +442,25 @@ http://190.122.186.88:8000/play/a0i2/index.m3u8 (GUA)
 #EXTINF:-1 tvg-id="Warner HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Warner HD (GUA)
 http://38.7.131.2:8000/play/a0an/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO HD
+http://190.122.186.88:8000/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2 HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO2 HD
+http://190.122.186.88:8000/play/a0eP/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO Plus HD
+http://190.122.186.88:8000/play/a0ea/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO Family HD
+http://190.122.186.88:8000/play/a0ec/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2 HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",HBO2 HD
+http://190.122.186.88:8000/play/a0et/index.m3u8
+
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",TVE
 http://190.122.186.88:8000/play/a0k2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b9cvzgC.png" group-title="verch",MyTime movie network Mexico (720p)
+#EXTINF:-1 tvg-id="MyTime movie" tvg-logo="https://i.imgur.com/b9cvzgC.png" group-title="verch",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Atres Series" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="verch",Atres Series
@@ -640,47 +691,17 @@ http://190.122.186.88:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",DISNEY (GUA)
 http://190.122.186.88:8000/play/a0it/index.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",DISNEY JR (GUA)
+#EXTINF:-1 tvg-id="DISNEY JR (GUA)" tvg-logo="https://i.imgur.com/vIqqz7a.png" group-title="verch",DISNEY JR (GUA)
 http://190.122.186.88:8000/play/a0eq/index.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY JR (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pb.png" group-title="verch",DISNEY JR (HON)
+http://181.189.243.254:8000/play/a0pb/index.m3u8
 
 #EXTINF:-1 tvg-id="Teen Nick HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Teen Nick HD (GUA)
 http://190.122.186.88:8000/play/a0fg/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Tooncast (GUA)
 http://190.122.186.88:8000/play/a0hm/index.m3u8
-
----------------------------------
-
- 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 119. Nat Geo HD http://190.122.186.88:8000/play/a0jr/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 120. National Geographic http://190.122.186.88:8000/play/a0ey/index.m3u8 
-
-#EXTINF:-1 group-title="Lista 6 Guatemala", 133. SONY http://190.122.186.88:8000/play/a0ho/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 134. SONY HD http://190.122.186.88:8000/play/a0i3/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 135. Sony Movies HD http://190.122.186.88:8000/play/a0fr/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 136. SPACE http://190.122.186.88:8000/play/a0ev/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 137. SPACE HD http://190.122.186.88:8000/play/a0jj/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 138. STAR CHANNEL http://190.122.186.88:8000/play/a0iu/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 139. STAR CHANNEL HD http://190.122.186.88:8000/play/a0i1/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 140. Star TVE HD http://190.122.186.88:8000/play/a0fu/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 141. Studio Universal http://190.122.186.88:8000/play/a0j7/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 142. Studio Universal HD http://190.122.186.88:8000/play/a0fh/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 143. Sun Channel http://190.122.186.88:8000/play/a0gg/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 144. SyFy http://190.122.186.88:8000/play/a0hs/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 145 TBN Enlace http://190.122.186.88:8000/play/a0kb/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 146. TBS http://190.122.186.88:8000/play/a0ex/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 147. TCM http://190.122.186.88:8000/play/a0gp/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 158. TLC http://190.122.186.88:8000/play/a0hw/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 159. TNT http://190.122.186.88:8000/play/a0f4/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 160. TNT HD http://190.122.186.88:8000/play/a0i9/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 161. TNT Series http://190.122.186.88:8000/play/a0ew/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 162. TNT Series HD http://190.122.186.88:8000/play/a0jt/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 164. Tru TV http://190.122.186.88:8000/play/a0es/index.m3u8
-#EXTINF:-1 group-title="Lista 6 Guatemala", 166. Universal http://190.122.186.88:8000/play/a0j2/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 167. UNIVERSAL CINEMA ESTE HD http://190.122.186.88:8000/play/a0jz/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 169. UNIVERSAL CRIME HD http://190.122.186.88:8000/play/a0ij/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 170. UNIVERSAL PREMIERE HD http://190.122.186.88:8000/play/a0ig/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 171. UNIVERSAL PREMIERE O HD http://190.122.186.88:8000/play/a0ih/index.m3u8 
 
 + XXX +
 
@@ -715,6 +736,27 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 ++++++++++++++++++++++++++++
 
 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 140. Star TVE HD http://190.122.186.88:8000/play/a0fu/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 141. Studio Universal http://190.122.186.88:8000/play/a0j7/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 142. Studio Universal HD http://190.122.186.88:8000/play/a0fh/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 143. Sun Channel http://190.122.186.88:8000/play/a0gg/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 144. SyFy http://190.122.186.88:8000/play/a0hs/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 145 TBN Enlace http://190.122.186.88:8000/play/a0kb/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 146. TBS http://190.122.186.88:8000/play/a0ex/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 147. TCM http://190.122.186.88:8000/play/a0gp/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 158. TLC http://190.122.186.88:8000/play/a0hw/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 159. TNT http://190.122.186.88:8000/play/a0f4/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 160. TNT HD http://190.122.186.88:8000/play/a0i9/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 161. TNT Series http://190.122.186.88:8000/play/a0ew/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 162. TNT Series HD http://190.122.186.88:8000/play/a0jt/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 164. Tru TV http://190.122.186.88:8000/play/a0es/index.m3u8
+#EXTINF:-1 group-title="Lista 6 Guatemala", 166. Universal http://190.122.186.88:8000/play/a0j2/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 167. UNIVERSAL CINEMA ESTE HD http://190.122.186.88:8000/play/a0jz/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 169. UNIVERSAL CRIME HD http://190.122.186.88:8000/play/a0ij/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 170. UNIVERSAL PREMIERE HD http://190.122.186.88:8000/play/a0ig/index.m3u8 
+#EXTINF:-1 group-title="Lista 6 Guatemala", 171. UNIVERSAL PREMIERE O HD http://190.122.186.88:8000/play/a0ih/index.m3u8 
+
+---------------------------------
 
 #EXTINF:-1 group-title="Lista 6 Guatemala", 028. Canal Antigua GUA http://190.122.186.88:8000/play/a0h7/index.m3u8  
 #EXTINF:-1 group-title="Lista 6 Guatemala", 052. Digital 15 - RD http://190.122.186.88:8000/play/a0g0/index.m3u8 
@@ -749,9 +791,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 -----------------------------------------
-
-
-------+++++
 
 
 #EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-logo="https://i.imgur.com/0bznKvP.jpg" group-title="Undefined",Multimedios Guadalajara (720p) [Geo-blocked]
@@ -1079,3 +1118,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 
 #EXTINF:-1 tvg-id="PlutoTVMTVEmbarazadaalos16.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="USA",Pluto TV MTV Embarazada a los 16 (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
