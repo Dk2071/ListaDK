@@ -844,23 +844,6 @@ http://190.122.186.88:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Tooncast (GUA)
 http://190.122.186.88:8000/play/a0hm/index.m3u8
 
-+ XXX +
-
-#EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Hustler HD
-http://45.166.92.22:58001/play/a04s/index.m3u8
-
-#EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Penthouse
-http://45.166.92.22:58001/play/a04c/index.m3u8
-
-#EXTINF:-1 tvg-id="Playboy" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Playboy
-http://45.170.225.210:58001/play/a02h/index.m3u8
-
-#EXTINF:-1 tvg-id="Venus" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Venus
-http://190.122.186.88:8000/play/a0gu/index.m3u8
-
-#EXTINF:-1 tvg-id="Playboy" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Playboy
-http://190.122.186.88:8000/play/a0ed/index.m3u8
-
 ------------- Canales de LATINOAMERICA -
 
 #EXTINF:-1 tvg-id="DigitalVision.do" tvg-country="DO" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Dominican Republic",Digital Vision (720p)
