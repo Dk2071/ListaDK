@@ -358,14 +358,20 @@ http://38.7.131.2:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="Golden Premiere 2 HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Golden Premiere 2 HD
 http://38.7.131.2:8000/play/a07e/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="verch",AXN (HON)
+#EXTINF:-1 tvg-id="AXN (HON)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="verch",AXN (HON)
 http://181.189.243.254:8000/play/a0pp/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="verch",AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="verch",AXN HD
 http://38.7.131.2:8000/play/a09u/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN HD (GUA)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pp.png" group-title="verch",AXN HD (GUA)
+#EXTINF:-1 tvg-id="AXN HD (GUA)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="verch",AXN HD (GUA)
 http://190.122.186.88:8000/play/a0ji/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN (ESP)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="verch",AXN HD (ESP)
+http://iptvch.com:2082/j7Ns2g8Qd4E5fI/k78Slf4Dsdo9f0Nd2/136053
+
+#EXTINF:-1 tvg-id="AXN WHITE (ESP)" tvg-logo="https://i.imgur.com/uXH9LNQ.jpg" group-title="verch",AXN WHITE (ESP)
+http://iptvch.com:2082/j7Ns2g8Qd4E5fI/k78Slf4Dsdo9f0Nd2/136054
 
 #EXTINF:-1 tvg-id="Paramount (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Paramount (GUA)
 http://190.122.186.88:8000/play/a0e3/index.m3u8
