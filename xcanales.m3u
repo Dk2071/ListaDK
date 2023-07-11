@@ -541,6 +541,9 @@ http://190.122.186.88:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="HBO HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0or.png" group-title="verch",HBO HD (HON)
 http://181.189.243.254:8000/play/a0or/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO HD (HON2)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="verch",HBO HD (HON2)
+http://45.166.92.22:58001/play/a03s/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO2 HD" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="verch",HBO2 HD
 http://38.7.131.2:8000/play/a07p/index.m3u8
 
@@ -553,6 +556,9 @@ http://190.122.186.88:8000/play/a0et/index.m3u8
 #EXTINF:-1 tvg-id="HBO2 HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0os.png" group-title="verch",HBO2 HD (HON)
 http://181.189.243.254:8000/play/a0os/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO2 HD (HON2)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="verch",HBO2 HD (HON2)
+http://45.166.92.22:58001/play/a03t/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="verch",HBO Plus HD
 http://38.7.131.2:8000/play/a07q/index.m3u8
 
@@ -561,6 +567,9 @@ http://190.122.186.88:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ot.png" group-title="verch",HBO Plus HD (HON)
 http://181.189.243.254:8000/play/a0ot/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus HD (HON2)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="verch",HBO Plus HD (HON2)
+http://45.166.92.22:58001/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="verch",HBO Family HD
 http://38.7.131.2:8000/play/a07r/index.m3u8
@@ -575,7 +584,10 @@ http://181.189.243.254:8000/play/a0ou/index.m3u8
 http://38.7.131.2:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ov.png" group-title="verch",HBO Xtreme HD (HON)
-http://181.189.243.254:8000/play/a0ov/index.m3u8 
+http://181.189.243.254:8000/play/a0ov/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Xtreme HD (HON2)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="verch",HBO Xtreme HD (HON2)
+http://45.166.92.22:58001/play/a03w/index.m3u8 
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",TVE
 http://190.122.186.88:8000/play/a0k2/index.m3u8
