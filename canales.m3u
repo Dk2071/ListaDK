@@ -382,6 +382,9 @@ http://181.189.243.254:8000/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-id="Paramount HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t9.png" group-title="verch",Paramount HD (HON)
 http://181.189.243.254:8000/play/a0t9/index.m3u8
 
+#EXTINF:-1 tvg-id="Paramount HD (HON2)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Paramount HD (HON2)
+http://45.166.92.22:58001/play/a01l/index.m3u8
+
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Comedy Central HD (GUA)
 http://190.122.186.88:8000/play/a0id/index.m3u8
 
@@ -406,7 +409,10 @@ http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="ISAT" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",ISAT
 http://190.122.186.88:8000/play/a0j3/index.m3u8
 
-#EXTINF:-1 tvg-id="LIFE TIME (GUA})" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",LIFE TIME
+#EXTINF:-1 tvg-id="LIFE TIME" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="verch",LIFE TIME
+http://38.7.131.2:8000/play/a09z/index.m3u8
+
+#EXTINF:-1 tvg-id="LIFE TIME (GUA)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="verch",LIFE TIME (GUA)
 http://190.122.186.88:8000/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY (GUA)" tvg-logo="https://i.imgur.com/h5NVg9h.png" group-title="verch",SONY (GUA)
@@ -415,12 +421,18 @@ http://190.122.186.88:8000/play/a0ho/index.m3u8
 #EXTINF:-1 tvg-id="SONY (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sk.png" group-title="verch",SONY (HON)
 http://181.189.243.254:8000/play/a0s5/index.m3u8 
 
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://i.imgur.com/h5NVg9h.png" group-title="verch",SONY HD
+http://38.7.131.2:8000/play/a0ao/index.m3u8
+
 #EXTINF:-1 tvg-id="SONY HD (GUA)" tvg-logo="https://i.imgur.com/h5NVg9h.png" group-title="verch",SONY HD (GUA)
 http://190.122.186.88:8000/play/a0i3/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sk.png" group-title="verch",SONY HD (HON)
 http://181.189.243.254:8000/play/a0sk/index.m3u8 
-  
+
+#EXTINF:-1 tvg-id="SONY MOVIES HD" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="verch",SONY MOVIES HD  
+http://38.7.131.2:8000/play/a0ei/index.m3u8
+
 #EXTINF:-1 tvg-id="SONY MOVIES HD (GUA)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="verch",SONY MOVIES HD (GUA)
 http://190.122.186.88:8000/play/a0fr/index.m3u8
 
@@ -432,6 +444,9 @@ http://190.122.186.88:8000/play/a0ev/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ph.png" group-title="verch",SPACE (HON)
 http://181.189.243.254:8000/play/a0ph/index.m3u8  
+
+#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://i.imgur.com/15K5toU.png" group-title="verch",SPACE HD
+http://38.7.131.2:8000/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE HD (GUA)" tvg-logo="https://i.imgur.com/15K5toU.png" group-title="verch",SPACE HD (GUA)
 http://190.122.186.88:8000/play/a0jj/index.m3u8
@@ -445,7 +460,10 @@ http://190.122.186.88:8000/play/a0iu/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL (COL)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="verch",STAR CHANNEL (HON)
 http://191.97.14.59:8045/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-id="STAR CHANNEL HD (GUA)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="verch",STAR CHANNEL (GUA)
+#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="verch",STAR CHANNEL HD
+http://38.7.131.2:8000/play/a06e/index.m3u8 
+
+#EXTINF:-1 tvg-id="STAR CHANNEL HD (GUA)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="verch",STAR CHANNEL HD (GUA)
 http://190.122.186.88:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0si.png" group-title="verch",STAR CHANNEL HD (HON)
@@ -460,8 +478,14 @@ http://190.122.186.88:8000/play/a0i2/index.m3u8 (GUA)
 #EXTINF:-1 tvg-id="Warner HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Warner HD (GUA)
 http://38.7.131.2:8000/play/a0an/index.m3u8
 
-#EXTINF:-1 tvg-id="Studio Universal (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Studio Universal (GUA)
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="verch",Studio Universal
+http://38.7.131.2:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal (GUA)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="verch",Studio Universal (GUA)
 http://190.122.186.88:8000/play/a0j7/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="verch",Studio Universal HD
+http://38.7.131.2:8000/play/a0e9/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal HD (GUA)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="verch",Studio Universal HD (GUA)
 http://190.122.186.88:8000/play/a0fh/index.m3u8
@@ -587,7 +611,7 @@ http://38.7.131.2:8000/play/a07s/index.m3u8
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme HD (HON2)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="verch",HBO Xtreme HD (HON2)
-http://45.166.92.22:58001/play/a03w/index.m3u8  
+http://45.166.92.22:58001/play/a03w/index.m3u8 
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",TVE
 http://190.122.186.88:8000/play/a0k2/index.m3u8
@@ -598,7 +622,10 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Atres Series" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="verch",Atres Series
 http://38.7.131.2:8000/play/a079/index.m3u8
 
-#EXTINF:-1 tvg-id="Multipremier" tvg-logo="https://i.imgur.com/UuKNFEt.png" group-title="verch",Multipremier (GUA)
+#EXTINF:-1 tvg-id="Multipremier" tvg-logo="https://i.imgur.com/UuKNFEt.png" group-title="verch",Multipremier
+http://38.7.131.2:8000/play/a09g/index.m3u8
+
+#EXTINF:-1 tvg-id="Multipremier (GUA)" tvg-logo="https://i.imgur.com/UuKNFEt.png" group-title="verch",Multipremier (GUA)
 http://190.122.186.88:8000/play/a0j4/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR TVE HD (GUA)" tvg-logo="https://i.imgur.com/MJ5KyrW.png" group-title="verch",STAR TVE HD (GUA)
@@ -1286,3 +1313,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 
 #EXTINF:-1 tvg-id="PlutoTVMTVEmbarazadaalos16.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="USA",Pluto TV MTV Embarazada a los 16 (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+
