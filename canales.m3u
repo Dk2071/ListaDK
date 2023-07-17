@@ -2,14 +2,26 @@
 
 - CABLE VERCH -
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="verch",Azteca Uno (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="verch",Azteca Uno HD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",ADN 40 (480p)
+#EXTINF:-1 tvg-id="Azteca UNO HD (HON)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="verch",Azteca UNO HD (HON)
+http://201.190.40.41:58002/play/a00q/index.m3u8 
+
+#EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="verch",A Más (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ADN 40 (HON)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",ADN 40 (HON)
+http://201.190.40.41:58002/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="A Más" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="verch",A Más
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="A Más (HON)" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="verch",A Más (HON)
+http://201.190.40.41:58002/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7 (HON)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="verch",Azteca 7 (HON)
+http://201.190.40.41:58002/play/a00r/index.m3u8 
 
 #EXTINF:-1 tvg-id="Canal de las Estrellas HD" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="verch",Canal de las Estrellas HD
 http://190.122.186.88:8000/play/hjkP/index.m3u8
@@ -279,6 +291,7 @@ http://181.189.243.254:8000/play/a0qx/index.m3u8
 
 #EXTINF:1 tvg-id="TEN TV (HON)" tvg-logo="https://tencanal10.tv/wp-content/uploads/2023/04/cropped-TEN-BUEN-CANAL.png" group-title="verch",TEN TV (HON)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
 
 + Series y Películas RD +
 
@@ -753,8 +766,9 @@ http://190.122.186.88:8000/play/a0fl/index.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 + Deportes +
+
 #EXTINF:-1 tvg-id="Bein Sports Esp" tvg-logo="https://i.imgur.com/40oggyi.png" group-title="verch",Bein Sports Esp
-http://bgtv.site/play/23-701.php?a=176&token=hulahula
+http://bgtv.site/play/play-777.php?h=50422&token=sadfasdfasdasdf
 
 #EXTINF:-1 tvg-id="TUDN (GUA)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="verch",TUDN (GUA) 
 http://190.122.186.88:8000/play/a0k0/index.m3u8
@@ -859,22 +873,28 @@ http://190.122.186.88:8000/play/a0jh/index.m3u8
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://i.imgur.com/YX1oHhH.png" group-title="verch",FOX Deportes
-http://bgtv.site/play/23-701.php?a=38&token=hulahula
+http://bgtv.site/play/play-777.php?h=93158&token=sadfasdfasdasdf
+
+#EXTINF:-1 tvg-id="FOX Deportes HD" tvg-logo="https://i.imgur.com/YX1oHhH.png" group-title="verch",FOX Deportes HD
+http://bgtv.site/play/play-777.php?h=1510&token=sadfasdfasdasdf
 
 #EXTINF:-1 tvg-id="FOX SPORTS Premium HD (MX)" tvg-logo="https://i.imgur.com/q2xv9Gv.jpg" group-title="verch",FOX SPORTS Premium HD (MX)
-http://bgtv.site/play/23-701.php?a=69&token=hulahula
+http://bgtv.site/play/play-777.php?h=53549&token=sadfasdfasdasdf
 
-#EXTINF:-1 tvg-id="FOX SPORTS (MX)" tvg-logo="https://i.imgur.com/4VrO230.png" group-title="verch",FOX SPORTS (MX)
-http://bgtv.site/play/play-777.php?h=16552&token=sadfasdfasdasdf
+#EXTINF:-1 tvg-id="FOX SPORTS HD (MX)" tvg-logo="https://i.imgur.com/4VrO230.png" group-title="verch",FOX SPORTS HD (MX)
+http://bgtv.site/play/play-777.php?h=44074&token=sadfasdfasdasdf
 
 #EXTINF:-1 tvg-id="FOX SPORTS 1 HD (CHI)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="verch",FOX SPORTS 1 (CHI)
-http://bgtv.site/play/23-701.php?a=42&token=hulahula
-
-#EXTINF:-1 tvg-id="FOX SPORTS 1 HD (USA)" tvg-logo="https://i.imgur.com/19g4sIc.png" group-title="verch",FOX SPORTS 1 (USA)
-http://bgtv.site/play/23-701.php?a=221&token=hulahula
+http://45.160.15.1:8111/play/a0qg
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2 (COL)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="verch",FOX SPORTS 2 (COL)
 http://191.97.14.59:8045/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD (MX)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="verch",FOX SPORTS 2 HD (MX)
+http://168.228.194.33:48001/play/a0bu/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD (PER)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="verch",FOX SPORTS 2 (PER)
+http://190.83.60.34:1414/play/a02x
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="verch",FOX SPORTS 3
 http://38.7.131.2:8000/play/a06t/index.m3u8
@@ -887,6 +907,9 @@ http://181.189.243.254:8000/play/a0pm/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3 (COL)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pm.png" group-title="verch",FOX SPORTS 3 (COL)
 http://191.97.14.59:8045/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3 HD (MX)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="verch",FOX SPORTS 3 HD (MX)
+http://168.228.194.33:48001/play/a0b8/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3 HD (GUA)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="verch",FOX SPORTS 3 HD (GUA)
 http://190.122.186.88:8000/play/a0jq/index.m3u8
