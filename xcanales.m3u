@@ -754,6 +754,8 @@ http://190.122.186.88:8000/play/a0fl/index.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 + Deportes +
+#EXTINF:-1 tvg-id="Bein Sports Esp" tvg-logo="https://i.imgur.com/40oggyi.png" group-title="verch",Bein Sports Esp
+http://bgtv.site/play/23-701.php?a=176&token=hulahula
 
 #EXTINF:-1 tvg-id="TUDN (GUA)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="verch",TUDN (GUA) 
 http://190.122.186.88:8000/play/a0k0/index.m3u8
