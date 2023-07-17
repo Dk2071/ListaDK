@@ -859,6 +859,21 @@ http://190.122.186.88:8000/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4 HD (HON)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="verch",ESPN4 HD (HON)
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
+#EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://i.imgur.com/YX1oHhH.png" group-title="verch",FOX Deportes
+http://bgtv.site/play/23-701.php?a=38&token=hulahula
+
+#EXTINF:-1 tvg-id="FOX SPORTS Premium HD (MX)" tvg-logo="https://i.imgur.com/q2xv9Gv.jpg" group-title="verch",FOX SPORTS Premium HD (MX)
+http://bgtv.site/play/23-701.php?a=69&token=hulahula
+
+#EXTINF:-1 tvg-id="FOX SPORTS (MX)" tvg-logo="https://i.imgur.com/4VrO230.png" group-title="verch",FOX SPORTS (MX)
+http://bgtv.site/play/23-701.php?a=40&token=hulahula
+
+#EXTINF:-1 tvg-id="FOX SPORTS 1 HD (CHI)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="verch",FOX SPORTS 1 (CHI)
+http://bgtv.site/play/23-701.php?a=42&token=hulahula
+
+#EXTINF:-1 tvg-id="FOX SPORTS 1 HD (USA)" tvg-logo="https://i.imgur.com/19g4sIc.png" group-title="verch",FOX SPORTS 1 (USA)
+http://bgtv.site/play/23-701.php?a=221&token=hulahula
+
 #EXTINF:-1 tvg-id="FOX SPORTS 2 (COL)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="verch",FOX SPORTS 2 (COL)
 http://191.97.14.59:8045/play/a01t/index.m3u8
 
