@@ -380,10 +380,10 @@ http://38.7.131.2:8000/play/a09u/index.m3u8
 http://190.122.186.88:8000/play/a0ji/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN (ESP)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="verch",AXN HD (ESP)
-http://iptvch.com:2082/j7Ns2g8Qd4E5fI/k78Slf4Dsdo9f0Nd2/136053
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136053
 
 #EXTINF:-1 tvg-id="AXN WHITE (ESP)" tvg-logo="https://i.imgur.com/uXH9LNQ.jpg" group-title="verch",AXN WHITE (ESP)
-http://iptvch.com:2082/j7Ns2g8Qd4E5fI/k78Slf4Dsdo9f0Nd2/136054
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136054
 
 #EXTINF:-1 tvg-id="Paramount (GUA)" tvg-logo="https://i.imgur.com/8rDzaSs.png" group-title="verch",Paramount (GUA)
 http://190.122.186.88:8000/play/a0e3/index.m3u8
@@ -396,6 +396,9 @@ http://181.189.243.254:8000/play/a0t9/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount HD (HON2)" tvg-logo="https://i.imgur.com/UZN4sGf.png" group-title="verch",Paramount HD (HON2)
 http://45.166.92.22:58001/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount (ESP)" tvg-logo="https://i.imgur.com/8rDzaSs.png" group-title="verch",Paramount (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/86436 
 
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Comedy Central HD (GUA)
 http://190.122.186.88:8000/play/a0id/index.m3u8
@@ -480,6 +483,9 @@ http://190.122.186.88:8000/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0si.png" group-title="verch",STAR CHANNEL HD (HON)
 http://181.189.243.254:8000/play/a0si/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX HD (ESP)" tvg-logo="https://i.imgur.com/7fgevcn.png" group-title="verch",FOX HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136057
 
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Warner
 http://190.122.186.88:8000/play/a0hp/index.m3u8
@@ -634,6 +640,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Atres Series" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="verch",Atres Series
 http://38.7.131.2:8000/play/a079/index.m3u8
 
+#EXTINF:-1 tvg-id="Atres Series HD (ESP)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="verch",Atres Series HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136062
+
 #EXTINF:-1 tvg-id="Multipremier" tvg-logo="https://i.imgur.com/UuKNFEt.png" group-title="verch",Multipremier
 http://38.7.131.2:8000/play/a09g/index.m3u8
 
@@ -681,6 +690,30 @@ http://190.122.186.88:8000/play/a0gp/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0ri.png" group-title="verch",TCM (HON)
 http://181.189.243.254:8000/play/a0ri/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="verch",Comedy Central HD
+http://38.7.131.2:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HD (HON)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="verch",Comedy Central HD (HON)
+http://181.189.243.254:8000/play/a0su/index.m3u8
+
+#EXTINF:-1 tvg-id="Movistar Drama HD (ESP)" tvg-logo="https://i.imgur.com/5ta1ZIa.png" group-title="verch",Movistar Drama HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136071
+
+#EXTINF:-1 tvg-id="Movistar Acción HD (ESP)" tvg-logo="https://i.imgur.com/u5T94zd.png" group-title="verch",Movistar Acción HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136065
+
+#EXTINF:-1 tvg-id="Movistar Comedia HD (ESP)" tvg-logo="https://i.imgur.com/CIyDNMb.png" group-title="verch",Movistar Comedia HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136068
+
+#EXTINF:-1 tvg-id="Movistar Estrenos HD (ESP)" tvg-logo="https://i.imgur.com/6Q6tmiq.png" group-title="verch",Movistar Estrenos HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136072
+
+#EXTINF:-1 tvg-id="Movistar Cine Español HD (ESP)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="verch",Movistar Cine Español HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/136066
+
+#EXTINF:-1 tvg-id="Be Mad HD (ESP)" tvg-logo="https://i.imgur.com/nLBcFRG.png" group-title="verch",Be Mad HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/139690
 
 + Artes y Cultura +
 
@@ -979,375 +1012,5 @@ http://190.122.186.88:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Tooncast (GUA)
 http://190.122.186.88:8000/play/a0hm/index.m3u8
 
-------------- Canales de LATINOAMERICA -
-
-#EXTINF:-1 tvg-id="DigitalVision.do" tvg-country="DO" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Dominican Republic",Digital Vision (720p)
-https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GDMTV.do" tvg-country="DO" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Dominican Republic",GDMTV (720p)
-https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-------------- REVISAR FALTA
-
-#EXTINF:-1 group-title="Lista 6 Guatemala", 028. Canal Antigua GUA http://190.122.186.88:8000/play/a0h7/index.m3u8  
-#EXTINF:-1 group-title="Lista 6 Guatemala", 052. Digital 15 - RD http://190.122.186.88:8000/play/a0g0/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 036. CDN37 - RD http://190.122.186.88:8000/play/a0hk/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 037. CERTV http://190.122.186.88:8000/play/a0in/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 047. Color Vision 9 - RD http://190.122.186.88:8000/play/a0hj/index.m3u8
-
-#EXTINF:-1 group-title="Lista 6 Guatemala", 086. FUTV CR http://190.122.186.88:8000/play/a0io/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 087. FUTV HD CR http://190.122.186.88:8000/play/a0jm/index.m3u8
-#EXTINF:-1 group-title="Lista 6 Guatemala", 092. Guatevision - GUA http://190.122.186.88:8000/play/a0eh/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 121. NEXT (PAN) http://190.122.186.88:8000/play/a0g5/index.m3u8 
-
-#EXTINF:-1 group-title="Lista 6 Guatemala", 130. RHEMA TV http://190.122.186.88:8000/play/a0jg/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 131. Sembrador http://190.122.186.88:8000/play/a0gt/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 132. SEMILLITAS http://190.122.186.88:8000/play/a0er/index.m3u8
-#EXTINF:-1 group-title="Lista 6 Guatemala", 187. Canal 7 Gua http://190.122.186.88:8000/play/Tktv/index.m3u8
-#EXTINF:-1 group-title="Lista 6 Guatemala", 021. Canal 11 - GUA http://190.122.186.88:8000/play/a0fR/index.m3u8
-#EXTINF:-1 group-title="Lista 6 Guatemala", 022. Canal 13 - PAN http://190.122.186.88:8000/play/a0el/index.m3u8
-#EXTINF:-1 group-title="Lista 6 Guatemala", 023. Canal 13-GUA http://190.122.186.88:8000/play/a0fy/index.m3u8
-#EXTINF:-1 group-title="Lista 6 Guatemala", 024. Canal 2 - PAN http://190.122.186.88:8000/play/a0em/index.m3u8
-#EXTINF:-1 group-title="Lista 6 Guatemala", 025. Canal 3 - GUA http://190.122.186.88:8000/play/a0hh/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 026. Canal 4 - PAN http://190.122.186.88:8000/play/a0iq/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 150. Telecentro - RD http://190.122.186.88:8000/play/a0g3/index.m3u8 
- #EXTINF:-1 group-title="Lista 6 Guatemala", 151. TeleMicro - RD http://190.122.186.88:8000/play/a0hi/index.m3u8 
- #EXTINF:-1 group-title="Lista 6 Guatemala", 165. TV Max - PAN http://190.122.186.88:8000/play/a0ip/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 154. Telesistema RD http://190.122.186.88:8000/play/a0ek/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 155. Teleunion - RD http://190.122.186.88:8000/play/a0g4/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 156. Teleuniverso - RD http://190.122.186.88:8000/play/a0g2/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 185. TOTOVISION http://190.122.186.88:8000/play/ojkl/index.m3u8 
-#EXTINF:-1 group-title="Lista 6 Guatemala", 186. TN23 http://190.122.186.88:8000/play/oix5/index.m3u8
-
--MULTIMEDIOS-
-
-#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-logo="https://i.imgur.com/0bznKvP.jpg" group-title="Undefined",Multimedios Guadalajara (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-
-#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-logo="https://i.imgur.com/Zj8mOEo.png" group-title="Undefined",Multimedios Laguna (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/7OHMuRl.png" group-title="Undefined",Multimedios Monterrey (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Multimedios Puebla (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Multimedios Saltillo (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-
-#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelísima [Not 24/7]
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nueve TV San Luís Potosí (720p)
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-
-
--PLUTOTV MEXICO-
-
-#EXTINF:-1 tvg-id="PlutoTVMTVEnVivo.us" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="SERIES",Pluto TV MTV En Vivo (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVMTVLatino.us" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="MUSICA",Pluto TV MTV Latino (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTVMusicMadeinSpain.us" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="MUSICA",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",Pluto TV MTV Originals (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVMTVOriginalsSpain.us" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="SERIES",Pluto TV MTV Originals (Spain) (480p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTVPranks.us" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="SERIES",Pluto TV MTV Pranks (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTVRealities.us" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="SERIES",Pluto TV MTV Realities (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6130d8dc943001000708548d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVLosarchivosdelFBI.us" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="SERIES",Pluto TV Los archivos del FBI (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVLosnuevosdetectives.us" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Los nuevos detectives (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="LuchaLibreAAA.us" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Lucha Libre AAA (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="Comedy",Pluto TV Comedy Central Latino (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVCompetencias.us" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Competencias (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVCineEstelarSpain.es" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="PELICULAS",Pluto TV Cine Estelar (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVCineAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="USA",Pluto TV Cine Acción (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="USA",Pluto TV Cine Comédia (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="USA",Pluto TV Cine Drama (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="USA",Pluto TV Cine Estelar (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVCineFamília" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="USA",Pluto TV Cine Família (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVCineTerror.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="USA",Pluto TV Cine Terror (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVCocina.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="USA",Pluto TV Cocina (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0fbaa8742fa3093899da&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=956&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="USA",Pluto TV Comedy Central Latino (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVElEncantadordePerros.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="USA",Pluto TV El Encantador de Perros (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PLUTOTVENDIRECTOENVIVO.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://i.imgur.com/30HzeQe.png" group-title="USA",Pluto TV EN DIRECTO EN VIVO (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=a6f8
-
-#EXTINF:-1 tvg-id="PlutoTVIndies.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="USA",Pluto TV Indies (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVInvestiga.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="USA",Pluto TV Investiga (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b8f4f1ca3f0629f4bf1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=936&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVKids.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="USA",Pluto TV Kids (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVLosnuevosdetectives.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="USA",Pluto TV Los nuevos detectives (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVLuchaLibreAAA.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="USA",Pluto TV Lucha Libre AAA (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMasterChef.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="USA",Pluto TV MasterChef (360p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMinutoParaGanar.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="USA",Pluto TV Minuto Para Ganar (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="MisteriosMedicos.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="USA",Pluto TV Misterios Medicos (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMisteriossinResolver.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="USA",Pluto TV Misterios sin Resolver (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="USA",Pluto TV MTV (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTVBiggestPop.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="USA",Pluto TV MTV Biggest Pop (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVMTVClassic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="USA",Pluto TV MTV Classic (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTVLatino.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="USA",Pluto TV MTV Latino (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTVMusicMadeinSpain.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="USA",Pluto TV MTV Music Made in Spain (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVMTVTattooADos.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/611b87946b7f420007c22361/featuredImage.jpg?w=750&fm=png" group-title="USA",Pluto TV MTV Tattoo A Dos (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="USA",Pluto TV Naturaleza (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVNICK.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="USA",Pluto TV Nick (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVNickJrLatino.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="USA",Pluto TV Nick Jr. Latino (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVNickLatino.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="USA",Pluto TV Nick Latino (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVNovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="USA",Pluto TV Novelas (480p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVNovelasDrama.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="USA",Pluto TV Novelas Drama (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVNovelasDramas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="USA",Pluto TV Novelas Dramas (720p)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
-#EXTINF:-1 tvg-id="PlutoTVNovelasRomance.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="USA",Pluto TV Novelas Romance (720p)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
-#EXTINF:-1 tvg-id="PlutoTVNovelasRomance.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="USA",Pluto TV Novelas Romance (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVNovelasThriller.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="USA",Pluto TV Novelas Thriller (684p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVNuestraVision.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="USA",Pluto TV Nuestra Vision (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e6690befbdf780007f78158&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=920&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="USA",Pluto TV Paranormal (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce5214bb5790007ad3016/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVRealitiesESP.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="USA",Pluto TV Realities ESP (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b4d71754e6a4298d086e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=953&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVReality.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="USA",Pluto TV Reality (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVRugrats.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="USA",Pluto TV Rugrats (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVSeriesLatinas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="USA",Pluto TV Series Latinas (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="USA",Pluto TV Series Retro (480p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVSpikeAventura.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" group-title="USA",Pluto TV Spike Aventura (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d11baeb31c5a43b77bf59&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=950&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVTeen.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="USA",Pluto TV Teen (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVTelefeClasico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="USA",Pluto TV Telefe Clásico (480p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVTelefeNoticias.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="USA",Pluto TV Telefe Noticias (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="USA",Pluto TV Telemundo Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVTelenovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="USA",Pluto TV Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVTheNewDetectives.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="USA",Pluto TV The New Detectives (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVThePetCollective.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="USA",Pluto TV The Pet Collective (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVToonsClasico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="USA",Pluto TV Toons Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVTROL.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="USA",Pluto TV TROL (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVVelocidad.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="USA",Pluto TV Velocidad​ (360p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVVevoPop.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="USA",Pluto TV Vevo Pop (1080p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVVEVOReggeatonTrap.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="USA",Pluto TV VEVO Reggeaton & Trap (1080p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVVH1IClassic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="USA",Pluto TV VH1 Classics (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVWipeout.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="USA",Pluto TV Wipeout (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoBBCDrama.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="USA",Pluto BBC Drama (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTopGear.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="USA",Pluto Top Gear (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV EN DIRECTO EN VIVO (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
-
--PLUTOTV ESPAÑA-
-
-#EXTINF:-1 tvg-id="PlutoTVElConquistadordelFin.us" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV El Conquistador del Fin (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVElEncantadordePerros.us" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV El Encantador de Perros (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVAnaylos7.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="USA",Pluto TV Ana y los 7 (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVAndromeda.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" group-title="USA",Pluto TV Andrómeda (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVAnimeClasico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="USA",Pluto TV Anime Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVAsesinatosdeMidsomer.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="USA",Pluto TV Asesinatos de Midsomer (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="USA",Pluto TV Bob Esponja (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVBobEsponjaPlus.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="USA",Pluto TV Bob Esponja Plus (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVCocinaSpain.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="USA",Pluto TV Cocina (Spain) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVComediaMadeinSpain.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="USA",Pluto TV Comedia (Made in Spain) (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVCurroJimenez.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="USA",Pluto TV Curro Jiménez (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVElConquistadordelFin.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="USA",Pluto TV El Conquistador del Fin (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVEuronews.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="USA",Pluto TV Euronews (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVGarfield.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="USA",Pluto TV Garfield (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVKidsSpain.us" tvg-country="US" tvg-logo="hxxps://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="USA",Pluto TV Kids (Spain) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aab1d29b39600073e243f&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=910&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVLasreglasdeljuego.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="USA",Pluto TV Las reglas del juego (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVLaChicaInvisible.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="USA",Pluto TV La Chica Invisible (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVLoveNature.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="USA",Pluto TV Love Nature (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVMTVOriginals.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="USA",Pluto TV MTV Originals (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVMTVOriginalsSpain.us" tvg-country="US" tvg-logo="hxxps://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="USA",Pluto TV MTV Originals (Spain) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMundo.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="USA",Pluto TV Mundo (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d103f031154a4172d262b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=959&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMutanteX.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="USA",Pluto TV Mutante X (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVTheWalkingDeadESP.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxp://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="USA",Pluto TV The Walking Dead ESP (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVVayasemanita.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="USA",Pluto TV Vaya semanita (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="BBCDrama.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="USA",BBC Drama (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVMTVEmbarazadaalos16.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="USA",Pluto TV MTV Embarazada a los 16 (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-
+#EXTINF:-1 tvg-id="Dreamworks HD (ESP)" tvg-logo="https://i.imgur.com/XeLtvqV.png" group-title="verch",Dreamworks HD (ESP)
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565 
