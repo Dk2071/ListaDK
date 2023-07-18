@@ -146,19 +146,19 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="CorTV.mx" tvg-logo="https://i.imgur.com/NLO7HO4.png" group-title="verch",CorTV HD
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABC" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",ABC
+#EXTINF:-1 tvg-id="ABC" tvg-logo="https://i.imgur.com/UY1FwTn.png" group-title="verch",ABC
 http://72.76.116.158:8000/play/a08l/index.m3u8
 
-#EXTINF:-1 tvg-id="Caracol HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Caracol HD
+#EXTINF:-1 tvg-id="Caracol HD" tvg-logo="https://i.imgur.com/NBatagT.jpg" group-title="verch",Caracol HD
 http://190.83.60.34:1414/play/a054
 
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",RCN Novelas
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.imgur.com/42umkDy.jpg" group-title="verch",RCN Novelas
 http://38.7.131.2:8000/play/a08o/index.m3u8
 
-#EXTINF:-1 tvg-id="RCN Novelas HD" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="verch",RCN Novelas HD
+#EXTINF:-1 tvg-id="RCN Novelas HD" tvg-logo="https://i.imgur.com/42umkDy.jpg" group-title="verch",RCN Novelas HD
 http://45.179.140.242:8000/play/a0jf
 
-#EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Pasiones HD
+#EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://i.imgur.com/6vpIu3m.jpg" group-title="verch",Pasiones HD
 http://190.122.186.88:8000/play/a0jw/index.m3u8
 
 + Musical +
@@ -400,14 +400,17 @@ http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="Paramount (ESP)" tvg-logo="https://i.imgur.com/8rDzaSs.png" group-title="verch",Paramount (ESP)
 http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/86436 
 
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Comedy Central HD (GUA)
-http://190.122.186.88:8000/play/a0id/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal Claro " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Canal Claro
+#EXTINF:-1 tvg-id="Canal Claro (GUA)" tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="verch",Canal Claro (GUA)
 http://190.122.186.88:8000/play/a0eg/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal Claro HD " tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Canal Claro HD
+#EXTINF:-1 tvg-id="Canal Claro (HON)" tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="verch",Canal Claro (HON)
+http://181.189.243.254:8000/play/a0oy/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Claro HD (GUA) " tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="verch",Canal Claro HD (GUA)
 http://190.122.186.88:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Claro HD (HON)" tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="verch",Canal Claro HD (HON)
+http://181.189.243.254:8000/play/a0oo/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",DHE (GUA)
 http://190.122.186.88:8000/play/a0e2/index.m3u8
@@ -693,6 +696,9 @@ http://181.189.243.254:8000/play/a0ri/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="verch",Comedy Central HD
 http://38.7.131.2:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HD (GUA)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="verch",Comedy Central HD (GUA)
+http://190.122.186.88:8000/play/a0id/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central HD (HON)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="verch",Comedy Central HD (HON)
 http://181.189.243.254:8000/play/a0su/index.m3u8
