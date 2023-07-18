@@ -908,9 +908,6 @@ http://181.189.243.254:8000/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS 3 (COL)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pm.png" group-title="verch",FOX SPORTS 3 (COL)
 http://191.97.14.59:8045/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3 HD (MX)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="verch",FOX SPORTS 3 HD (MX)
-http://168.228.194.33:48001/play/a0b8/index.m3u8
-
 #EXTINF:-1 tvg-id="FOX SPORTS 3 HD (GUA)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="verch",FOX SPORTS 3 HD (GUA)
 http://190.122.186.88:8000/play/a0jq/index.m3u8
 
