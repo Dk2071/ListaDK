@@ -116,16 +116,19 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="BBC World" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",BBC World
 http://190.122.186.88:8000/play/a0f7/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="verch",CNNE
+#EXTINF:-1 tvg-id="CNNE" tvg-logo="https://i.imgur.com/pMDRKug.jpg" group-title="verch",CNNE
 http://209.91.213.10:8088/play/a014
+
+#EXTINF:-1 tvg-id="CNNE" tvg-logo="https://i.imgur.com/pMDRKug.jpg" group-title="verch",CNNE
+http://190.122.186.88:8000/play/a0f6/index.m3u8
 
 #EXTINF:-1 tvg-id="Estrella News" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="verch",Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Estrella News" tvg-logo="" group-title="verch",Estrella News (1080p)
+#EXTINF:-1 tvg-id="Estrella News" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="verch",Estrella News (1080p)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MVM Noticias.mx" tvg-logo="https://i.imgur.com/iP0LL9R.png" group-title="verch",MVS TV [Geo-blocked]
+#EXTINF:-1 tvg-id="MVS TV" tvg-logo="https://i.imgur.com/EzbA7Zc.png" group-title="verch",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="" group-title="verch",Euronews en Español (720p)
@@ -136,9 +139,6 @@ http://190.122.186.88:8000/play/a0f8/index.m3u8
 
 #EXTINF:-1 tvg-id="France24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="verch",France 24 HD
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
-#EXTINF:-1 tvg-id="CNNE" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",CNNE
-http://190.122.186.88:8000/play/a0f6/index.m3u8
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="verch",DW Español HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -229,8 +229,14 @@ http://190.122.186.88:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-id="MTV SIM HD (HON)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0sv.png" group-title="verch",MTV SIM HD (HON)
 http://181.189.243.254:8000/play/a0sv/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="verch",Music Top (ARG)
+#EXTINF:-1 tvg-id="Music Top (ARG)" tvg-logo="https://i.imgur.com/NYlEKjA.png" group-title="verch",Music Top (ARG)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Music Top (ARG)" tvg-logo="https://i.imgur.com/NYlEKjA.png" group-title="verch",Music Top (ARG)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="Music Top (ARG)" tvg-logo="https://i.imgur.com/NYlEKjA.png" group-title="verch",Music Top (ARG)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="verch",POP TV (542p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
@@ -241,14 +247,8 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="verch",Colosal TV (720p)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="verch",Music Top ARG
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-
 #EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="verch",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="verch",Music Top (ARG)
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertairment" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",E! Entertairment (GUA)
 http://190.122.186.88:8000/play/a0hq/index.m3u8
@@ -1019,4 +1019,4 @@ http://190.122.186.88:8000/play/a0fg/index.m3u8
 http://190.122.186.88:8000/play/a0hm/index.m3u8
 
 #EXTINF:-1 tvg-id="Dreamworks HD (ESP)" tvg-logo="https://i.imgur.com/XeLtvqV.png" group-title="verch",Dreamworks HD (ESP)
-http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565 
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
