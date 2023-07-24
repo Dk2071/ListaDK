@@ -372,10 +372,10 @@ http://190.122.186.88:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-id="AMC HD (PER)" tvg-logo="https://i.imgur.com/iX2raOz.png" group-title="verch",AMC HD (PER)
 http://190.83.60.34:1414/play/a03m
 
-#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Cine Latino
+#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://i.imgur.com/g4OMEWT.png" group-title="verch",Cine Latino
 http://38.7.131.2:8000/play/a09h/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Latino (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Cine Latino (GUA)
+#EXTINF:-1 tvg-id="Cine Latino (GUA)" tvg-logo="https://i.imgur.com/g4OMEWT.png" group-title="verch",Cine Latino (GUA)
 http://190.122.186.88:8000/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE CANAL HD" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="verch",CINE CANAL HD
