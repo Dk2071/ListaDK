@@ -1167,50 +1167,50 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 + INFANTIL +
 
-#EXTINF:-1 tvg-id="NICK" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",NICK
+#EXTINF:-1 tvg-id="NICK" tvg-logo="https://i.imgur.com/ds7yreU.png" group-title="verch",NICK
 http://38.7.131.2:8000/play/a095/index.m3u8
 
-#EXTINF:-1 tvg-id="NICK (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",NICK (GUA)
+#EXTINF:-1 tvg-id="NICK (GUA)" tvg-logo="https://i.imgur.com/ds7yreU.png" group-title="verch",NICK (GUA)
 http://190.122.186.88:8000/play/a0is/index.m3u8
 
-#EXTINF:-1 tvg-id="Baby First (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Baby First (GUA)
-http://190.122.186.88:8000/play/a0ga/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon NT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="verch",Cartoon NT HD
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="verch",Cartoonito HD
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon NT (GUA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="verch",Cartoon NT (GUA)
-http://190.122.186.88:8000/play/a0en/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon NT HD (GUA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="verch",Cartoon NT HD (GUA)
-http://190.122.186.88:8000/play/a0e7/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito (GUA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="verch",Cartoonito (GUA)
-http://190.122.186.88:8000/play/a0ep/index.m3u8
-
-#EXTINF:-1 tvg-id="NICK JR (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",NICK JR (GUA)
+#EXTINF:-1 tvg-id="NICK JR (GUA)" tvg-logo="https://i.imgur.com/xxm2V7O.png" group-title="verch",NICK JR (GUA)
 http://190.122.186.88:8000/play/a0eo/index.m3u8
 
-#EXTINF:-1 tvg-id="NICK SIM HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",NICK SIM HD
+#EXTINF:-1 tvg-id="NICK HD" tvg-logo="https://i.imgur.com/ds7yreU.png" group-title="verch",NICK SIM HD
 http://38.7.131.2:8000/play/a0ep/index.m3u8
 
-#EXTINF:-1 tvg-id="NICK SIM HD (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",NICK SIM HD (GUA)
+#EXTINF:-1 tvg-id="NICK HD (GUA)" tvg-logo="https://i.imgur.com/ds7yreU.png" group-title="verch",NICK SIM HD (GUA)
 http://190.122.186.88:8000/play/a0i7/index.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",DISNEY (GUA)
+#EXTINF:-1 tvg-id="Cartoon NT (GUA)" tvg-logo="https://i.imgur.com/pEQZO4v.png" group-title="verch",Cartoon NT (GUA)
+http://190.122.186.88:8000/play/a0en/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon NT HD" tvg-logo="https://i.imgur.com/pEQZO4v.png" group-title="verch",Cartoon NT HD
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon NT HD (GUA)" tvg-logo="https://i.imgur.com/pEQZO4v.png" group-title="verch",Cartoon NT HD (GUA)
+http://190.122.186.88:8000/play/a0e7/index.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY (GUA)" tvg-logo="https://i.imgur.com/L7bOWlc.png" group-title="verch",DISNEY (GUA)
 http://190.122.186.88:8000/play/a0it/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JR (GUA)" tvg-logo="https://i.imgur.com/vIqqz7a.png" group-title="verch",DISNEY JR (GUA)
 http://190.122.186.88:8000/play/a0eq/index.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY JR (Hon2)" tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0pb.png" group-title="verch",DISNEY JR (Hon2)
+#EXTINF:-1 tvg-id="DISNEY JR (Hon2)" tvg-logo="https://i.imgur.com/vIqqz7a.png" group-title="verch",DISNEY JR (Hon2)
 http://181.189.243.254:8000/play/a0pb/index.m3u8
 
-#EXTINF:-1 tvg-id="Teen Nick HD (GUA)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Teen Nick HD (GUA)
+#EXTINF:-1 tvg-id="Teen Nick HD (GUA)" tvg-logo="https://i.imgur.com/0O7nmty.png" group-title="verch",Teen Nick HD (GUA)
 http://190.122.186.88:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="verch",Tooncast (GUA)
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://i.imgur.com/UNP17YV.png" group-title="verch",Cartoonito HD
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito (GUA)" tvg-logo="https://i.imgur.com/UNP17YV.png" group-title="verch",Cartoonito (GUA)
+http://190.122.186.88:8000/play/a0ep/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/TlAJm2p.jpg" group-title="verch",Tooncast (GUA)
 http://190.122.186.88:8000/play/a0hm/index.m3u8
+
+#EXTINF:-1 tvg-id="Baby First (GUA)" tvg-logo="https://i.imgur.com/uZwiPGI.jpg" group-title="verch",Baby First (GUA)
+http://190.122.186.88:8000/play/a0ga/index.m3u8
