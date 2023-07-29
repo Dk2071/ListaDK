@@ -116,8 +116,8 @@ http://72.76.116.158:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="Unimas HD (NIC)" tvg-logo="https://i.imgur.com/XvCzxwm.png" group-title="verch",Unimas HD (NIC)
 http://45.170.225.210:58001/play/uu01/index.m3u8 
 
-#EXTINF:-1 tvg-id="Telemundo 47 HD" tvg-logo="https://i.imgur.com/srDQSQ2.png" group-title="verch",Telemundo 47 HD
-http://72.76.116.158:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo I (Gua5)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="verch",Telemundo I HD (Gua5)
+http://190.61.101.9:9000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo I HD (Gua3)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="verch",Telemundo I HD (Gua3)
 http://190.122.186.88:8000/play/a0fo/index.m3u8
@@ -131,7 +131,10 @@ http://181.189.243.254:8000/play/a0q9/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo I HD (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="verch",Telemundo I HD (Col1)
 http://200.69.87.250:12500/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo MIAMI HD (Hon1)" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="verch",Telemundo MIAMI HD (Hon1)
+#EXTINF:-1 tvg-id="Telemundo HD" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="verch",Telemundo HD
+http://72.76.116.158:8000/play/a07a/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo HD (Hon1)" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="verch",Telemundo HD (Hon1)
 http://181.189.243.254:8000/play/a0u5/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="verch",Univision
@@ -1320,11 +1323,14 @@ http://181.189.243.254:8000/play/a0ud/index.m3u8
 #EXTINF:-1 tvg-id="TUDN-MX (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="verch",TUDN (Gua3) 
 http://190.122.186.88:8000/play/a0k0/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN (NIC)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="verch",TUDN (NIC) 
-http://45.170.225.210:58001/play/a041/index.m3u8
-
 #EXTINF:-1 tvg-id="TUDN (Hon4)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="verch",TUDN (Hon4)
-http://168.228.194.33:48001/play/a0b9/index.m3u8 
+http://168.228.194.33:48001/play/a0b9/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN (Gua5)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="verch",TUDN (Gua5)
+http://190.61.101.9:9000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports (Gua5)" tvg-logo="https://i.imgur.com/pYAbKhE.png" group-title="verch",Sky Sports (Gua5)
+http://190.61.101.9:9000/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-id="Movistar Liga de Campeones HD (Hon4)" tvg-logo="https://i.imgur.com/N4c3W7w.png" group-title="verch",Movistar Liga de Campeones HD (Hon4) 
 http://168.228.194.33:48001/play/a0bi/index.m3u8
