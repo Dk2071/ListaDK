@@ -1,6 +1,7 @@
 #EXTM3U
 
-- LISTA GENERAL -
+#EXTINF:-1 tvg-id="Lista General" tvg-logo="https://i.imgur.com/8ToJw5B.png" group-title="verch",Lista General
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
 
 #EXTINF:-1 tvg-id="Azteca Uno (MX1)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="verch",Azteca Uno (MX1)
 http://187.189.125.28:8000/play/a043/index.m3u8
@@ -257,7 +258,8 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="verch",Platzi TV HD
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-+ Musical +
+#EXTINF:-1 tvg-id="Lista Musical" tvg-logo="https://i.imgur.com/ojEvKuR.png" group-title="verch",Lista Musical
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="verch",Teleritmo (720p)
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -373,7 +375,8 @@ http://181.189.243.254:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="MAS23TV.PAN (Gua3)" tvg-logo="https://i.imgur.com/xQPeXgW.png" group-title="verch",MAS23TV (Gua3)
 http://190.122.186.88:8000/play/a0g6/index.m3u8
 
-+ ENTRETENIMIENTO +
+#EXTINF:-1 tvg-id="Lista Entretenimiento" tvg-logo="https://i.imgur.com/ojEvKuR.png" group-title="verch",Lista Entretenimiento
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
 
 #EXTINF:-1 tvg-id="E! Entertainment (MX1)" tvg-logo="https://i.imgur.com/ON7XsWT.png" group-title="verch",E! Entertainment (MX1)
 http://187.189.125.28:8000/play/a055/index.m3u8
@@ -417,7 +420,8 @@ http://45.71.252.67:8000/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-id="ISAT (Gua3)" tvg-logo="https://i.imgur.com/tJ8snDT.png" group-title="verch",ISAT (Gua3)
 http://190.122.186.88:8000/play/a0j3/index.m3u8
 
-+ Series y Películas +
+#EXTINF:-1 tvg-id="Lista Series y Películas" tvg-logo="https://i.imgur.com/cO1o5o8.jpg" group-title="verch",Lista Series y Películas
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
 
 #EXTINF:-1 tvg-id="A&E (MX1)" tvg-logo="https://i.imgur.com/RqPtjKw.png" group-title="verch", A&E (MX1)
 http://187.189.125.28:8000/play/a052/index.m3u8
@@ -1286,7 +1290,8 @@ http://168.228.194.33:48001/play/a0be/index.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD (Hon4)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="verch",HBO Signature HD (Hon4)
 http://168.228.194.33:48001/play/a0bf/index.m3u8
 
-+ Artes y Cultura +
+#EXTINF:-1 tvg-id="Lista Artes y Cultura" tvg-logo="https://i.imgur.com/CwmBslH.png" group-title="verch",Lista Artes y Cultura
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
 
 #EXTINF:-1 tvg-id="Animal Planet (Hon1)" tvg-logo="https://i.imgur.com/XLschKu.jpg" group-title="verch",Animal Planet (Hon1)
 http://181.189.243.254:8000/play/a0sb/index.m3u8
@@ -1390,7 +1395,8 @@ http://200.69.87.250:12500/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="Home Garden Latino (Rd1)" tvg-logo="https://i.imgur.com/QSshy70.png" group-title="verch",Home Garden Latino (Rd1)
 http://38.7.131.2:8000/play/a0cu/index.m3u8
 
-+ Deportes +
+#EXTINF:-1 tvg-id="Lista Deportes" tvg-logo="https://i.imgur.com/OOz16C4.png" group-title="verch",Lista Deportes
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
 
 #EXTINF:-1 tvg-id="beIN SPORTS HD (Hon4)" tvg-logo="https://i.imgur.com/40oggyi.png" group-title="verch",beIN SPORTS HD (Hon4)
 http://168.228.194.33:48001/play/a002/index.m3u8
@@ -1641,7 +1647,8 @@ http://190.122.186.88:8000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="verch",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-+ INFANTIL +
+#EXTINF:-1 tvg-id="Lista Infantil" tvg-logo="https://i.imgur.com/3BARLKD.png" group-title="verch",Lista Infantil
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
 
 #EXTINF:-1 tvg-id="NICK (Rd1)" tvg-logo="https://i.imgur.com/ds7yreU.png" group-title="verch",NICK (Rd1)
 http://38.7.131.2:8000/play/a095/index.m3u8
@@ -1691,7 +1698,8 @@ http://190.122.186.88:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-id="Baby First (Gua3)" tvg-logo="https://i.imgur.com/uZwiPGI.jpg" group-title="verch",Baby First (Gua3)
 http://190.122.186.88:8000/play/a0ga/index.m3u8
 
-+ XXX +
+#EXTINF:-1 tvg-id="Lista XXX" tvg-logo="https://i.imgur.com/cU5EYiU.png" group-title="verch",Lista XXX
+http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/207565
 
 #EXTINF:-1 tvg-id="Blacked HD (Hon2)" tvg-logo="https://i.imgur.com/vuX9igf.png" group-title="verch",Blacked HD (Hon2)
 http://45.166.92.22:58001/play/a04s/index.m3u8
