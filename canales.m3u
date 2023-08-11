@@ -23,10 +23,10 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="ADN 40 (Hon)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 (Hon)
 http://201.190.40.41:58002/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas (MX0)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="verch",Las Estrellas (MX0)
+#EXTINF:-1 tvg-id="Las Estrellas (MX0)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas (MX0)
 http://187.188.232.236:1021/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas HD (MX0)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="verch",Las Estrellas HD (MX0)
+#EXTINF:-1 tvg-id="Las Estrellas HD (MX0)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas HD (MX0)
 http://187.188.232.236:1021/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas HD (Gua3)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas HD (Gua3)
@@ -202,6 +202,9 @@ http://45.225.95.171:8589/play/a00x
 
 #EXTINF:-1 tvg-id="RCN HD" tvg-logo="https://i.imgur.com/b8cYPi1.png" group-title="Verch" group-title="General",RCN HD
 http://200.69.87.250:12500/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones HD (Gua0)" tvg-logo="https://i.imgur.com/6vpIu3m.jpg" group-title="Verch" group-title="General",Pasiones HD (Gua0)
+http://45.228.234.193:16000/play/a0fe/index.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones HD (Gua3)" tvg-logo="https://i.imgur.com/6vpIu3m.jpg" group-title="Verch" group-title="General",Pasiones HD (Gua3)
 http://190.122.186.88:8000/play/a0jw/index.m3u8
