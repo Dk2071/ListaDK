@@ -287,6 +287,9 @@ http://168.228.194.33:48001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Atres Series (Hon1)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="Verch" group-title="General",Atres Series (Hon1)
 http://168.228.194.33:48001/play/a00n/index.m3u8
 
+#EXTINF:-1 tvg-id="Atres Series HD (Per3)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="Verch" group-title="General",Atres Series HD (Per3)
+http://177.53.153.21:8001/play/a02g/index.m3u8
+
 #EXTINF:-1 tvg-id="RT en Español HD (Hon1)" tvg-logo="https://i.imgur.com/z7w9igo.png" group-title="Verch" group-title="General",RT en Español HD (Hon1)
 http://168.228.194.33:48001/play/a0cb/index.m3u8
 
@@ -658,6 +661,9 @@ http://168.228.194.33:48001/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMax HD (Per1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Series&Pelis",CineMax HD (Per1)
 http://190.83.60.34:1414/play/a02f
+
+#EXTINF:-1 tvg-id="CineMax HD (Per3)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Series&Pelis",CineMax HD (Per3)
+http://177.53.153.21:8001/play/a02h/index.m3u8 
 
 #EXTINF:-1 tvg-id="FX (Mx0)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX (Mx0)
 http://187.188.232.236:1021/play/a01h/index.m3u8
