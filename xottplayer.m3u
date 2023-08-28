@@ -1259,7 +1259,7 @@ http://170.79.235.29:8000/play/122
 #EXTINF:-1 tvg-id="MX Old HD (CHI2)" tvg-logo="https://i.imgur.com/BNsjj5P.jpg" group-title="Verch" group-title="Series&Pelis",MX Old HD (CHI2)
 http://170.79.235.29:8000/play/123
 
-#EXTINF:-1 tvg-id="HBO (Mx0)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO SD (Mx0)
+#EXTINF:-1 tvg-id="HBO (Mx0)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO (Mx0)
 http://187.188.232.236:1021/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD (Rd1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO HD (Rd1)
@@ -1367,8 +1367,20 @@ http://200.69.87.250:12500/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="HBO Mundi (Mx0)" tvg-logo="https://i.imgur.com/Pl2f98K.png" group-title="Verch" group-title="Series&Pelis",HBO Mundi (Mx0)
 http://187.188.232.236:1021/play/a05i/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO Mundi (Ecua2)" tvg-logo="https://i.imgur.com/Pl2f98K.png" group-title="Verch" group-title="Series&Pelis",HBO Mundi (Ecua2)
+http://45.71.252.67:8000/play/a0l7/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO Mundi HD (Hon1)" tvg-logo="https://i.imgur.com/Pl2f98K.png" group-title="Verch" group-title="Series&Pelis",HBO Mundi  HD (Hon1)
 http://168.228.194.33:48001/play/a0bd/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Pop HD (Per1)" tvg-logo="https://i.imgur.com/CjKz57d.png" group-title="Verch" group-title="Series&Pelis",HBO Pop HD (Per1)
+http://190.83.60.34:1414/play/a01j
+
+#EXTINF:-1 tvg-id="HBO Pop HD (Chi3)" tvg-logo="https://i.imgur.com/CjKz57d.png" group-title="Verch" group-title="Series&Pelis",HBO Pop HD (Chi3)
+http://45.181.122.145:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Pop HD (Ven1)" tvg-logo="https://i.imgur.com/CjKz57d.png" group-title="Verch" group-title="Series&Pelis",HBO Pop HD (Ven1)
+http://38.41.8.1:8000/play/a00d
 
 #EXTINF:-1 tvg-id="HBO Pop HD (Hon1)" tvg-logo="https://i.imgur.com/CjKz57d.png" group-title="Verch" group-title="Series&Pelis",HBO Pop HD (Hon1)
 http://168.228.194.33:48001/play/a0be/index.m3u8
