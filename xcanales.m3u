@@ -5,20 +5,20 @@
 #EXTINF:-1 tvg-id="Azteca Uno (MX0)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno (MX0)
 http://187.188.232.236:1021/play/a002/index.m3u8
 
+#EXTINF:-1 tvg-id="Azteca UNO HD mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca UNO HD mx
+http://45.4.85.132:58002/play/a00q/index.m3u8
+
 #EXTINF:-1 tvg-id="Azteca Uno HD (MX0)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno HD (MX0)
 http://187.188.232.236:1021/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Uno HD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno HD
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Azteca UNO HD (Hon)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca UNO HD (Hon)
-http://201.190.40.41:58002/play/a00q/index.m3u8 
-
 #EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="ADN 40 (Hon)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 (Hon)
-http://201.190.40.41:58002/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="ADN 40 HD mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 HD mx
+http://45.4.85.132:58002/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas (Gua2)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas (Gua2)
 http://190.61.101.9:9000/play/a05n/index.m3u8
@@ -65,20 +65,20 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 #EXTINF:-1 tvg-id="Canal 6 HD Multimedios SALT HD" tvg-logo="https://i.imgur.com/MjE2XiL.png" group-title="Verch" group-title="General",Canal 6 HD Multimedios SALT HD
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
+#EXTINF:-1 tvg-id="Azteca 7 mx" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 mx
+http://45.4.85.132:58002/play/a00r/index.m3u8 
+
 #EXTINF:-1 tvg-id="Azteca 7 (Mx0)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 (Mx0)
 http://187.188.232.236:1021/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7 HD (Mx0)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 HD (Mx0)
 http://187.188.232.236:1021/play/a072/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7 (Hon)" tvg-logo="https://i.imgur.com/e617ebN.jpg" group-title="Verch" group-title="General",Azteca 7 (Hon)
-http://201.190.40.41:58002/play/a00r/index.m3u8 
+#EXTINF:-1 tvg-id="A Más+ mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Verch" group-title="General",A Más+ mx
+http://45.4.85.132:58002/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="A Más+" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Verch" group-title="General",A Más+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1 tvg-id="A Más+ (Hon)" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Verch" group-title="General",A Más+ (Hon)
-http://201.190.40.41:58002/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="AzClic HD (Rd1)" tvg-logo="https://i.imgur.com/CdIcbpi.png" group-title="Verch" group-title="General",AzClic HD (Rd1)
 http://38.7.131.2:8000/play/a0ek/index.m3u8
@@ -140,9 +140,6 @@ http://72.76.116.158:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="Unimas HD (NIC)" tvg-logo="https://i.imgur.com/XvCzxwm.png" group-title="Verch" group-title="General",Unimas HD (NIC)
 http://45.170.225.210:58001/play/uu01/index.m3u8 
 
-#EXTINF:-1 tvg-id="Telemundo I (Chi2)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Int (Chi2)
-http://170.79.235.29:8000/play/149
-
 #EXTINF:-1 tvg-id="Telemundo I (Gua1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Int (Gua1)
 http://45.228.234.41:16000/play/a08w/index.m3u8
 
@@ -157,12 +154,6 @@ http://190.122.186.88:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo I HD (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Int HD (Col1)
 http://200.69.87.250:12500/play/a03k/index.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo HD" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="General",Telemundo HD
-http://72.76.116.158:8000/play/a07a/index.m3u8
-
-#EXTINF:-1 tvg-id="Univision HD" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD
-http://72.76.116.158:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision HD (NIC)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD (NIC)
 http://45.170.225.210:58001/play/a01g/index.m3u8 
@@ -179,11 +170,11 @@ http://190.122.186.88:8000/play/a0jx/index.m3u8
 #EXTINF:-1 tvg-id="Unicable (Gua00)" tvg-logo="https://i.imgur.com/D1fcZFZ.png" group-title="Verch" group-title="General",Unicable (Gua00)
 http://181.78.105.146:2000/play/a08f/index.m3u8
 
+#EXTINF:-1 tvg-id="Telenovelas (Gua6)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (Gua6)
+http://181.78.105.146:8800/play/a07k
+
 #EXTINF:-1 tvg-id="Telenovelas (Col1)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (Col1)
 http://200.69.87.250:12500/play/a052/index.m3u8
-
-#EXTINF:-1 tvg-id="Telenovelas (Gua0)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (Gua0)
-http://45.228.232.205:16000/play/a08s/index.m3u8
 
 #EXTINF:-1 tvg-id="Estrella Games HD " tvg-logo="https://i.imgur.com/yrATk6i.png" group-title="Verch" group-title="General",Estrella Games HD
 https://estrella-games-oando.amagi.tv/playlist.m3u8
@@ -304,9 +295,6 @@ http://168.228.194.33:48001/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="RT en Español HD (Hon2)" tvg-logo="https://i.imgur.com/z7w9igo.png" group-title="Verch" group-title="General",RT en Español HD (Hon2)
 http://45.166.92.22:58001/play/a05j/index.m3u8
-
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Verch" group-title="General",Platzi TV HD
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
 + Musical +
 
@@ -474,7 +462,7 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28069
 #EXTINF:-1 tvg-id="E! Entertainment HD (Rd1)" tvg-logo="https://i.imgur.com/fpevH5y.png" group-title="Verch" group-title="Entretenimiento",E! Entertainment HD (Rd1)
 http://38.7.131.2:8000/play/a0eb/index.m3u8 
 
-#EXTINF:-1 tvg-id="E! Entertainment HD (Hon1)" tvg-logo="https://i.imgur.com/ON7XsWT.png" group-title="Verch" group-title="Entretenimiento",E! Entertainment HD (Hon1)
+#EXTINF:-1 tvg-id="E! Entertainment HD (Hon1)" tvg-logo="https://i.imgur.com/fpevH5y.png" group-title="Verch" group-title="Entretenimiento",E! Entertainment HD (Hon1)
 http://168.228.194.33:48001/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment HD (Gua3)" tvg-logo="https://i.imgur.com/fpevH5y.png" group-title="Verch" group-title="Entretenimiento",E! Entertainment HD (Gua3)
@@ -519,11 +507,8 @@ http://45.228.234.41:16000/play/a0c8/index.m3u8
 #EXTINF:-1 tvg-id="HOLA! TV HD (Gua3)" tvg-logo="https://i.imgur.com/W3TTedy.png" group-title="Verch" group-title="Entretenimiento",HOLA! TV HD (Gua3)
 http://190.122.186.88:8000/play/a0ic/index.m3u8
 
-#EXTINF:-1 tvg-id="Glitz* (Arg1)" tvg-logo="https://i.imgur.com/qqS0xEp.png" group-title="Verch" group-title="Entretenimiento",Glitz* (Arg1)
-http://45.5.151.150:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-id="Glitz* (Col2)" tvg-logo="https://i.imgur.com/qqS0xEp.png" group-title="Verch" group-title="Entretenimiento",Glitz* (Col2)
-http://204.199.120.34:16123/play/ch34
+#EXTINF:-1 tvg-id="Glitz* (Col5)" tvg-logo="https://i.imgur.com/qqS0xEp.png" group-title="Verch" group-title="Entretenimiento",Glitz* (Col5)
+http://45.4.3.75:8005/play/a06c
 
 #EXTINF:-1 tvg-id="ISAT (Mx0)" tvg-logo="https://i.imgur.com/tJ8snDT.png" group-title="Verch" group-title="Entretenimiento",ISAT (Mx0)
 http://187.188.232.236:1021/play/a03i/index.m3u8
@@ -533,6 +518,30 @@ http://190.122.186.88:8000/play/a0j3/index.m3u8
 
 #EXTINF:-1 tvg-id="ISAT (Col3)" tvg-logo="https://i.imgur.com/tJ8snDT.png" group-title="Verch" group-title="Entretenimiento",ISAT (Col3)
 http://181.78.8.90:16123/play/711
+
+#EXTINF:-1 tvg-id="Comedy Central (Mx0)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Entretenimiento",Comedy Central (Mx0)
+http://187.188.232.236:1021/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HD (Rd1)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Entretenimiento",Comedy Central HD (Rd1)
+http://38.7.131.2:8000/play/a0ev/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HD (Gua3)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Entretenimiento",Comedy Central HD (Gua3)
+http://190.122.186.88:8000/play/a0id/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HD (Gua4)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Entretenimiento",Comedy Central HD (Gua4)
+http://45.5.117.182:8000/play/a0id/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HD (Per1)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Entretenimiento",Comedy Central HD (Per1)
+http://190.83.60.34:1414/play/a02g
+
+#EXTINF:-1 tvg-id="Distrito Comedia (Gua0)" tvg-logo="https://i.imgur.com/y1tyldk.jpg" group-title="Verch" group-title="Entretenimiento",Distrito Comedia (Gua0)
+http://45.228.232.205:16000/play/a08t/index.m3u8
+
+#EXTINF:-1 tvg-id="Distrito Comedia HD (Gua00)" tvg-logo="https://i.imgur.com/y1tyldk.jpg" group-title="Verch" group-title="Entretenimiento",Distrito Comedia HD (Gua00)
+http://181.78.105.146:2000/play/a08t/index.m3u8
+
+#EXTINF:-1 tvg-id="Distrito Comedia HD (L33)" tvg-logo="https://i.imgur.com/y1tyldk.jpg" group-title="Verch" group-title="Entretenimiento",Distrito Comedia HD (L33) 
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27993
 
 + Series y Películas +
 
@@ -683,8 +692,8 @@ http://190.122.186.88:8000/play/a0j6/index.m3u8
 #EXTINF:-1 tvg-id="CineMax HD (L33)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Series&Pelis",CineMax HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27980
 
-#EXTINF:-1 tvg-id="CineMax HD (Hon1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Series&Pelis",CineMax HD (Hon1)
-http://168.228.194.33:48001/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="CineMax HD (Col5)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Series&Pelis",CineMax HD (Col5)
+http://45.4.3.75:8005/play/a07e
 
 #EXTINF:-1 tvg-id="CineMax HD (Per1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Series&Pelis",CineMax HD (Per1)
 http://190.83.60.34:1414/play/a02f
@@ -707,14 +716,14 @@ http://190.122.186.88:8000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-id="FX HD (Rd1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX HD (Rd1)
 http://38.7.131.2:8000/play/a0eg/index.m3u8
 
-#EXTINF:-1 tvg-id="FX HD (Hon1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX HD (Hon1)
-http://168.228.194.33:48001/play/a05w/index.m3u8
-
 #EXTINF:-1 tvg-id="FX HD (Gua4)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX HD (Gua4)
 http://45.5.117.182:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="FX HD (Gua3)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX HD (Gua3)
 http://190.122.186.88:8000/play/a0fp/index.m3u8
+
+#EXTINF:-1 tvg-id="FX HD (Col5)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX HD (Col5)
+http://45.4.3.75:8005/play/a04i
 
 #EXTINF:-1 tvg-id="FX HD (Per1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX HD (Per1)
 http://190.83.60.34:1414/play/a035
@@ -1255,30 +1264,6 @@ http://190.122.186.88:8000/play/a0gp/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM (Col1)" tvg-logo="https://i.imgur.com/64FYETr.png" group-title="Verch" group-title="Series&Pelis",TCM (Col1)
 http://200.69.87.250:12500/play/a04x/index.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central (Mx0)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Series&Pelis",Comedy Central (Mx0)
-http://187.188.232.236:1021/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central HD (Rd1)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Series&Pelis",Comedy Central HD (Rd1)
-http://38.7.131.2:8000/play/a0ev/index.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central HD (Gua3)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Series&Pelis",Comedy Central HD (Gua3)
-http://190.122.186.88:8000/play/a0id/index.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central HD (Gua4)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Series&Pelis",Comedy Central HD (Gua4)
-http://45.5.117.182:8000/play/a0id/index.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central HD (Per1)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Series&Pelis",Comedy Central HD (Per1)
-http://190.83.60.34:1414/play/a02g
-
-#EXTINF:-1 tvg-id="Distrito Comedia (Gua0)" tvg-logo="https://i.imgur.com/y1tyldk.jpg" group-title="Verch" group-title="Series&Pelis",Distrito Comedia (Gua0)
-http://45.228.232.205:16000/play/a08t/index.m3u8
-
-#EXTINF:-1 tvg-id="Distrito Comedia HD (Gua00)" tvg-logo="https://i.imgur.com/y1tyldk.jpg" group-title="Verch" group-title="Series&Pelis",Distrito Comedia HD (Gua00)
-http://181.78.105.146:2000/play/a08t/index.m3u8
-
-#EXTINF:-1 tvg-id="Distrito Comedia HD (L33)" tvg-logo="https://i.imgur.com/y1tyldk.jpg" group-title="Verch" group-title="Series&Pelis",Distrito Comedia HD (L33) 
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27993
 
 #EXTINF:-1 tvg-id="MX Family HD (CHI2)" tvg-logo="https://i.imgur.com/t3WI26Q.jpg" group-title="Verch" group-title="Series&Pelis",MX Family HD (CHI2)
 http://170.79.235.29:8000/play/120
@@ -1984,3 +1969,4 @@ http://187.188.232.236:1021/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-id="Playboy (Mx0)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Mx0)
 http://187.188.232.236:1021/play/a01t/index.m3u8
+
