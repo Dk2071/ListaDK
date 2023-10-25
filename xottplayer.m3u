@@ -1164,9 +1164,6 @@ http://170.79.235.29:8000/play/122
 #EXTINF:-1 tvg-id="MX Old HD (CHI2)" tvg-logo="https://i.imgur.com/BNsjj5P.jpg" group-title="Verch" group-title="Series&Pelis",MX Old HD (CHI2)
 http://170.79.235.29:8000/play/123
 
-#EXTINF:-1 tvg-id="Movistar Clásicos HD (Z1)" tvg-logo="https://i.imgur.com/LmkLaRP.png" group-title="verch",Movistar Clásicos HD (Z1)
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/205.m3u8
-
 #EXTINF:-1 tvg-id="HBO (Mx0)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO (Mx0)
 http://187.188.232.236:1021/play/a019/index.m3u8
 
@@ -1564,6 +1561,9 @@ http://45.228.232.205:16000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN HD (Hon2)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (Hon2)
 http://45.166.92.22:58001/play/a01g/index.m3u8 
 
+#EXTINF:-1 tvg-id="ESPN HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (🇲🇽) (Z1)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
+
 #EXTINF:-1 tvg-id="ESPN Extra (Mx0)" tvg-logo="https://i.imgur.com/2N9sg90.png" group-title="Verch" group-title="Deportes",ESPN Extra (Mx0)
 http://187.188.232.236:1021/play/a05c/index.m3u8
 
@@ -1599,6 +1599,12 @@ http://45.5.117.182:8000/play/a0jp/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 HD (Hon2)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN2 HD (Hon2)
 http://45.166.92.22:58001/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN2 HD (🇲🇽) (Z1)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 HD SUR (Per2)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD SUR (Per2)
+http://177.53.153.21:8001/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 (Mx0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN3 (Mx0)
 http://187.188.232.236:1021/play/a04k/index.m3u8
