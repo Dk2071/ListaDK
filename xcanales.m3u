@@ -413,7 +413,7 @@ http://181.78.12.119:16123/play/ch54/index.m3u8
 #EXTINF:-1 tvg-id="MI MUSICA REGIONAL HD (Ecua2)" tvg-logo="https://i.imgur.com/P1rgs5C.png" group-title="Verch" group-title="Musical",MI M REGIONAL HD (Ecua2)
 http://160.20.165.246:8000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-id="RUMBA TV HD (Col0)" tvg-logo="https://i.imgur.com/PYuwJdV.png" group-title="Verch" group-title="Musical",RUMBA TV HD (Col0)
+#EXTINF:-1 tvg-id="RUMBA TV1 HD (Col0)" tvg-logo="https://i.imgur.com/PYuwJdV.png" group-title="Verch" group-title="Musical",RUMBA TV HD (Col0)
 http://45.176.232.106:45000/play/a05w
 
 #EXTINF:-1 tvg-id="Music Top.ARG" tvg-logo="https://i.imgur.com/NYlEKjA.png" group-title="Verch" group-title="Musical",Music Top
