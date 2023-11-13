@@ -372,7 +372,7 @@ http://170.82.37.21:8000/play/a01z/index.m3u8
 http://161.132.243.192:50001/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-id="MI MUSICA REGGAETON HD (Col0)" tvg-logo="https://i.imgur.com/hJ8pzxO.png" group-title="Verch" group-title="Musical",MI M REGGAETON HD (Col0)
-http://181.78.74.226:45000/play/a04f/index.m3u8
+http://45.176.232.106:45000/play/a04f
 
 #EXTINF:-1 tvg-id="MI MUSICA REGGAETON HD (Col2)" tvg-logo="https://i.imgur.com/hJ8pzxO.png" group-title="Verch" group-title="Musical",MI M REGGAETON HD (Col2)
 http://181.78.12.119:16123/play/ch53/index.m3u8
@@ -381,7 +381,7 @@ http://181.78.12.119:16123/play/ch53/index.m3u8
 http://160.20.165.246:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="MI MUSICA POPULAR HD (Col0)" tvg-logo="https://i.imgur.com/P1rgs5C.png" group-title="Verch" group-title="Musical",MI M POPULAR HD (Col0)
-http://181.78.74.226:45000/play/a04e/index.m3u8
+http://45.176.232.106:45000/play/a04e
 
 #EXTINF:-1 tvg-id="MI MUSICA POPULAR HD (Col2)" tvg-logo="https://i.imgur.com/P1rgs5C.png" group-title="Verch" group-title="Musical",MI M POPULAR HD (Col2)
 http://181.78.12.119:16123/play/ch56/index.m3u8
@@ -390,7 +390,10 @@ http://181.78.12.119:16123/play/ch56/index.m3u8
 http://160.20.165.246:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="MI MUSICA SALSA HD (Col0)" tvg-logo="https://i.imgur.com/zsZssiv.png" group-title="Verch" group-title="Musical",MI M SALSA HD (Col0)
-http://181.78.74.226:45000/play/a04h/index.m3u8
+http://45.176.232.106:45000/play/a05v
+
+#EXTINF:-1 tvg-id="MI MUSICA SALSA HD (Col2)" tvg-logo="https://i.imgur.com/zsZssiv.png" group-title="Verch" group-title="Musical",MI M SALSA HD (Col2)
+http://181.78.12.119:16123/play/ch55/index.m3u8
 
 #EXTINF:-1 tvg-id="MI MUSICA SALSA HD (Ecua1)" tvg-logo="https://i.imgur.com/zsZssiv.png" group-title="Verch" group-title="Musical",MI M SALSA HD (Ecua1)
 http://177.234.230.226:8010/play/a021/index.m3u8
@@ -398,14 +401,11 @@ http://177.234.230.226:8010/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="MI MUSICA SALSA HD (Ecua2)" tvg-logo="https://i.imgur.com/zsZssiv.png" group-title="Verch" group-title="Musical",MI M SALSA HD (Ecua2)
 http://160.20.165.246:8000/play/a01a/index.m3u8
 
-#EXTINF:-1 tvg-id="MI MUSICA SALSA HD (Col2)" tvg-logo="https://i.imgur.com/zsZssiv.png" group-title="Verch" group-title="Musical",MI M SALSA HD (Col2)
-http://181.78.12.119:16123/play/ch55/index.m3u8
-
 #EXTINF:-1 tvg-id="MI MUSICA REGIONAL HD (Ecua2)" tvg-logo="https://i.imgur.com/P1rgs5C.png" group-title="Verch" group-title="Musical",MI M REGIONAL HD (Ecua2)
 http://160.20.165.246:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="MI MUSICA ROMANTICA HD (Col0)" tvg-logo="https://i.imgur.com/rBZyzR0.png" group-title="Verch" group-title="Musical",MI M ROMANTICA HD (Col0)
-http://181.78.74.226:45000/play/a04g/index.m3u8
+http://45.176.232.106:45000/play/a05u
 
 #EXTINF:-1 tvg-id="MI MUSICA ROMANTICA HD (Col2)" tvg-logo="https://i.imgur.com/rBZyzR0.png" group-title="Verch" group-title="Musical",MI M ROMANTICA HD (Col2)
 http://181.78.12.119:16123/play/ch54/index.m3u8
