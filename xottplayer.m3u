@@ -482,7 +482,7 @@ http://181.78.105.146:6060/play/a03n
 #EXTINF:-1 tvg-id="MTV Live (Z1)" tvg-logo="https://i.imgur.com/TYCw1zW.png" group-title="Verch" group-title="Musical",MTV Live (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/108.m3u8
 
-#EXTINF:-1 tvg-id="MTV Classic HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/u5CRnVu.png" group-title="Verch" group-title="Musical",MTV Classic HD (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="MTV Classic HD (Z1)" tvg-logo="https://i.imgur.com/u5CRnVu.png" group-title="Verch" group-title="Musical",MTV Classic HD (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/94.m3u8
 
 #EXTINF:-1 tvg-id="VH1 HD (🇮🇹) (Z1)" tvg-logo="https://i.imgur.com/Q3Ki3U1.png" group-title="Verch" group-title="Musical",VH1 HD (🇮🇹) (Z1)
