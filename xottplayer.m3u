@@ -195,7 +195,7 @@ http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="Unicable HD (L33)" tvg-logo="https://i.imgur.com/D1fcZFZ.png" group-title="Verch" group-title="General",Unicable HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28043
 
-#EXTINF:-1 tvg-id="Galavisión HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/kKWBfyO.png" group-title="Verch" group-title="General",Galavisión HD (🇲🇽) (Z1)
+#EXTINF:-1 tvg-id="Galavisión HD mx (Z1)" tvg-logo="https://i.imgur.com/kKWBfyO.png" group-title="Verch" group-title="General",Galavisión HD mx (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/174.m3u8
 
 #EXTINF:-1 tvg-id="Telenovelas (Gua6)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (Gua6)
@@ -315,7 +315,7 @@ http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="Antena 3 HD (🇪🇸)" tvg-logo="https://i.imgur.com/4RVFHzB.png" group-title="Verch" group-title="General",Antena 3 HD (🇪🇸)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
 
-#EXTINF:-1 tvg-id="Telecinco HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/9UxJiyj.png" group-title="Verch" group-title="General",Telecinco HD (🇪🇸) (Z1)
+#EXTINF:-1 tvg-id="Telecinco HD es (Z1)" tvg-logo="https://i.imgur.com/9UxJiyj.png" group-title="Verch" group-title="General",Telecinco HD es (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/203.m3u8
 
 #EXTINF:-1 tvg-id="RT en Español HD (X1)" tvg-logo="https://i.imgur.com/z7w9igo.png" group-title="Verch" group-title="General",RT en Español HD (X1)
@@ -813,7 +813,7 @@ http://190.149.66.90:4000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="Golden (Gua4)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Series&Pelis",Golden (Gua4)
 http://45.5.117.182:8000/play/a0go/index.m3u8
 
-#EXTINF:-1 tvg-id="Golden Edge HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Series&Pelis",Golden Edge HD (🇲🇽) (Z1)
+#EXTINF:-1 tvg-id="Golden Edge HD mx (Z1)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Series&Pelis",Golden Edge HD mx (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
 
 #EXTINF:-1 tvg-id="Golden Edge HD mx (L33)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Series&Pelis",Golden Edge HD mx (L33)
