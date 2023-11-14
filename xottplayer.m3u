@@ -505,7 +505,7 @@ http://45.176.232.106:45000/play/a02v
 #EXTINF:-1 tvg-id="El Gourmet (GuaX1)" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet (GuaX1)
 http://45.228.232.205:16000/play/a05c/index.m3u8
 
-#EXTINF:-1 tvg-id="El Gourmet mx (Z1)" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet mx (Z1)
+#EXTINF:-1 tvg-id="El Gourmet (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet (🇲🇽) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/219.m3u8
 
 #EXTINF:-1 tvg-id="El Gourmet HD (PerX2)" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (PerX2)
@@ -777,7 +777,7 @@ http://187.251.240.25:1099/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="FX (Gua6)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX (Gua6)
 http://181.78.105.146:8800/play/a01y
 
-#EXTINF:-1 tvg-id="FX mx (Z1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX mx (Z1)
+#EXTINF:-1 tvg-id="FX HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX HD (🇲🇽) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
 
 #EXTINF:-1 tvg-id="FX HD (GuaX1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Series&Pelis",FX HD (GuaX1)
@@ -1158,7 +1158,7 @@ http://190.149.66.90:4000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="TLC (Hon2)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Series&Pelis",TLC (Hon1)
 http://45.166.92.22:58001/play/a04o/index.m3u8 
 
-#EXTINF:-1 tvg-id="TLC (🇨🇱) (Z1)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Series&Pelis",TLC (🇨🇱) (Z1)
+#EXTINF:-1 tvg-id="TLC HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Series&Pelis",TLC HD (🇲🇽) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/124.m3u8
 
 #EXTINF:-1 tvg-id="TLC (Col1)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Series&Pelis",TLC (Col1)
@@ -1281,6 +1281,9 @@ http://187.251.240.25:1099/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family (Ven1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Series&Pelis",HBO Family (Ven1)
 http://38.41.8.1:8000/play/a05k
 
+#EXTINF:-1 tvg-id="HBO Family HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Series&Pelis",HBO Family HD (🇲🇽) (Z1)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/73.m3u8
+
 #EXTINF:-1 tvg-id="HBO Family HD (GuaX1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Series&Pelis",HBO Family HD (GuaX1)
 http://45.228.232.205:16000/play/a043/index.m3u8
 
@@ -1332,14 +1335,14 @@ http://187.102.209.92:9010/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="HBO Signature (GuaX2)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Series&Pelis",HBO Signature (GuaX2)
 http://187.251.240.25:1099/play/a01o/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO Signature HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Series&Pelis",HBO Signature HD (🇲🇽) (Z1)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/182.m3u8
+
 #EXTINF:-1 tvg-id="HBO Signature HD (PerX2)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Series&Pelis",HBO Signature HD (PerX2)
 http://161.132.243.192:50001/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature HD (X2)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Series&Pelis",HBO Signature HD (X2)
 http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO Signature HD mx (Z1)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Series&Pelis",HBO Signature HD mx (Z1)
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/182.m3u8
 
 #EXTINF:-1 tvg-id="Drama Movistar+ HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/5ta1ZIa.png" group-title="Verch" group-title="Series&Pelis",Drama Movistar+ HD (🇪🇸) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/146.m3u8
@@ -1347,11 +1350,14 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/146.m3u8
 #EXTINF:-1 tvg-id="USA HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Series&Pelis",USA HD (🇺🇸) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/191.m3u8
 
-#EXTINF:-1 tvg-id="ALGOx HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/aEa2qgC.png" group-title="Verch" group-title="Series&Pelis",ALGOx HD (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="HBO HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO HD (🇺🇸) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/222.m3u8
 
-#EXTINF:-1 tvg-id="ALGOx HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/aEa2qgC.png" group-title="Verch" group-title="Series&Pelis",ALGOx HD (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="HBO HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO HD (🇺🇸) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/223.m3u8
+
+#EXTINF:-1 tvg-id="USA HD us (Z1)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Series&Pelis",USA HD us (Z1)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/191.m3u8
 
 + Artes & Cultura +
 
@@ -1546,6 +1552,9 @@ http://161.132.243.192:50001/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="Food Network HD (Per3)" tvg-logo="https://i.imgur.com/owEro5d.png" group-title="Verch" group-title="Artes&Cultura",Food Network HD (Per3)
 HD http://187.102.209.92:9010/play/a04w/index.m3u8 
+
+#EXTINF:-1 tvg-id="Home Garden Latino (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/QSshy70.png" group-title="Verch" group-title="Artes&Cultura",Home Garden Latino (🇲🇽) (Z1)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/225.m3u8
 
 #EXTINF:-1 tvg-id="Home Garden Latino (GuaX1)" tvg-logo="https://i.imgur.com/QSshy70.png" group-title="Verch" group-title="Artes&Cultura",Home Garden Latino (GuaX1)
 http://45.228.232.205:16000/play/a03a/index.m3u8
