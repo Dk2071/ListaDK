@@ -847,6 +847,9 @@ http://190.149.66.90:4000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="Golden (Gua4)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Series&Pelis",Golden (Gua4)
 http://45.5.117.182:8000/play/a0go/index.m3u8
 
+#EXTINF:-1 tvg-id="Golden (VIX)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Series&Pelis",Golden (VIX)
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Golden Edge HD mx (Z1)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Series&Pelis",Golden Edge HD mx (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
 
@@ -859,6 +862,9 @@ http://161.132.243.192:50001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="Golden Edge HD (Col1)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Series&Pelis",Golden Edge HD (Col1)
 http://200.69.87.250:12500/play/a04m/index.m3u8
 
+#EXTINF:-1 tvg-id="Golden Plus (VIX)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Series&Pelis",Golden PLUS (VIX)
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Golden Plus HD (L33)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Series&Pelis",Golden PLUS HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28016
 
@@ -870,6 +876,9 @@ http://161.132.243.192:50001/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="Golden Plus HD (Per3)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Series&Pelis",Golden PLUS HD (Per3)
 http://187.102.209.92:9010/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden Premiere (VIX)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Series&Pelis",Golden Premiere (VIX)
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden Premiere HD (Hon5)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Series&Pelis",Golden Premiere HD (Hon5)
 http://170.82.37.21:8000/play/a02e/index.m3u8
@@ -1784,23 +1793,23 @@ http://161.132.108.76:50001/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 HD (PerX2)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 SUR HD (PerX2)
 http://161.132.243.192:50001/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 3 (Gua2)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 (Gua2)
+#EXTINF:-1 tvg-id="Fox Sports 3 (Gua2)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 SUR (Gua2)
 http://181.78.105.146:6060/play/a01v
 
-#EXTINF:-1 tvg-id="Fox Sports 3 (Gua4)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 (Gua4)
+#EXTINF:-1 tvg-id="Fox Sports 3 (Gua4)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 SUR (Gua4)
 http://45.5.117.182:8000/play/a0f0/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 3 HD (GuaX1)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 HD (GuaX1)
+#EXTINF:-1 tvg-id="Fox Sports 3 HD (GuaX1)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 SUR HD (GuaX1)
 http://45.228.232.205:16000/play/a07u/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 3 HD (Gua4)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 HD (Gua4)
+#EXTINF:-1 tvg-id="Fox Sports 3 HD (Gua4)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 SUR HD (Gua4)
 http://45.5.117.182:8000/play/a0jq/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 3 HD (Hon2)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 HD (Hon2)
+#EXTINF:-1 tvg-id="Fox Sports 3 HD (Hon2)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 SUR HD (Hon2)
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 3 HD (Per1)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 HD (Per1)
-http://190.83.60.34:1414/play/a027
+#EXTINF:-1 tvg-id="Fox Sports 3 HD (Per2)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 SUR HD (Per2)
+http://161.132.108.76:50001/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 1" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 1
 http://45.179.140.242:8000/play/a0ht
@@ -1826,14 +1835,20 @@ http://161.132.243.192:50001/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="DSports HD (PerX1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="Verch" group-title="Deportes",DSports HD (PerX1)
 http://209.45.81.84:8000/play/a03d
 
+#EXTINF:-1 tvg-id="DSports HD (Per2)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSports HD (Per2)
+http://161.132.108.76:50001/play/a03o/index.m3u8
+
 #EXTINF:-1 tvg-id="DSports HD (PerX2)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSports HD (PerX2)
 http://161.132.243.192:50001/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="DSports 2 HD (Per2)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSports 2 HD (Per2)
+http://161.132.108.76:50001/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports 2 HD (PerX2)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSports 2 HD (PerX2
 http://161.132.243.192:50001/play/a03p/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports 2 HD (X1)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSports 2 HD (X1)
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50276.m3u8
+#EXTINF:-1 tvg-id="DSports + HD (Per2)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSports + HD (Per2) 
+http://161.132.108.76:50001/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports + HD (PerX2)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSports + HD (PerX2) 
 http://161.132.243.192:50001/play/a03q/index.m3u8
