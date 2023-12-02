@@ -1257,6 +1257,9 @@ http://38.41.8.1:8000/play/a05u
 #EXTINF:-1 tvg-id="HBO HD (GuaX1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO HD (GuaX1)
 http://45.228.232.205:16000/play/a040/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO HD (Gua0)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO HD (Gua0)
+http://45.5.117.182:8000/play/a0e8/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO HD (Hon2)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Series&Pelis",HBO HD (Hon2)
 http://45.166.92.22:58001/play/a03s/index.m3u8
 
@@ -1278,6 +1281,9 @@ http://38.41.8.1:8000/play/a05i
 #EXTINF:-1 tvg-id="HBO Plus HD (GuaX1)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Series&Pelis",HBO Plus HD (GuaX1)
 http://45.228.232.205:16000/play/a042/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO Plus HD (Gua)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Series&Pelis",HBO Plus HD (Gua0)
+http://45.5.117.182:8000/play/a0ea/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO Plus HD (Hon2)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Series&Pelis",HBO Plus HD (Hon2)
 http://45.166.92.22:58001/play/a03u/index.m3u8
 
@@ -1295,6 +1301,12 @@ http://38.41.8.1:8000/play/a05h
 
 #EXTINF:-1 tvg-id="HBO 2 HD (GuaX1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Series&Pelis",HBO 2 HD (GuaX1)
 http://45.228.232.205:16000/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2 HD (Gua0)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Series&Pelis",HBO 2 HD (Gua0)
+http://45.5.117.182:8000/play/a0eP/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2 HD (Gua0)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Series&Pelis",HBO 2 HD (Gua0)
+http://45.5.117.182:8000/play/a0et/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2 HD (Hon2)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Series&Pelis",HBO 2 HD (Hon2)
 http://45.166.92.22:58001/play/a03t/index.m3u8
@@ -1319,6 +1331,9 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/73.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family HD (GuaX1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Series&Pelis",HBO Family HD (GuaX1)
 http://45.228.232.205:16000/play/a043/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family HD (Gua0)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Series&Pelis",HBO Family HD (Gua0)
+http://45.5.117.182:8000/play/a0ec/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family HD (Col1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Series&Pelis",HBO Family HD (Col1)
 http://200.69.87.250:12500/play/a037/index.m3u8
@@ -1810,7 +1825,13 @@ http://181.78.105.146:6060/play/a00w
 #EXTINF:-1 tvg-id="Claro Sports 2 (Gua4)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 (Gua4)
 http://45.5.117.182:8000/play/a0gh/index.m3u8
 
+#EXTINF:-1 tvg-id="Claro Sports 2 (Gua0)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 (Gua0)
+http://45.5.117.182:8000/play/a0gh/index.m3u8
+
 #EXTINF:-1 tvg-id="Claro Sports 2 HD (Gua4)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 HD (Gua4)
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+
+#EXTINF:-1 tvg-id="Claro Sports 2 HD (Gua0)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 HD (Gua0)
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 2 HD (PerX2)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 HD (PerX2)
