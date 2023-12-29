@@ -345,6 +345,15 @@ http://161.132.108.76:50001/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="Telehit M HD (PerX2)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit M HD (PerX2)
 http://161.132.243.192:50001/play/a04d/index.m3u8
 
+#EXTINF:-1 channel-id="samsung-ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="Musical" , Vevo Latino
+https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20230412T042424SQUARE.png_20230412042425.png" tvg-chno="4716" group-title="Musical" , Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD230000289" tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" tvg-chno="4721" group-title="Musical" , Vevo '70s & '80s
+https://i.mjh.nz/SamsungTVPlus/ESBD230000289.m3u8
+
 #EXTINF:-1 tvg-id="VEVO REGIONAL MEXICANO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="Verch" group-title="Musical",VEVO REGIONAL MEXICANO
 https://linear-494.frequency.stream/dist/vix/494/hls/master/playlist.m3u8
 
@@ -2296,14 +2305,8 @@ https://i.mjh.nz/SamsungTVPlus/ESBC3900004ED.m3u8
 #EXTINF:-1 channel-id="samsung-ESBC4700001GR" tvg-id="ESBC4700001GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" tvg-chno="4633" group-title="SamsungTV+(Esp)" , duckTV
 https://i.mjh.nz/SamsungTVPlus/ESBC4700001GR.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="SamsungTV+(Esp)" , Vevo Latino
-https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
-
 #EXTINF:-1 channel-id="samsung-ESBD2300004Y7" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20231011T084725SQUARE.png_20231011084726.png" tvg-chno="4714" group-title="SamsungTV+(Esp)" , Sol Música
 https://i.mjh.nz/SamsungTVPlus/ESBD2300004Y7.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20230412T042424SQUARE.png_20230412042425.png" tvg-chno="4716" group-title="SamsungTV+(Esp)" , Vevo Pop
-https://i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20230614T005923SQUARE.png_20230614005923.png" tvg-chno="4717" group-title="SamsungTV+(Esp)" , Trace Latina
 https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
@@ -2313,9 +2316,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBA3300043M0.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESAJ49000023R" tvg-id="ESAJ49000023R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000023R_20230614T005919SQUARE.png_20230614005920.png" tvg-chno="4719" group-title="SamsungTV+(Esp)" , Qwest TV
 https://i.mjh.nz/SamsungTVPlus/ESAJ49000023R.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBD230000289" tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" tvg-chno="4721" group-title="SamsungTV+(Esp)" , Vevo '70s & '80s
-https://i.mjh.nz/SamsungTVPlus/ESBD230000289.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA1500001C4" tvg-id="ESBA1500001C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20231213T032942SQUARE.png_20231213032943.png" tvg-chno="4722" group-title="SamsungTV+(Esp)" , Deluxe Lounge HD
 https://i.mjh.nz/SamsungTVPlus/ESBA1500001C4.m3u8
