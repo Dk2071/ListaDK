@@ -344,55 +344,55 @@ http://161.132.108.76:50001/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="Telehit M HD (PerX2)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit M HD (PerX2)
 http://161.132.243.192:50001/play/a04d/index.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="Musical" , Vevo Latino
+#EXTINF:-1 channel-id="samsung-ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="Musical" , Vevo Latino ESP
 https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20230412T042424SQUARE.png_20230412042425.png" tvg-chno="4716" group-title="Musical" , Vevo Pop
+#EXTINF:-1 channel-id="samsung-ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20230412T042424SQUARE.png_20230412042425.png" tvg-chno="4716" group-title="Musical" , Vevo Pop ESP
 https://i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBD230000289" tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" tvg-chno="4721" group-title="Musical" , Vevo '70s & '80s
+#EXTINF:-1 channel-id="samsung-ESBD230000289" tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" tvg-chno="4721" group-title="Musical" , Vevo '70s & '80s ESP
 https://i.mjh.nz/SamsungTVPlus/ESBD230000289.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD300011KQ" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20230322T000018SQUARE.png_20230322000019.png" tvg-chno="1520" group-title="Musical" , Vevo '70s
+#EXTINF:-1 channel-id="samsung-USBD300011KQ" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20230322T000018SQUARE.png_20230322000019.png" tvg-chno="1520" group-title="Musical" , Vevo '70s USA
 https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20230322T000021SQUARE.png_20230322000021.png" tvg-chno="1521" group-title="Musical" , Vevo '80s
+#EXTINF:-1 channel-id="samsung-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20230322T000021SQUARE.png_20230322000021.png" tvg-chno="1521" group-title="Musical" , Vevo '80s USA
 https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="Musical" , Vevo '90s
+#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="Musical" , Vevo '90s USA
 https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" group-title="Musical" , Vevo 2K
+#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" group-title="Musical" , Vevo 2K USA
 https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" tvg-chno="1524" group-title="Musical" , Vevo 2010s
+#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" tvg-chno="1524" group-title="Musical" , Vevo 2010s USA
 https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png" tvg-chno="1525" group-title="Musical" , Vevo Retro Rock
+#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png" tvg-chno="1525" group-title="Musical" , Vevo Retro Rock USA
 https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20230809T005426SQUARE.png_20230809005426.png" tvg-chno="1527" group-title="Musical" , Vevo Latino
+#EXTINF:-1 channel-id="samsung-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20230809T005426SQUARE.png_20230809005426.png" tvg-chno="1527" group-title="Musical" , Vevo Latino USA
 https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png" tvg-chno="1528" group-title="Musical" , Vevo Hip-Hop
+#EXTINF:-1 channel-id="samsung-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png" tvg-chno="1528" group-title="Musical" , Vevo Hip-Hop USA
 https://i.mjh.nz/SamsungTVPlus/USBC3600002EK.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC3900009K5" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png" tvg-chno="1529" group-title="Musical" , Vevo R&B
+#EXTINF:-1 channel-id="samsung-USBC3900009K5" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png" tvg-chno="1529" group-title="Musical" , Vevo R&B USA
 https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png" tvg-chno="1532" group-title="Musical" , Vevo Pop
+#EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png" tvg-chno="1532" group-title="Musical" , Vevo Pop USA
 https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD1200008GL" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20231229T003156SQUARE.png_20231229003157.png" tvg-chno="1533" group-title="Musical" , Vevo Features
+#EXTINF:-1 channel-id="samsung-USBD1200008GL" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20231229T003156SQUARE.png_20231229003157.png" tvg-chno="1533" group-title="Musical" , Vevo Features USA
 https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" tvg-chno="1537" group-title="Musical" , NEW KPOP
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" tvg-chno="1537" group-title="Musical" , NEW KPOP USA
 https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC3600001RQ" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20231024T234723SQUARE.png_20231024234724.png" tvg-chno="1530" group-title="Musical" , Vevo Country
+#EXTINF:-1 channel-id="samsung-USBC3600001RQ" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20231024T234723SQUARE.png_20231024234724.png" tvg-chno="1530" group-title="Musical" , Vevo Country USA
 https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
 
-#EXTINF:-1 tvg-id="VEVO REGIONAL MEXICANO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="Verch" group-title="Musical",VEVO REGIONAL MEXICANO
+#EXTINF:-1 tvg-id="VEVO REGIONAL MEXICANO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="Verch" group-title="Musical",VEVO REGIONAL MEXICANO MX
 https://linear-494.frequency.stream/dist/vix/494/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BANDAMAX HD (Per2)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX HD (Per2)
