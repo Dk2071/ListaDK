@@ -380,11 +380,8 @@ https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
 #EXTINF:-1 tvg-id="VEVO REGIONAL MEXICANO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="Verch" group-title="Musical",VEVO REGIONAL MEXICANO MX
 https://linear-494.frequency.stream/dist/vix/494/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BANDAMAX HD (Per2)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX HD (Per2)
-http://161.132.108.76:50001/play/a04b/index.m3u8
-
-#EXTINF:-1 tvg-id="BANDAMAX HD (PerX2)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX HD (PerX2)
-http://161.132.243.192:50001/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="BANDAMAX HD (Col1)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX HD (Col1)
+http://190.242.46.20:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="MI MUSICA REGGAETON HD (Col0)" tvg-logo="https://i.imgur.com/hJ8pzxO.png" group-title="Verch" group-title="Musical",MI M REGGAETON HD (Col0)
 http://45.176.232.106:45000/play/a04f
