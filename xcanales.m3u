@@ -147,13 +147,13 @@ http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo I HD (🇵🇷) (Z1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I HD (🇵🇷) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo I HD (Gua6)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Int HD (Gua6)
+#EXTINF:-1 tvg-id="Telemundo I HD (Gua6)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I HD (Gua6)
 http://181.78.105.146:8800/play/a04t
 
-#EXTINF:-1 tvg-id="Telemundo I HD (GuaX1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Int HD (GuaX1)
+#EXTINF:-1 tvg-id="Telemundo I HD (GuaX1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I HD (GuaX1)
 http://45.228.232.205:16000/play/a04e/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo I HD (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="verch",Telemundo I HD (Col1)
+#EXTINF:-1 tvg-id="Telemundo I HD (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="verch" group-title="General",Telemundo I HD (Col1)
 http://190.242.46.20:8000/play/x03/index.m3u8
 
 #EXTINF:-1 tvg-id="Universo LAT HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/Yp1J5xd.png" group-title="Verch" group-title="General",Universo LAT HD (🇺🇸) (Z1)
@@ -183,7 +183,7 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28043
 #EXTINF:-1 tvg-id="Telenovelas (Gua6)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (Gua6)
 http://181.78.105.146:8800/play/a07k
 
-#EXTINF:-1 tvg-id="Telenovelas (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="verch",Telenovelas (Col1)
+#EXTINF:-1 tvg-id="Telenovelas (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="verch" group-title="General",Telenovelas (Col1)
 http://190.242.46.20:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="POP TV" tvg-logo="" group-title="Verch" group-title="General",POP TV
@@ -1687,16 +1687,19 @@ http://161.132.108.76:50001/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD (Esp) (🇪🇸)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (Esp) (🇪🇸)
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3 (1)(Mx)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1)(Mx)
+#EXTINF:-1 tvg-id="ESPN 3 (1) (Mx)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1) (Mx)
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3 (Gua1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (Gua1)
+#EXTINF:-1 tvg-id="ESPN 3 (1) (Gua1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1) (Gua1)
 http://190.149.66.90:4000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 (1)(Sal1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1)(Sal1)
 http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3 HD (1) (Gua1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Gua1)
+#EXTINF:-1 tvg-id="ESPN 3 (1)(Gua6)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1)(Gua6)
+http://181.78.105.146:8800/play/a025
+
+#EXTINF:-1 tvg-id="ESPN 3 HD (1)(Gua1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Gua1)
 http://190.149.66.90:4000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 HD (1)(GuaX1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN HD (1)(GuaX1)
@@ -1710,6 +1713,9 @@ http://168.181.122.234:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 HD (1)(L33)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27998
+
+#EXTINF:-1 tvg-id="ESPN 3 HD (1)(Gua6)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Gua6)
+http://181.78.105.146:8800/play/a053
 
 #EXTINF:-1 tvg-id="ESPN 3 HD (2)(Chi1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Chi1)
 http://45.181.121.227:801/play/a04s
