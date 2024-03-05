@@ -183,7 +183,7 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28043
 #EXTINF:-1 tvg-id="Telenovelas (Gua6)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (Gua6)
 http://181.78.105.146:8800/play/a07k
 
-#EXTINF:-1 tvg-id="Telenovelas (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="verch" group-title="General",Telenovelas (Col1)
+#EXTINF:-1 tvg-id="Telenovelas (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telenovelas (Col1)
 http://190.242.46.20:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="POP TV" tvg-logo="" group-title="Verch" group-title="General",POP TV
