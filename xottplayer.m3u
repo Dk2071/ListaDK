@@ -135,13 +135,13 @@ http://72.76.116.158:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo (Sal1)" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="General",Telemundo (Sal1)
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo I (Gua2)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Int (Gua2)
+#EXTINF:-1 tvg-id="Telemundo I (Gua2)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I (Gua2)
 http://181.78.105.146:6060/play/a01o
 
-#EXTINF:-1 tvg-id="Telemundo I (Gua6)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Int (Gua6)
+#EXTINF:-1 tvg-id="Telemundo I (Gua6)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I (Gua6)
 http://181.78.105.146:8800/play/a03z
 
-#EXTINF:-1 tvg-id="Telemundo I (Sal1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Int (Sal1)
+#EXTINF:-1 tvg-id="Telemundo I (Sal1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I (Sal1)
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo I HD (🇵🇷) (Z1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I HD (🇵🇷) (Z1)
@@ -171,9 +171,6 @@ http://181.78.105.146:8800/play/a05d
 #EXTINF:-1 tvg-id="Univision HD (GuaX1)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD (GuaX1)
 http://45.228.232.205:16000/play/a081/index.m3u8
 
-#EXTINF:-1 tvg-id="Univision HD (HonW)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD (HonW)
-http://170.82.37.21:8000/play/a02x/index.m3u8
-
 #EXTINF:-1 tvg-id="Unicable (Mx)" tvg-logo="https://i.imgur.com/D1fcZFZ.png" group-title="Verch" group-title="General",Unicable (Mx)
 http://181.78.105.146:2000/play/a08f/index.m3u8
 
@@ -183,7 +180,7 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28043
 #EXTINF:-1 tvg-id="Telenovelas (Gua6)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (Gua6)
 http://181.78.105.146:8800/play/a07k
 
-#EXTINF:-1 tvg-id="Telenovelas (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telenovelas (Col1)
+#EXTINF:-1 tvg-id="Telenovelas (Col1)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (Col1)
 http://190.242.46.20:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="POP TV" tvg-logo="" group-title="Verch" group-title="General",POP TV
@@ -198,8 +195,14 @@ http://45.177.53.7:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="Caracol TV HD" tvg-logo="https://i.imgur.com/NBatagT.jpg" group-title="Verch" group-title="General",Caracol TV HD
 http://45.177.53.7:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-id="RCN Novelas (GuaX1)" tvg-logo="https://i.imgur.com/42umkDy.jpg" group-title="Verch" group-title="General",RCN Novelas (GuaX1)
-http://45.228.232.205:16000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="RCN MAS+ (Vix)" tvg-logo="https://i.imgur.com/b8cYPi1.png" group-title="Verch" group-title="General",RCN MAS+ (Vix)
+https://linear-286.frequency.stream/dist/vix/dist/vix/286/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCN Novelas (Gua1)" tvg-logo="https://i.imgur.com/42umkDy.jpg" group-title="Verch" group-title="General",RCN Novelas (Gua1)
+http://190.149.66.90:4000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="RCN Novelas (Gua2)" tvg-logo="https://i.imgur.com/42umkDy.jpg" group-title="Verch" group-title="General",RCN Novelas (Gua2)
+http://181.78.105.146:6060/play/a00r
 
 #EXTINF:-1 tvg-id="RCN Novelas HD" tvg-logo="https://i.imgur.com/42umkDy.jpg" group-title="Verch" group-title="General",RCN Novelas HD
 http://45.179.140.242:8000/play/a0jf
@@ -225,20 +228,8 @@ http://181.78.105.146:8800/play/a05c
 #EXTINF:-1 tvg-id="Pasiones HD (GuaX1)" tvg-logo="https://i.imgur.com/6vpIu3m.jpg" group-title="Verch" group-title="General",Pasiones HD (GuaX1)
 http://45.228.232.205:16000/play/a080/index.m3u8
 
-#EXTINF:-1 tvg-id="Movistar Plus  Perú (PerX0)" tvg-logo="https://i.imgur.com/uLg7xqa.png" group-title="Verch" group-title="General",Movistar Plus (PerX0)
-http://38.43.150.120:8000/play/a041/index.m3u8
-
-#EXTINF:1 tvg-id="TEN TV.HON" tvg-logo="https://i.imgur.com/iTOD8yC.png" group-title="Verch" group-title="General",TEN TV
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Verch" group-title="General",AMX Noticias HD
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CorTV.mx" tvg-logo="https://i.imgur.com/NLO7HO4.png" group-title="Verch" group-title="General",CorTV HD
-https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg TV US" tvg-logo="https://i.imgur.com/FXB5nte.png" group-title="Verch" group-title="General",Bloomberg TV US HD
-https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBC World (Gua2)" tvg-logo="https://i.imgur.com/elIFGiH.png" group-title="Verch" group-title="General",BBC World (Gua2)
 http://181.78.105.146:6060/play/a022
@@ -270,9 +261,6 @@ http://45.228.232.205:16000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="France24 (X1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="General",France24 (X1)
 https://marine2.miplay.cl/france24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="General",France 24 HD
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Verch" group-title="General",DW Español HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
@@ -302,6 +290,18 @@ https://estrellanews-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Estrella News" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Verch" group-title="General",Estrella News HD
 https://estrella-news-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Movistar Plus  Perú (PerX0)" tvg-logo="https://i.imgur.com/uLg7xqa.png" group-title="Verch" group-title="General",Movistar Plus (PerX0)
+http://38.43.150.120:8000/play/a041/index.m3u8
+
+#EXTINF:1 tvg-id="TEN TV.HON" tvg-logo="https://i.imgur.com/iTOD8yC.png" group-title="Verch" group-title="General",TEN TV
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 tvg-id="CorTV.mx" tvg-logo="https://i.imgur.com/NLO7HO4.png" group-title="Verch" group-title="General",CorTV HD
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg TV US" tvg-logo="https://i.imgur.com/FXB5nte.png" group-title="Verch" group-title="General",Bloomberg TV US HD
+https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 + Musical +
 
@@ -1537,6 +1537,9 @@ http://45.228.232.205:16000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="Europa HD (Hon1)" tvg-logo="https://i.imgur.com/PDan9hL.png" group-title="Verch" group-title="Artes&Cultura",Europa HD (Hon1)
 http://168.181.122.234:8000/play/a01w/index.m3u8
 
+#EXTINF:-1 tvg-id="Europa HD (Vix)" tvg-logo="https://i.imgur.com/PDan9hL.png" group-title="Verch" group-title="Artes&Cultura",Europa HD (Vix)
+https://linear-285.frequency.stream/dist/vix/285/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Film & Arts (GuaX1)" tvg-logo="https://i.imgur.com/d8OIZ9s.png" group-title="Verch" group-title="Artes&Cultura",Film & Arts (GuaX1)
 http://45.228.232.205:16000/play/a04b/index.m3u8
 
@@ -1561,8 +1564,8 @@ http://45.228.232.205:16000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="Home Garden Latino (Gua2)" tvg-logo="https://i.imgur.com/QSshy70.png" group-title="Verch" group-title="Artes&Cultura",Home Garden Latino (Gua2)
 http://181.78.105.146:6060/play/a006
 
-#EXTINF:-1 tvg-id="Home Garden Latino (Hon4)" tvg-logo="https://i.imgur.com/QSshy70.png" group-title="Verch" group-title="Artes&Cultura",Home Garden Latino (Hon4)
-http://181.189.243.217:8000/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-id="Home Garden Latino (Gua6)" tvg-logo="https://i.imgur.com/QSshy70.png" group-title="Verch" group-title="Artes&Cultura",Home Garden Latino (Gua6)
+http://181.78.105.146:8800/play/a00d
 
 + Deportes +
 
