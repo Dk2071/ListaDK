@@ -129,11 +129,14 @@ http://45.167.253.253:4000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Mexiquense TV HD (L33)" tvg-logo="https://i.imgur.com/aLI7iQx.jpg" group-title="Verch" group-title="General",Mexiquense TV HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28053
 
-#EXTINF:-1 tvg-id="Unimas HD" tvg-logo="https://i.imgur.com/XvCzxwm.png" group-title="Verch" group-title="General",Unimas HD
+#EXTINF:-1 tvg-id="Unimas Usa HD (Usa1)" tvg-logo="https://i.imgur.com/XvCzxwm.png" group-title="Verch" group-title="General",Unimas Usa HD (Usa1)
 http://72.76.116.158:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo (Sal1)" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="General",Telemundo (Sal1)
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo 47 HD (Usa1)" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="General",Telemundo 47 HD (Usa1)
+http://72.76.116.158:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo I (Gua2)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I (Gua2)
 http://181.78.105.146:6060/play/a01o
@@ -164,6 +167,9 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
 
 #EXTINF:-1 tvg-id="Univision Now (Sal1)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision Now (Sal1)
 http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Univision Usa HD (Usa1)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision Usa HD (Usa1)
+http://72.76.116.158:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision HD (Gua6)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD (Gua6)
 http://181.78.105.146:8800/play/a05d
@@ -1537,8 +1543,8 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TUDN (Gua6)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Gua6)
 http://181.78.105.146:8800/play/a07e
 
-#EXTINF:-1 tvg-id="TUDN (Honx)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Honx) 
-http://168.228.193.214:58005/play/a005
+#EXTINF:-1 tvg-id="TUDN (Vix) (🇪🇸)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Vix) (🇪🇸)
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (España) (🇪🇸)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (España) (🇪🇸)
 https://tny.im/ft9je
@@ -2843,6 +2849,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20231213T032949SQUARE.png_20231213032950.png" tvg-chno="4001" group-title="SamsungTV+(Esp)" , La 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESBD3000002GP" tvg-id="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240313T073234SQUARE.png" tvg-chno="4001" group-title="Entretenimiento" , Canal Sur Andalucía
+https://i.mjh.nz/SamsungTVPlus/ESBD3000002GP.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESAJ4500024LR" tvg-id="ESAJ4500024LR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500024LR_20230222T012038SQUARE.png_20230222012039.png" tvg-chno="4003" group-title="SamsungTV+(Esp)" , Euronews en directo
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
