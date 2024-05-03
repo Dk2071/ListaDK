@@ -1532,16 +1532,16 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/148.m3u8
 #EXTINF:-1 tvg-id="DAZN 3 HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/72NUUVu.png" group-title="Verch" group-title="Deportes",DAZN 3 HD (🇪🇸) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/205.m3u8
 
-#EXTINF:-1 tvg-id="TUDN HD (HonW)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (HonW)
+#EXTINF:-1 tvg-id="TUDN (1) HD (HonW)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (HonW)
 http://170.82.37.21:8000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN HD (Gua0)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua0)
+#EXTINF:-1 tvg-id="TUDN (1) HD (Gua0)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (Gua0)
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN (Vix1) (🇪🇸)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Vix1) (🇪🇸)
+#EXTINF:-1 tvg-id="TUDN (2) HD (Vix1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (2) HD (Vix1)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="TUDN (Vix2) (🇪🇸)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Vix2) (🇪🇸)
+#EXTINF:-1 tvg-id="TUDN (2) HD (Vix2)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (2) HD (Vix2)
 https://tny.im/ft9je
 
 #EXTINF:-1 tvg-id="Adrenalina Sports HD MX (Z1)" tvg-logo="https://i.imgur.com/XBXKaHW.png" group-title="Verch" group-title="Deportes",Adrenalina Sports HD MX (Z1)
@@ -1585,6 +1585,9 @@ http://45.181.121.194:8000/play/212
 
 #EXTINF:-1 tvg-id="ESPN Deportes (Esp) (🇪🇸)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Deportes (Esp) (🇪🇸)
 http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Deportes HD (ULT)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Deportes HD (ULT)
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/20339
 
 #EXTINF:-1 tvg-id="ESPN Premium (Chi2)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium (Chi2)
 http://45.181.121.194:8000/play/209
@@ -1697,6 +1700,27 @@ http://45.181.121.194:8000/play/211
 #EXTINF:-1 tvg-id="ESPN 7 HD (Chi2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 7 HD (Chi2)
 http://45.181.121.194:8000/play/210
 
+#EXTINF:-1 tvg-id="Fox Sports Premium HD MX (ULT)" tvg-logo="https://i.imgur.com/q2xv9Gv.jpg" group-title="Verch" group-title="Deportes",Fox Sports Premium HD MX (ULT)
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/540
+
+#EXTINF:-1 tvg-id="Fox Sports 2 MX (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX (ULT) 
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/531
+
+#EXTINF:-1 tvg-id="Fox Sports 2 MX (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX (ULT) 
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/534
+
+#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (ULT) 
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/529
+
+#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (ULT) 
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/532
+
+#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (ULT) 
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/530
+
+#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (ULT) 
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/535
+
 #EXTINF:-1 tvg-id="Fox Deportes LAT (Sal1)" tvg-logo="https://i.imgur.com/YX1oHhH.png" group-title="Verch" group-title="Deportes",Fox Deportes LAT (Sal1)
 http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
 
@@ -1759,6 +1783,9 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sports XTRA Ñ HD (X1)" tvg-logo="https://i.imgur.com/YPqbowl.png" group-title="Verch" group-title="Deportes",beIN Sports XTRA Ñ HD (X1)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MOVISTAR DEPORTES HD (ULT)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",MOVISTAR DEPORTES HD (ULT)
+http://ultrapremium.cloud:8080/926392006tv/1hn79s/20285
 
 #EXTINF:-1 tvg-id="TNT Sports (Sal2)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TNT Sports PREMIUM (Sal2)
 http://45.181.121.194:8000/play/234
