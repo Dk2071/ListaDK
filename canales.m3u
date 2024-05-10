@@ -39,6 +39,9 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Foro TV HD (L33)" tvg-logo="https://i.imgur.com/hncmWM2.png" group-title="Verch" group-title="General",Foro TV HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28002
 
+#EXTINF:-1 tvg-id="Foro TV HD (TDT esp)" tvg-logo="https://i.imgur.com/hncmWM2.png" group-title="Verch" group-title="General",FORO TV HD (TDT esp)
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal 5 (Mx)" tvg-logo="https://i.imgur.com/jWXUUJb.png" group-title="Verch" group-title="General",Canal 5 (Mx)
 http://181.78.105.146:2000/play/a038/index.m3u8
 
@@ -117,7 +120,7 @@ http://181.78.105.146:8800/play/a03z
 #EXTINF:-1 tvg-id="Telemundo I (Sal2)" tvg-logo="https://i.imgur.com/s4VLDtK.png" group-title="Verch" group-title="General",Telemundo I (Sal2)
 http://201.159.113.219:49000/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo I HD (🇵🇷) (Z1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I HD (🇵🇷) (Z1)
+#EXTINF:-1 tvg-id="Telemundo I HD (PR) (Z1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I HD (PR) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo I HD (Gua6)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I HD (Gua6)
@@ -132,10 +135,10 @@ http://201.159.113.219:49000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo I HD (Col1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I HD (Col1)
 http://190.242.46.20:8000/play/x03/index.m3u8
 
-#EXTINF:-1 tvg-id="Universo LAT HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/Yp1J5xd.png" group-title="Verch" group-title="General",Universo LAT HD (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="Universo LAT HD (USA) (Z1)" tvg-logo="https://i.imgur.com/Yp1J5xd.png" group-title="Verch" group-title="General",Universo LAT HD (USA) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/164.m3u8
 
-#EXTINF:-1 tvg-id="Universo LAT HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/Yp1J5xd.png" group-title="Verch" group-title="General",Universo LAT HD (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="Universo LAT HD (USA) (Z1)" tvg-logo="https://i.imgur.com/Yp1J5xd.png" group-title="Verch" group-title="General",Universo LAT HD (USA) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
 
 #EXTINF:-1 tvg-id="Univision Usa HD (Usa1)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision Usa HD (Usa1)
@@ -252,11 +255,11 @@ http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="Antena 3 (Guax1)" tvg-logo="https://i.imgur.com/4RVFHzB.png" group-title="Verch" group-title="General",Antena 3 (Guax1)
 http://45.228.232.205:16000/play/a038/index.m3u8
 
+#EXTINF:-1 tvg-id="Noticias Caracol Colombia HD" tvg-logo="https://i.imgur.com/s3yJkkv.jpg" group-title="Verch" group-title="General",Noticias Caracol Colombia HD (TDT esp)
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
 #EXTINF:-1 tvg-id="RT en Español HD (X1)" tvg-logo="https://i.imgur.com/z7w9igo.png" group-title="Verch" group-title="General",RT en Español HD (X1)
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-
-#EXTINF:-1 tvg-id="RT en Español HD (Hon2)" tvg-logo="https://i.imgur.com/z7w9igo.png" group-title="Verch" group-title="General",RT en Español HD (Hon2)
-http://45.166.92.22:58001/play/a05j/index.m3u8
 
 #EXTINF:-1 tvg-id="RT en Español HD (Ecua1)" tvg-logo="https://i.imgur.com/z7w9igo.png" group-title="Verch" group-title="General",RT en Español HD (Ecua1)
 http://177.234.230.226:8010/play/a03l/index.m3u8
@@ -290,9 +293,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="Teleritmo HD (X1)" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Verch" group-title="Musical",Teleritmo HD (X1)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-id="Claro Musica (Hon3)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Claro Musica (Hon3)
-http://138.59.177.34:8000/play/a04a/index.m3u8
-
 #EXTINF:-1 tvg-id="Claro Musica (Gua2)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Claro Musica (Gua2)
 http://181.78.105.146:6060/play/a010/index.m3u8
 
@@ -304,6 +304,9 @@ http://45.5.117.182:8000/play/a0hz/index.m3u8
 
 #EXTINF:-1 tvg-id="Exa TV (Gua2)" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="Verch" group-title="Musical",Exa TV (Gua2)
 http://181.78.105.146:6060/play/a038
+
+#EXTINF:-1 tvg-id="Telehit M (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit M (Gua1)
+http://200.115.120.1:8000/play/ca068/index.m3u8
 
 #EXTINF:-1 tvg-id="Telehit M (Col1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit M (Col1)
 http://190.242.46.20:8000/play/a08e/index.m3u8
@@ -407,6 +410,9 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="VideoRola (Mx)" tvg-logo="https://i.imgur.com/SC96zq5.png" group-title="Verch" group-title="Musical",VideoRola (Mx)
 http://181.78.105.146:2000/play/a04c/index.m3u8
 
+#EXTINF:-1 tvg-id="VideoRola (Guax0)" tvg-logo="https://i.imgur.com/SC96zq5.png" group-title="Verch" group-title="Musical",VideoRola (Guax0)
+http://45.228.234.167:8000/play/a0b5/index.m3u8
+
 #EXTINF:-1 tvg-id="HTV (Gua0)" tvg-logo="https://i.imgur.com/WopGnN1.jpg" group-title="Verch" group-title="Musical",HTV (Gua0)
 http://45.5.117.182:8000/play/a0gn/index.m3u8
 
@@ -482,45 +488,45 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Stingray Concerts HD (Bol1)" tvg-logo="https://i.imgur.com/xwoq321.png" group-title="Verch" group-title="Musical",Stingray Concerts HD (Bol1)
 http://177.222.108.82:2500/play/a0h1/index.m3u8
 
-#EXTINF:-1 tvg-id="Concert Channel (Hon3)" tvg-logo="https://i.imgur.com/B0vgwPE.png" group-title="Verch" group-title="Musical",Concert Channel (Hon3)
-http://138.59.177.34:8000/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="Concert Channel (Guax0)" tvg-logo="https://i.imgur.com/B0vgwPE.png" group-title="Verch" group-title="Musical",Concert Channel (Guax0)
+http://45.228.234.167:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="Concert Channel (Gua2)" tvg-logo="https://i.imgur.com/B0vgwPE.png" group-title="Verch" group-title="Musical",Concert Channel (Gua2)
 http://181.78.105.146:6060/play/a045/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV (Hon3)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV (Hon3)
-http://138.59.177.34:8000/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="MTV (Guax0)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV (Guax0)
+http://45.228.234.167:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV (Gua2)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV (Gua2)
 http://181.78.105.146:6060/play/a044/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 00s (Hon3)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="Verch" group-title="Musical",MTV 00s (Hon3)
-http://138.59.177.34:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="MTV 00s (Guax0)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="Verch" group-title="Musical",MTV 00s (Guax0)
+http://45.228.234.167:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 00s (Gua2)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="Verch" group-title="Musical",MTV 00s (Gua2)
 http://181.78.105.146:6060/play/a011/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV 00S HD (Hon3)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="Verch" group-title="Musical",MTV 00S HD (Hon3)
-http://138.59.177.34:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="MTV 00S HD (Guax0)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="Verch" group-title="Musical",MTV 00S HD (Guax0)
+http://45.228.234.167:8000/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 00S HD (Gua2)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="Verch" group-title="Musical",MTV 00S HD (Gua2)
 http://181.78.105.146:6060/play/a03o/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MTV 80s (Hon3)" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="Verch" group-title="Musical",MTV 80s (Hon3) 
-http://138.59.177.34:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="MTV 80s (Guax0)" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="Verch" group-title="Musical",MTV 80s (Guax0) 
+http://45.228.234.167:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV 80s (Gua2)" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="Verch" group-title="Musical",MTV 80s (Gua2)
 http://181.78.105.146:6060/play/a01x/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Hits (Hon3)" tvg-logo="https://i.imgur.com/Hpu8fxL.png" group-title="Verch" group-title="Musical",MTV Hits (Hon3)
-http://138.59.177.34:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="MTV Hits (Guax0)" tvg-logo="https://i.imgur.com/Hpu8fxL.png" group-title="Verch" group-title="Musical",MTV Hits (Guax0)
+http://45.228.234.167:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV Hits (Gua2)" tvg-logo="https://i.imgur.com/Hpu8fxL.png" group-title="Verch" group-title="Musical",MTV Hits (Gua2)
 http://181.78.105.146:6060/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV HD (Hon3)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV HD (Hon3)
-http://138.59.177.34:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="MTV HD (Guax0)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV HD (Guax0)
+http://45.228.234.167:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV HD (Gua2)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV HD (Gua2)
 http://181.78.105.146:6060/play/a028/index.m3u8
@@ -528,8 +534,8 @@ http://181.78.105.146:6060/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="MTV HD (L33)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28023
 
-#EXTINF:-1 tvg-id="MTV SIM HD (Hon3)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV SIM HD (Hon3)
-http://138.59.177.34:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="MTV SIM HD (Guax0)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV SIM HD (Guax0)
+http://45.228.234.167:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV SIM HD (Gua2)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV SIM HD (Gua2)
 http://181.78.105.146:6060/play/a03n
@@ -809,8 +815,8 @@ http://181.78.105.146:2000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="TLC (GuaX1)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Entretenimiento",TLC (GuaX1)
 http://45.228.232.205:16000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="TLC (Hon3)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Entretenimiento",TLC (Hon3)
-http://138.59.177.34:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="TLC (Guax0)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Entretenimiento",TLC (Guax0)
+http://45.228.234.167:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC (Hon2)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Entretenimiento",TLC (Hon2)
 http://45.166.92.22:58001/play/a04o/index.m3u8 
@@ -845,14 +851,14 @@ http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Warner (Gua2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (Gua2)
 http://181.78.105.146:6060/play/a02y/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner (Hon3)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (Hon3)
-http://138.59.177.34:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="Warner (Guax0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (Guax0)
+http://45.228.234.167:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (🇲🇽) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.m3u8
 
-#EXTINF:-1 tvg-id="Warner HD (Hon3)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Hon3)
-http://138.59.177.34:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="Warner HD (Guax0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Guax0)
+http://45.228.234.167:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner HD (Gua2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua2)
 http://181.78.105.146:6060/play/a03bf/index.m3u8
@@ -904,8 +910,8 @@ http://181.189.243.217:8000/play/a0oo/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax (Gua0)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Gua0)
 http://45.5.117.182:8000/play/a0jp/index.m3u8
 
-#EXTINF:-1 tvg-id="CineMax (Hon3)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",CineMax (Hon3)
-http://138.59.177.34:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-id="CineMax (Guax0)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",CineMax (Guax0)
+http://45.228.234.167:8000/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax (Gua2)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Gua2)
 http://181.78.105.146:6060/play/a04a
@@ -994,8 +1000,8 @@ http://45.176.232.106:45000/play/a041
 #EXTINF:-1 tvg-id="DE PELICULA (L33)" tvg-logo="https://i.imgur.com/oswl9hl.png" group-title="Verch" group-title="Pelis",DE PELICULA (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27983
 
-#EXTINF:-1 tvg-id="Golden Edge (Hon3)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden Edge (Hon3)
-http://138.59.177.34:8000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="Golden Edge (Guax0)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden Edge (Guax0)
+http://45.228.234.167:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="Golden Edge (Col1)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden Edge (Col1)
 http://190.242.46.20:8000/play/a08k/index.m3u8
@@ -1018,7 +1024,7 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28015
 #EXTINF:-1 tvg-id="Golden Plus (VIX)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS (VIX)
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Golden Plus (Esp) (🇪🇸)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS (Esp) (🇪🇸)
+#EXTINF:-1 tvg-id="Golden Plus (Esp)(ES)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS (Esp)(ES)
 https://is.gd/fvGAN6
 
 #EXTINF:-1 tvg-id="Golden Plus HD (Mex) (🇲🇽)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS HD (Mex) (🇲🇽)
@@ -1033,7 +1039,7 @@ http://38.41.8.1:8000/play/a028
 #EXTINF:-1 tvg-id="Golden Premiere (VIX)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere (VIX)
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Golden Premiere (Esp) (🇪🇸)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere (Esp) (🇪🇸)
+#EXTINF:-1 tvg-id="Golden Premiere (Esp)(ES)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere (Esp)(ES)
 https://is.gd/Tg2c0B
 
 #EXTINF:-1 tvg-id="Golden Premiere HD (Hon1)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere HD (Hon1)
@@ -1373,8 +1379,8 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27989
 #EXTINF:-1 tvg-id="Discovery World HD (Gua0)" tvg-logo="https://i.imgur.com/AmBURfs.png" group-title="Verch" group-title="Artes&Cultura",Discovery World HD (Gua0)
 http://45.5.117.182:8000/play/a0jv/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Wolrd HD (Hon3)" tvg-logo="https://i.imgur.com/sgOW71u.png" group-title="Verch" group-title="Artes&Cultura",Discovery Wolrd HD (Hon3)
-http://138.59.177.34:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Wolrd HD (Guax0)" tvg-logo="https://i.imgur.com/sgOW71u.png" group-title="Verch" group-title="Artes&Cultura",Discovery Wolrd HD (Guax0)
+http://45.228.234.167:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World HD (L33)" tvg-logo="https://i.imgur.com/AmBURfs.png" group-title="Verch" group-title="Artes&Cultura",Discovery World HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27991
@@ -1499,37 +1505,37 @@ http://181.78.105.146:8800/play/a00d
 + Deportes +
 
 
-#EXTINF:-1 tvg-id="Fight Network HD (X2)" tvg-logo="https://i.imgur.com/RHjsvpa.png" group-title="Verch" group-title="Deportes",Fight Network HD (X2) (🇺🇸)
+#EXTINF:-1 tvg-id="Fight Network HD (X2)" tvg-logo="https://i.imgur.com/RHjsvpa.png" group-title="Verch" group-title="Deportes",Fight Network HD (X2) (USA)
 http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SEC(ESPN) NETWORK HD (X2)" tvg-logo="https://i.imgur.com/gIRQZzF.png" group-title="Verch" group-title="Deportes",SEC(ESPN) NETWORK HD (X2) (🇺🇸)
+#EXTINF:-1 tvg-id="SEC(ESPN) NETWORK HD (X2)" tvg-logo="https://i.imgur.com/gIRQZzF.png" group-title="Verch" group-title="Deportes",SEC(ESPN) NETWORK HD (X2) (USA)
 http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BIG NETWORK HD (X2)" tvg-logo="https://i.imgur.com/SrpoIN4.png" group-title="Verch" group-title="Deportes",BIG NETWORK HD (X2) (🇺🇸)
+#EXTINF:-1 tvg-id="BIG NETWORK HD (X2)" tvg-logo="https://i.imgur.com/SrpoIN4.png" group-title="Verch" group-title="Deportes",BIG NETWORK HD (X2) (USA)
 http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ACCN ESPN HD (X2)" tvg-logo="https://i.imgur.com/gCozGpS.png" group-title="Verch" group-title="Deportes",ACCN ESPN HD (X2) (🇺🇸)
+#EXTINF:-1 tvg-id="ACCN ESPN HD (X2)" tvg-logo="https://i.imgur.com/gCozGpS.png" group-title="Verch" group-title="Deportes",ACCN ESPN HD (X2) (USA)
 http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UFC HD (USA) (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/Flww3NV.png" group-title="Verch" group-title="Deportes",UFC HD (USA) (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="UFC HD ((USA) (Z1)" tvg-logo="https://i.imgur.com/Flww3NV.png" group-title="Verch" group-title="Deportes",UFC HD ((USA) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/46.m3u8
 
-#EXTINF:-1 tvg-id="UFC HD (USA) (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/Flww3NV.png" group-title="Verch" group-title="Deportes",UFC HD (USA) (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="UFC HD ((USA) (Z1)" tvg-logo="https://i.imgur.com/Flww3NV.png" group-title="Verch" group-title="Deportes",UFC HD ((USA) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/47.m3u8
 
-#EXTINF:-1 tvg-id="DAZN F1 HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/7WKCv68.png" group-title="Verch" group-title="Deportes",DAZN F1 HD (🇪🇸) (Z1)
+#EXTINF:-1 tvg-id="DAZN F1 HD(ES) (Z1)" tvg-logo="https://i.imgur.com/7WKCv68.png" group-title="Verch" group-title="Deportes",DAZN F1 HD(ES) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/45.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 1 HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/zF7Keku.png" group-title="Verch" group-title="Deportes",DAZN 1 HD (🇪🇸) (Z1)
+#EXTINF:-1 tvg-id="DAZN 1 HD(ES) (Z1)" tvg-logo="https://i.imgur.com/zF7Keku.png" group-title="Verch" group-title="Deportes",DAZN 1 HD(ES) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/212.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 1 HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/eg0EYTt.jpg" group-title="Verch" group-title="Deportes",DAZN 1 HD (🇪🇸) (Z1)
+#EXTINF:-1 tvg-id="DAZN 1 HD(ES) (Z1)" tvg-logo="https://i.imgur.com/eg0EYTt.jpg" group-title="Verch" group-title="Deportes",DAZN 1 HD(ES) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 2 HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/I1CoZWc.png" group-title="Verch" group-title="Deportes",DAZN 2 HD (🇪🇸) (Z1)
+#EXTINF:-1 tvg-id="DAZN 2 HD(ES) (Z1)" tvg-logo="https://i.imgur.com/I1CoZWc.png" group-title="Verch" group-title="Deportes",DAZN 2 HD(ES) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/148.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 3 HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/72NUUVu.png" group-title="Verch" group-title="Deportes",DAZN 3 HD (🇪🇸) (Z1)
+#EXTINF:-1 tvg-id="DAZN 3 HD(ES) (Z1)" tvg-logo="https://i.imgur.com/72NUUVu.png" group-title="Verch" group-title="Deportes",DAZN 3 HD(ES) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/205.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (1) HD (HonW)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (HonW)
@@ -1543,6 +1549,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (2) HD (Vix2)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (2) HD (Vix2)
 https://tny.im/ft9je
+
+#EXTINF:-1 tvg-id="TUDN (3) HD (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (3) HD (Gua1)
+http://200.115.120.1:8000/play/ca074/index.m3u8
 
 #EXTINF:-1 tvg-id="Adrenalina Sports HD MX (Z1)" tvg-logo="https://i.imgur.com/XBXKaHW.png" group-title="Verch" group-title="Deportes",Adrenalina Sports HD MX (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
@@ -1565,8 +1574,8 @@ http://168.232.168.242:4000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="ESPN (1)(Mx)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN (1)(Mx)
 http://181.78.105.146:2000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN (1)(Hon3)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN (1)(Hon3)
-http://138.59.177.34:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="ESPN (1)(Guax0)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN (1)(Guax0)
+http://45.228.234.167:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN (1)(Sal2)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN (1)(Sal2)
 http://201.159.113.219:49000/play/a03b/index.m3u8
@@ -1574,8 +1583,8 @@ http://201.159.113.219:49000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="ESPN HD (1)(L33)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (1)(L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28000
 
-#EXTINF:-1 tvg-id="ESPN HD (1)(Hon3)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (3)(Hon3)
-http://138.59.177.34:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="ESPN HD (1)(Guax0)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (3)(Guax0)
+http://45.228.234.167:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN HD (1)(Sal2)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (3)(Sal2)
 http://201.159.113.219:49000/play/a062/index.m3u8
@@ -1583,16 +1592,13 @@ http://201.159.113.219:49000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="ESPN HD (3)(Chi2)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (3)(Chi2)
 http://45.181.121.194:8000/play/212
 
-#EXTINF:-1 tvg-id="ESPN Deportes (Esp) (🇪🇸)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Deportes (Esp) (🇪🇸)
+#EXTINF:-1 tvg-id="ESPN Deportes (Esp)(ES)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Deportes (Esp)(ES)
 http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN Deportes HD (ULT)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Deportes HD (ULT)
-http://ultrapremium.cloud:8080/926392006tv/1hn79s/20339
 
 #EXTINF:-1 tvg-id="ESPN Premium (Chi2)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium (Chi2)
 http://45.181.121.194:8000/play/209
 
-#EXTINF:-1 tvg-id="ESPN HD (USA) (🇺🇸)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN HD (USA) (🇺🇸)
+#EXTINF:-1 tvg-id="ESPN HD ((USA)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN HD (USA)
 http://143.244.60.30/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 (1)(Mx)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (1)(Mx)
@@ -1601,8 +1607,8 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 (1) (Gua0)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (1) (Gua0)
 http://45.5.117.182:8000/play/a0hy/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2 (1)(Hon3)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (1)(Hon3)
-http://138.59.177.34:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 (1)(Guax0)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (1)(Guax0)
+http://45.228.234.167:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 (2)(Sal2)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (2)(Sal2)
 http://201.159.113.219:49000/play/a03c/index.m3u8
@@ -1613,8 +1619,8 @@ http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/27996
 #EXTINF:-1 tvg-id="ESPN 2 HD (1)(Hon1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (1)(Hon1)
 http://168.181.122.234:8000/play/a040/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2 HD (1)(Hon3)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (1)(Hon3)
-http://138.59.177.34:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD (1)(Guax0)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (1)(Guax0)
+http://45.228.234.167:8000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 HD (1)(Sal2)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (1)(Sal2)
 http://201.159.113.219:49000/play/a05x/index.m3u8
@@ -1622,14 +1628,14 @@ http://201.159.113.219:49000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD (3)(Chi2)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (3)(Chi2)
 http://45.181.121.194:8000/play/214
 
-#EXTINF:-1 tvg-id="ESPN 2 HD (USA) (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (USA) (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="ESPN 2 HD (USA) (Z1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (USA)  (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/37.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 (1) (Mx)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1) (Mx)
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3 (1) (Hon3)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1) (Hon3)
-http://138.59.177.34:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 (1) (Guax0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1) (Guax0)
+http://45.228.234.167:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 (1)(Sal2)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1)(Sal2)
 http://201.159.113.219:49000/play/a02e/index.m3u8
@@ -1637,11 +1643,14 @@ http://201.159.113.219:49000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 (1)(Gua6)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1)(Gua6)
 http://181.78.105.146:8800/play/a025
 
-#EXTINF:-1 tvg-id="ESPN 3 HD (1)(Hon3)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Hon3)
-http://138.59.177.34:8000/play/a07s/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 HD (1)(Guax0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Guax0)
+http://45.228.234.167:8000/play/a05h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 HD (1)(Gua0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN HD (1)(Gua0)
 http://45.5.117.182:8000/play/a0jn/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3 HD (1)(Guax0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Guax0)
+http://45.228.234.167:8000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 HD (1)(Hon1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Hon1)
 http://168.181.122.234:8000/play/a041/index.m3u8
@@ -1658,20 +1667,32 @@ http://181.78.105.146:8800/play/a053
 #EXTINF:-1 tvg-id="ESPN 3 HD (2)(Chi2)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Chi2)
 http://45.181.121.194:8000/play/216
 
-#EXTINF:-1 tvg-id="ESPN 3 HD (Esp) (🇪🇸)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (Esp) (🇪🇸)
+#EXTINF:-1 tvg-id="ESPN 3 HD (Esp)(ES)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (Esp)(ES)
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4 (1)(Guax0)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (1)(Guax0)
+http://45.228.234.167:8000/play/a07q/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4 HD (1)(Guax0)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (1)(Guax0)
+http://45.228.234.167:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4 HD (1)(Hon1)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (1)(Hon1)
 http://168.181.122.234:8000/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4 HD (1)(Hon3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (1)(Hon3)
-http://138.59.177.34:8000/play/a07r/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN 4 HD (2)(Chi2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (2)(Chi2)
 http://45.181.121.194:8000/play/218
 
-#EXTINF:-1 tvg-id="ESPN 5 HD (2)(Sal2)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 HD (2)(Sal2)
+#EXTINF:-1 tvg-id="ESPN 5 (Guax0)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 (Guax0)
+http://45.228.234.167:8000/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5 HD (Guax0)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 HD (Guax0)
+http://45.228.234.167:8000/play/a07s/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5 HD (Sal2)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 HD (Sal2)
 http://201.159.113.219:49000/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6 (Guax0)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 (Guax0)
+http://45.228.234.167:8000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6 (Hon1)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 (Hon1)
 http://168.181.122.234:8000/play/a03x/index.m3u8
@@ -1684,6 +1705,9 @@ http://45.5.117.182:8000/play/a0f0/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6 (Sal2)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 (Sal2)
 http://201.159.113.219:49000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6 HD (Guax0)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 HD (Guax0)
+http://45.228.234.167:8000/play/a07w/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6 HD (Hon2)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 HD (Hon2)
 http://45.166.92.22:58001/play/a01j/index.m3u8
@@ -1706,76 +1730,61 @@ http://ultrapremium.cloud:8080/926392006tv/1hn79s/532
 #EXTINF:-1 tvg-id="ESPN 7 HD (Chi2)" tvg-logo="https://i.imgur.com/4Jd6COB.png" group-title="Verch" group-title="Deportes",ESPN 7 HD (Chi2)
 http://45.181.121.194:8000/play/210
 
-#EXTINF:-1 tvg-id="Fox Sports MX HD (ULT)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (ULT)
-http://ultrapremium.cloud:8080/926392006tv/1hn79s/540
-
-#EXTINF:-1 tvg-id="Fox Sports MX HD (ULT)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (ULT)
-http://ultrapremium.cloud:8080/926392006tv/1hn79s/534
-
-#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (ULT) 
-http://ultrapremium.cloud:8080/926392006tv/1hn79s/529
-
-#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (ULT) 
-http://ultrapremium.cloud:8080/926392006tv/1hn79s/530
-
-#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (ULT)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (ULT) 
-http://ultrapremium.cloud:8080/926392006tv/1hn79s/535
-
-#EXTINF:-1 tvg-id="Fox Deportes LAT (Sal1)" tvg-logo="https://i.imgur.com/YX1oHhH.png" group-title="Verch" group-title="Deportes",Fox Deportes LAT (Sal1)
-http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox Deportes HD (LAT) (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/YX1oHhH.png" group-title="Verch" group-title="Deportes",Fox Deportes HD (LAT) (🇺🇸) (Z1)
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports MX (Sal1)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX (Sal1)
-http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox Sports MX HD (L33)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (L33)
+http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28008
 
 #EXTINF:-1 tvg-id="Fox Sports HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports HD (🇲🇽) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
 
-#EXTINF:-1 tvg-id="FS1 HD (🇺🇸) (Z1)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",FS1 HD (🇺🇸) (Z1)
+#EXTINF:-1 tvg-id="FS1 HD (Z1)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",FS1 HD (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/42.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports MX HD (L33)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (L33)
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28008
-
-#EXTINF:-1 tvg-id="Fox Sports 2 MX (Sal1) " tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX (Sal1) 
-http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX HD (L33)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (L33) 
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28009
 
-#EXTINF:-1 tvg-id="Fox Sports 3 MX (Sal1)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 MX (Sal1)
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (Gua1)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (Gua1) 
+http://200.115.120.1:8000/play/ca075/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (Gua1)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (Gua1) 
+http://200.115.120.1:8000/play/ca076/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Deportes HD (LAT)  (Z1)" tvg-logo="https://i.imgur.com/YX1oHhH.png" group-title="Verch" group-title="Deportes",Fox Deportes HD (LAT) (Z1)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 3 MX HD (L33)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 MX HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28010
 
+#EXTINF:-1 tvg-id="Fox Sports 3 MX HD (Gua1)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 MX HD (Gua1)
+http://200.115.120.1:8000/play/ca077/index.m3u8
+
 #EXTINF:-1 tvg-id="Claro Sports 1 (Gua0)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 1 (Gua0)
 http://181.78.105.146:2000/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-id="Claro Sports 1 (Hon3)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 1 (Hon3)
-http://138.59.177.34:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="Claro Sports 1 (Sal2)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 1 (Sal2)
+http://201.159.113.219:49000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 1 HD (Gua2)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 1 HD (Gua2)
 http://181.78.105.146:6060/play/a05a
 
-#EXTINF:-1 tvg-id="Claro Sports 1 HD (Hon3)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 1 HD (Hon3)
-http://138.59.177.34:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="Claro Sports 1 HD (Guax0)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 1 HD (Guax0)
+http://45.228.234.167:8000/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 2 (Gua2)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 (Gua2)
 http://181.78.105.146:6060/play/a00w
 
-#EXTINF:-1 tvg-id="Claro Sports 2 (Hon3)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 (Hon3)
-http://138.59.177.34:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="Claro Sports 2 (Sal2)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 (Sal2)
+http://201.159.113.219:49000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 2 HD (Gua0)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 HD (Gua0)
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
-#EXTINF:-1 tvg-id="Claro Sports 2 HD (Hon3)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 HD (Hon3)
-http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="Claro Sports 2 HD (Guax0)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 HD (Guax0)
+http://45.228.234.167:8000/play/a07g/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN Sports Ñ HD (🇪🇸) (Z1)" tvg-logo="https://i.imgur.com/n3IhENm.png" group-title="Verch" group-title="Deportes",beIN Sports Ñ HD (🇪🇸) (Z1)
+#EXTINF:-1 tvg-id="Claro Sports 2 HD (Guax0)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 HD (Guax0)
+http://45.228.234.167:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN Sports Ñ HD (ES) (Z1)" tvg-logo="https://i.imgur.com/n3IhENm.png" group-title="Verch" group-title="Deportes",beIN Sports Ñ HD (ES) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/176.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sports XTRA Ñ (VIX)" tvg-logo="https://i.imgur.com/YPqbowl.png" group-title="Verch" group-title="Deportes",beIN Sports XTRA Ñ (VIX)
@@ -1796,8 +1805,8 @@ http://45.181.121.194:8000/play/233
 #EXTINF:-1 tvg-id="TNT Sports (Sal2)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TNT Sports (Sal2)
 http://45.181.121.194:8000/play/235
 
-#EXTINF:-1 tvg-id="Tigo Sports HD (Hon3)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Tigo Sports HD (Hon3)
-http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="Tigo Sports HD (Sal2)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Tigo Sports HD (Sal2)
+http://201.159.113.219:49000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf Channel (Gua6)" tvg-logo="https://i.imgur.com/pfFEal3.png" group-title="Verch" group-title="Deportes",Golf Channel (Gua6)
 http://181.78.105.146:8800/play/a00j
@@ -3162,3 +3171,4 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ4500020V7.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESAJ45000181E" tvg-id="ESAJ45000181E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" tvg-chno="4999" group-title="SamsungTV+(Esp)" , Acción - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
+
