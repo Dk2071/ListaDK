@@ -512,7 +512,6 @@ http://45.228.234.167:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="MTV 00S HD (Gua2)" tvg-logo="https://i.imgur.com/R84u6FL.png" group-title="Verch" group-title="Musical",MTV 00S HD (Gua2)
 http://181.78.105.146:6060/play/a03o/index.m3u8
 
-
 #EXTINF:-1 tvg-id="MTV 80s (Guax0)" tvg-logo="https://i.imgur.com/KncJA9c.png" group-title="Verch" group-title="Musical",MTV 80s (Guax0) 
 http://45.228.234.167:8000/play/a053/index.m3u8
 
@@ -539,6 +538,67 @@ http://45.228.234.167:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV SIM HD (Gua2)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV SIM HD (Gua2)
 http://181.78.105.146:6060/play/a03n
+
+#EXTINF:-1,tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA" , FreeTV Hits (Vizio)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flashvizio-vizious/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA" , FreeTV Hits alt (Vizio)
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-vizio/CDN/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0" tvg-id="5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fb210a8-0d8a-47b5-84da-f6457988f8cd/labocinalatina_logo_light_-_Jordan_Warkol.png" group-title="USA" , La Bocina Latina
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6329474265c8569187176338" tvg-id="5e20b730f2f8d5003d739db7-6329474265c8569187176338" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="USA" , TRACE Brazuca
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6329474265c8569187176338.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf" tvg-id="5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="USA" , TRACE Latina
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3" tvg-id="5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" group-title="USA" , VR+
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3.m3u8
+
+#EXTINF:-1,MTV Flow Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=googletv&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1,MTV Spankin New
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d73c186a8060007fd7aca/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=ROKU_ADS_PLATFORM_TYPE&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1,MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1,MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1,WMX POP (Geo)
+https://live881.delivery.roku.com/cf3a07f2-bf98-47b6-834f-56d63719433f/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,MTV Yo!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1,WMX Hip Hop (Geo) 
+https://live892.delivery.roku.com/3f86f05d-a194-4812-976d-baca4c95c645/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,WMX Rock (Geo)
+https://live855.delivery.roku.com/6b0d7ecb-f95a-4b4a-97a5-b971c2adce93/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,Trace Brazuca (MX)
+https://trace-brazuca-lg-mx.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Trace Brazuca alt (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-brazuca-lg-mx/playlist.m3u8
+
+#EXTINF:-1,Trace Latina (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-mx/playlist.m3u8
+
+#EXTINF:-1,Trace Sport Stars (MX)
+https://tracetv-tracesportsstar-lgmx.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Trace Urban (MX)
+https://trace-urban-lg-mx.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-id="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="USA" , TRACE Urban
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda.m3u8
+
 
 + Entretenimiento +
 
@@ -1733,6 +1793,9 @@ http://45.181.121.194:8000/play/210
 #EXTINF:-1 tvg-id="Fox Sports MX HD (L33)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (L33)
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28008
 
+#EXTINF:-1 tvg-id="Fox Sports MX HD (Gua1)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (Gua1) 
+http://200.115.120.1:8000/play/ca075/index.m3u8
+
 #EXTINF:-1 tvg-id="Fox Sports HD (🇲🇽) (Z1)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports HD (🇲🇽) (Z1)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
 
@@ -1741,9 +1804,6 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/42.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX HD (L33)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (L33) 
 http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28009
-
-#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (Gua1)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (Gua1) 
-http://200.115.120.1:8000/play/ca075/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX HD (Gua1)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (Gua1) 
 http://200.115.120.1:8000/play/ca076/index.m3u8
@@ -3172,3 +3232,142 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ4500020V7.m3u8
 #EXTINF:-1 channel-id="samsung-ESAJ45000181E" tvg-id="ESAJ45000181E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" tvg-chno="4999" group-title="SamsungTV+(Esp)" , Acción - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
 
++ TDT VARIOS +
+
+#EXTINF:-1,Sonyone Competencias (Roku)
+https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Comedias (Roku)
+https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Novelas (Roku)
+https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Competencias
+https://spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Comedias (Vizio)
+https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Novelas (Vizio)
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Compentencias (Xiaomi)
+https://spt-sonyonecompetencias-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Sharktank (Xiaomi)
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,AMC en Español (Vizio)
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Tastemade En Espanol (Vizio)
+https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Cine Real (Vizio)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a2c0242-bbe7-4cce-8cb3-aab334d39ea5/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA" , FreeTV Drama (Roku)
+https://live435.delivery.roku.com/4e0a3d3a-de67-4b64-8954-33ea2b9355b4/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA" , FreeTV Sureno (Roku)
+https://live335.delivery.roku.com/28e505f3-4875-472e-9586-946b89508cf2/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,tvg-logo="https://provider-static.plex.tv/epg/cms/production/b00e74dc-d15c-40c4-a411-c2a730034f5d/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA", FreeTV Estelar (Xiaomi)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-xiaomi/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA" , FreeTV Hits (Xiaomi)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/31b558aa-aff3-4529-a3e1-db97b394e97f/FreeTVBanda_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA" , FreeTV Banda (Plex)
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cfe65ea-0cf3-4d32-8165-a76e076878bd/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA" , FreeTV Familia (Plex)
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f49.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="USA" , FreeTV Live (Plex)
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="USA" , FreeTV Saber Más (Plex)
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-id="608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Mexico" , FreeTV Drama (Plex)
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Mexico" , FreeTV Estelar (Plex)
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193.m3u8
+
+#EXTINF:-1,Mytime (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+
+#EXTINF:-1,Mytime Movie Network En Espanol (Geo)
+https://live926.delivery.roku.com/2160eae8-e86a-4165-8a40-05308f774020/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,Movie Central (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-mctves-xiaomi/playlist.m3u8
+
+#EXTINF:-1,Canela Sports (Geo)
+https://live1058.delivery.roku.com/ac3e64f3-c7d8-4011-b73b-68c4a94f6320/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,PowerNation en Espanol (Geo) 
+https://live965.delivery.roku.com/c5ba246b-d7b0-4ce8-9460-49f0802db9b6/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,La Saga (Geo)
+https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/dbc5515b-8b28-4482-8adb-da49305e45d1/live.m3u8
+
+#EXTINF:-1,Canela TV (Geo)
+https://live1059.delivery.roku.com/786dfd2f-40e6-4add-9bfa-5424ae0801ac/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,RCN Más recheck
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,RCN Xtra recheck
+https://latv-rcn-xtra-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Canela Cinema (Geo)
+https://live1060.delivery.roku.com/68fe2258-4771-40f1-a740-f6cc73c936bb/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,Spark TV - Luz & Amor
+https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/794fb6ba-7f23-4b9e-b727-d72297c1e910/live.m3u8
+
+#EXTINF:-1,Canela Clásicos (Geo)
+https://live1062.delivery.roku.com/1fc3455d-921f-4f7b-a9de-a2915887517e/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,OroTV (Geo)
+https://live950.delivery.roku.com/a4e6c8b5-5266-4543-9065-bb40f0c08128/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,Filmex Clasico (Geo) 
+https://live940.delivery.roku.com/03c08ded-0cac-4c44-a423-f2670e78da2b/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,Filmex (Geo)
+https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/1e9cc0aa-9bd4-4267-b356-edb8482391cd/live.m3u8
+
+#EXTINF:-1,Cops en Espanol (Geo)
+https://live889.delivery.roku.com/0fe70d5f-4a06-4860-8520-947f00096078/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,MMC (Geo)
+https://live463.delivery.roku.com/5a472ee2-a93d-4cbd-a12d-afff4ed79fbe/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,Caillou (ES)
+https://dhx-caillou-1-es.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Yu-Gi-Oh (ES)
+https://fastmedia-yu-gi-oh-5-es.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Naruto (Geo)
+https://amg00609-palatinmedia-amg00609c1-xiaomi-international-544.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-naruto-xiaomiinternational/playlist.m3u8
+
+#EXTINF:-1,Euronews Espanol (Geo)
+https://live911.delivery.roku.com/ed2f79ca-62d3-44cd-8adf-67b62ee4be2c/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1,Euronews Espanol alt
+https://euronews-euronews-spanish-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Canela Cinema (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
+
+#EXTINF:-1,Canela TV (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8
+
+#EXTINF:-1,Canela Novelas (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgmx/playlist.m3u8
