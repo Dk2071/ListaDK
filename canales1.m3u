@@ -1063,12 +1063,14 @@ http://168.181.122.234:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Golden Premiere HD (RD1)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere HD (RD1)
 http://204.157.251.250:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="Golden Premiere 2 HD (Guax0))" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (Guax0)
+#EXTINF:-1 tvg-id="Golden Premiere 2 HD (Guax0)" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (Guax0)
 http://45.228.234.167:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="Golden Premiere 2 HD (Hon1)" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (Hon1)http://168.181.122.234:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="Golden Premiere 2 HD (Hon1)" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (Hon1)
+http://168.181.122.234:8000/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-id="Golden Premiere 2 HD (RD1)" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (RD1)http://204.157.251.250:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="Golden Premiere 2 HD (Rd1)" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (Rd1)
+http://204.157.251.250:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-id="MX Family HD (Chi2)" tvg-logo="https://i.imgur.com/t3WI26Q.jpg" group-title="Verch" group-title="Pelis",MX Family HD (Chi2)
 http://45.181.121.194:8000/play/120
@@ -3461,3 +3463,4 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20231229T003151SQUARE.png_20231229003151.png" tvg-chno="1552" group-title="TDT" group-title="ENG", Stingray Greatest Hits
 https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+
