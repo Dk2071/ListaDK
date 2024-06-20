@@ -1063,7 +1063,7 @@ http://168.181.122.234:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Golden Premiere HD (RD1)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere HD (RD1)
 http://204.157.251.250:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="Golden Premiere 2 HD (Guax0))" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (Guax0)
+#EXTINF:-1 tvg-id="Golden Premiere 2 HD (Guax0)" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (Guax0)
 http://45.228.234.167:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="Golden Premiere 2 HD (Hon1)" tvg-logo="https://i.imgur.com/yaL4sJl.png" group-title="Verch" group-title="Pelis",Golden Premiere 2 HD (Hon1)http://168.181.122.234:8000/play/a03r/index.m3u8
