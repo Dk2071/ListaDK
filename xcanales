@@ -267,15 +267,6 @@ https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Estrella News" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Verch" group-title="General",Estrella News HD
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:1 tvg-id="TEN TV.HON" tvg-logo="https://i.imgur.com/iTOD8yC.png" group-title="Verch" group-title="General",TEN TV
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
-#EXTINF:-1 tvg-id="CorTV.mx" tvg-logo="https://i.imgur.com/NLO7HO4.png" group-title="Verch" group-title="General",CorTV HD
-https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg TV US" tvg-logo="https://i.imgur.com/FXB5nte.png" group-title="Verch" group-title="General",Bloomberg TV US HD
-https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
-
 + Musical +
 
 #EXTINF:-1 tvg-id="Teleritmo (X1)" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Verch" group-title="Musical",Teleritmo (X1)
@@ -296,14 +287,14 @@ http://45.5.117.182:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="Exa TV (Gua2)" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="Verch" group-title="Musical",Exa TV (Gua2)
 http://181.78.105.146:6060/play/a038
 
-#EXTINF:-1 tvg-id="Telehit M (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit M (Gua1)
-http://200.115.120.1:8000/play/ca068/index.m3u8
+#EXTINF:-1 tvg-id="Telehit HD (Col4)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (Col4)
+http://138.186.20.13:23200/play/a0bg
 
-#EXTINF:-1 tvg-id="Telehit M (Col1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit M (Col1)
-http://190.242.46.20:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="Telehit Lat (Col4)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Latino (Col4)
+http://138.186.20.13:23200/play/a0gz
 
-#EXTINF:-1 tvg-id="Telehit Urbano (Usa2)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Urbano (Usa2)
-http://170.254.18.106/TELEHIT/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Telehit M (Col4)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Musica (Col4)
+http://138.186.20.13:23200/play/a0fs
 
 #EXTINF:-1 channel-id="samsung-ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="Musical" , Vevo Latino ESP
 https://jmp2.uk/SamsungTVPlus/ESBC2100002LV.m3u8
