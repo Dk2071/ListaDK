@@ -1936,9 +1936,6 @@ https://live435.delivery.roku.com/4e0a3d3a-de67-4b64-8954-33ea2b9355b4/t2-origin
 #EXTINF:-1 tvg-id="FreeTV Sureño (Roku)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Sureño (Roku)
 https://live335.delivery.roku.com/28e505f3-4875-472e-9586-946b89508cf2/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Estelar (Xiaomi)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b00e74dc-d15c-40c4-a411-c2a730034f5d/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Estelar (Xiaomi)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-xiaomi/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FreeTV Hits (Xiaomi)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Hits (Xiaomi)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
 
