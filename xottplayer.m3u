@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="Azteca Uno (Mx)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno (Mx)
 http://181.78.105.146:2000/play/a04p/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Uno (Gua6)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno (Gua6)
-http://181.78.105.146:8800/play/a07e
-
 #EXTINF:-1 tvg-id="Azteca Uno HD (X1)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno HD (X1)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -1546,8 +1543,11 @@ http://181.78.105.146:8800/play/a00d
 
 + Deportes +
 
-#EXTINF:-1 tvg-id="TUDN (1) HD (Mx)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",,TUDN (1) HD (Mx)
+#EXTINF:-1 tvg-id="TUDN (1) (Mx)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",,TUDN (1) (Mx)
 http://181.78.105.146:2000/play/a08j/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN (1) (Gua6)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",,TUDN (1) (Gua6)
+http://181.78.105.146:8800/play/a07e
 
 #EXTINF:-1 tvg-id="TUDN (1) HD (HonW)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (HonW)
 http://170.82.37.21:8000/play/a015/index.m3u8
@@ -1557,15 +1557,6 @@ http://45.5.117.182:8000/play/lh0jp/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (2) HD (Vix1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (2) HD (Vix1)
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF:-1 tvg-id="TUDN (2) HD (Vix2)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (2) HD (Vix2)
-https://tny.im/ft9je
-
-#EXTINF:-1 tvg-id="TUDN (3) HD (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (3) HD (Gua1)
-http://200.115.120.1:8000/play/ca074/index.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sports (Hon7)" tvg-logo="https://i.imgur.com/pYAbKhE.png" group-title="Verch" group-title="Deportes",Sky Sports (Hon7)
-http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports LA LIGA (Mx)" tvg-logo="https://i.imgur.com/pYAbKhE.png" group-title="Verch" group-title="Deportes",Sky Sports LA LIGA (Mx)
 http://181.78.105.146:2000/play/a08m/index.m3u8
@@ -1810,11 +1801,7 @@ http://201.159.113.219:49000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="Tigo Sports CDN HD (Hon7)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Tigo Sports CDN HD (Hon7)
 http://190.92.10.66:4000/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-id="TEST 2 HD (Hon7)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TEST 2 HD (Hon7)
-http://190.92.10.66:4000/play/a0h7/index.m3u8
-
-#EXTINF:-1 tvg-id="DEPORTES TVC 1 (Hon7)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png"
- group-title="Verch" group-title="Deportes",DEPORTES TVC 1 (Hon7)
+#EXTINF:-1 tvg-id="DEPORTES TVC 1 (Hon7)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="Verch" group-title="Deportes",DEPORTES TVC 1 (Hon7)
 http://190.92.10.66:4000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf Channel (GuaX0)" tvg-logo="https://i.imgur.com/pfFEal3.png" group-title="Verch" group-title="Deportes",Golf Channel (Guax0)
@@ -1905,6 +1892,8 @@ http://6oclock.xyz/Pumpkin1/Pumpkin1/28085
 #EXTINF:-1 tvg-id="FOX 5 (L33)" tvg-logo="https://i.imgur.com/qYuN23U.png" group-title="Verch" group-title="USA",FOX 5 (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28086
 
+#EXTINF:-1 tvg-id="FS1 USA HD (Hon7)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="USA",FS1 USA HD (Hon7)
+http://190.92.10.66:4000/play/a0h7/index.m3u8
 
 + TDT ESP  Xiaomi-Roku-LG-Samsung-Vizio +
 
