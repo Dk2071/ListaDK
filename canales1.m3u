@@ -269,9 +269,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="Teleritmo HD (X1)" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Verch" group-title="Musical",Teleritmo HD (X1)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-id="Claro Musica (Gua2)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Claro Musica (Gua2)
-http://181.78.105.146:6060/play/a010/index.m3u8
-
 #EXTINF:-1 tvg-id="Claro Musica (Ecua4)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Claro Musica (Ecua4)
 http://45.71.252.16:8000/play/a0bc/index.m3u8
 
@@ -632,7 +629,10 @@ http://181.78.105.146:8800/play/a07a
 #EXTINF:-1 tvg-id="AXN HD (2) (Hon2)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (2) (Hon2)
 http://45.166.92.22:58001/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id="City TV (Col0)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Col0)
+#EXTINF:-1 tvg-id="City TV HD (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV HD (Gua1) 
+http://200.115.120.1:8000/play/ca075/index.m3u8
+
+#EXTINF:-1 tvg-id="City TV HD (Col0)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV HD (Col0)
 http://181.78.23.26:45000/play/a02v
 
 #EXTINF:-1 tvg-id="Comedy Central (Mx)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Entretenimiento",Comedy Central (Mx)
@@ -1580,7 +1580,7 @@ http://201.159.113.219:49000/play/a062/index.m3u8
 http://45.181.121.194:8000/play/212
 
 #EXTINF:-1 tvg-id="ESPN Premium (Chi1)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium (Chi1)
-http://45.235.37.254:8370/play/a02o
+http://45.181.121.194:8000/play/209
 
 #EXTINF:-1 tvg-id="ESPN Premium (Chi2)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium (Chi2)
 http://45.181.121.194:8000/play/209
@@ -1717,9 +1717,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
 #EXTINF:-1 tvg-id="Fox Sports MX HD (GuaX2)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (GuaX2) 
 http://45.5.119.106:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports MX HD (Gua1)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (Gua1) 
-http://200.115.120.1:8000/play/ca075/index.m3u8
-
 #EXTINF:-1 tvg-id="Fox Sports 2 MX HD (L33)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (L33) 
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28009
 
@@ -1728,9 +1725,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/93
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX HD (GuaX2)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (GuaX2) 
 http://45.5.119.106:8000/play/a035/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 2 MX HD (Gua1)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (Gua1) 
-http://200.115.120.1:8000/play/ca076/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 3 MX HD (L33)" tvg-logo="https://i.imgur.com/5DlOebV.png" group-title="Verch" group-title="Deportes",Fox Sports 3 MX HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28010
