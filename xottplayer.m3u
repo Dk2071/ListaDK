@@ -269,9 +269,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="Teleritmo HD (X1)" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Verch" group-title="Musical",Teleritmo HD (X1)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-id="Claro Musica (Gua2)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Claro Musica (Gua2)
-http://181.78.105.146:6060/play/a010/index.m3u8
-
 #EXTINF:-1 tvg-id="Claro Musica (Ecua4)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Claro Musica (Ecua4)
 http://45.71.252.16:8000/play/a0bc/index.m3u8
 
@@ -1583,7 +1580,7 @@ http://201.159.113.219:49000/play/a062/index.m3u8
 http://45.181.121.194:8000/play/212
 
 #EXTINF:-1 tvg-id="ESPN Premium (Chi1)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium (Chi1)
-http://45.235.37.254:8370/play/a02o
+http://45.181.121.194:8000/play/209
 
 #EXTINF:-1 tvg-id="ESPN Premium (Chi2)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium (Chi2)
 http://45.181.121.194:8000/play/209
