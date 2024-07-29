@@ -967,6 +967,9 @@ http://181.78.64.71:16123/play/ch57
 #EXTINF:-1 tvg-id="DE PELICULA (L33)" tvg-logo="https://i.imgur.com/oswl9hl.png" group-title="Verch" group-title="Pelis",DE PELICULA (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/27983
 
+#EXTINF:-1 tvg-id="DE PELICULA HD (L33)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",DE PELICULA HD (L33)
+http://6oclock.xyz/Pumpkin1/Pumpkin1/28015
+
 #EXTINF:-1 tvg-id="Golden Edge (Guax0)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden Edge (Guax0)
 http://45.228.234.167:8000/play/a029/index.m3u8
 
@@ -976,8 +979,8 @@ http://181.78.64.71:16123/play/ch47
 #EXTINF:-1 tvg-id="Golden Edge (Sal1)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden Edge (Sal1)
 http://201.159.113.219:49000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-id="Golden Edge HD mx (L33)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",Golden Edge HD mx (L33)
-http://6oclock.xyz/Pumpkin1/Pumpkin1/28015
+#EXTINF:-1 tvg-id="Golden Edge HD (L35)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden Edge HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1624
 
 #EXTINF:-1 tvg-id="Golden Plus HD (L33)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28016
@@ -1191,6 +1194,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 + Pelis Premium +
 
+#EXTINF:-1 tvg-id="HBO HD (L35)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
+
 #EXTINF:-1 tvg-id="HBO (Col6)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO (Col6)
 http://177.93.46.163:8000/play/a01z
 
@@ -1214,6 +1220,9 @@ http://45.166.92.22:58001/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD (Ven1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (Ven1)
 http://38.41.8.1:8000/play/a01u
+
+#EXTINF:-1 tvg-id="HBO Plus HD (L35)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Pelis Premium",HBO Plus HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/610
 
 #EXTINF:-1 tvg-id="HBO Plus (Col6)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Pelis Premium",HBO Plus (Col6)
 http://177.93.46.163:8000/play/a00n
@@ -1242,6 +1251,9 @@ http://177.93.46.163:8000/play/a00m
 #EXTINF:-1 tvg-id="HBO 2 (Chi2)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 (Chi2)
 http://45.181.121.194:8000/play/021
 
+#EXTINF:-1 tvg-id="HBO 2 HD (L35)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121
+
 #EXTINF:-1 tvg-id="HBO 2 HD (Guax0)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (Guax0)
 http://45.228.234.167:8000/play/a00v/index.m3u8
 
@@ -1256,6 +1268,9 @@ http://38.41.8.1:8000/play/a05h
 
 #EXTINF:-1 tvg-id="HBO 2 HD (Ven1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (Ven1)
 http://38.41.8.1:8000/play/a021
+
+#EXTINF:-1 tvg-id="HBO Family (L35)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
 
 #EXTINF:-1 tvg-id="HBO Family (Col6)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family (Col6)
 http://177.93.46.163:8000/play/a00p
@@ -1275,11 +1290,17 @@ http://38.41.8.1:8000/play/a05k
 #EXTINF:-1 tvg-id="HBO Family HD (Ven1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family HD (Ven1)
 http://38.41.8.1:8000/play/a031
 
+#EXTINF:-1 tvg-id="HBO Mundi (L35)" tvg-logo="https://i.imgur.com/Pl2f98K.png" group-title="Verch" group-title="Pelis Premium",HBO Mundi (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1628
+
 #EXTINF:-1 tvg-id="HBO Xtreme (Col6)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme (Col6)
 http://177.93.46.163:8000/play/a00o
 
 #EXTINF:-1 tvg-id="HBO Xtreme (Chi2)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme (Chi2)
 http://45.181.121.194:8000/play/020
+
+#EXTINF:-1 tvg-id="HBO Xtreme HD (L35)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/298
 
 #EXTINF:-1 tvg-id="HBO Xtreme HD (Guax0)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme HD (Guax0)
 http://45.228.234.167:8000/play/a00y/index.m3u8
@@ -1296,8 +1317,14 @@ http://38.41.8.1:8000/play/a05j
 #EXTINF:-1 tvg-id="HBO Xtreme HD (Ven1)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme HD (Ven1)
 http://38.41.8.1:8000/play/a032
 
+#EXTINF:-1 tvg-id="HBO Pop HD (L35))" tvg-logo="https://i.imgur.com/CjKz57d.png" group-title="Verch" group-title="Pelis Premium",HBO Pop HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/117
+
 #EXTINF:-1 tvg-id="HBO Pop HD (Ven1)" tvg-logo="https://i.imgur.com/CjKz57d.png" group-title="Verch" group-title="Pelis Premium",HBO Pop HD (Ven1)
 http://38.41.8.1:8000/play/a00d
+
+#EXTINF:-1 tvg-id="HBO Signature HD (L35)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Pelis Premium",HBO Signature HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
 
 + Artes & Cultura +
 
@@ -1479,6 +1506,9 @@ http://181.78.105.146:8800/play/a07e
 
 #EXTINF:-1 tvg-id="TUDN (1) HD (Gua0)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (Gua0)
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN (1) HD (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (Gua1)
+http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN (2) HD (HonW)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (2) HD (HonW)
 http://170.82.37.21:8000/play/a015/index.m3u8
@@ -3386,4 +3416,3 @@ https://jmp2.uk/SamsungTVPlus/USBD3300021KV.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20231229T003151SQUARE.png_20231229003151.png" tvg-chno="1552" group-title="TDT" group-title="ENG", Stingray Greatest Hits
 https://jmp2.uk/SamsungTVPlus/USBD3500022DN.m3u8
-
