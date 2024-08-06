@@ -1003,20 +1003,28 @@ http://6oclock.xyz/Pumpkin1/Pumpkin1/28015
 #EXTINF:-1 tvg-id="Golden (Rd1)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden (Rd1)
 http://204.157.251.250:8000/play/a0ce/index.m3u8
 
+#EXTINF:-1 tvg-id="Golden (Sal1)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden (Sal1)
+http://201.159.113.219:49000/play/a02l/index.m3u8
+
 #EXTINF:-1 tvg-id="Golden (Col2)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden (Col2)
 http://179.189.222.226:8000/play/ch46
+
+#EXTINF:-1 tvg-id="Golden HD (L35)" tvg-logo="https://i.imgur.com/192d9Gl.png" group-title="Verch" group-title="Pelis",Golden HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1624
 
 #EXTINF:-1 tvg-id="Golden Edge (Col2)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",Golden Edge (Col2)
 http://179.189.222.226:8000/play/ch47
 
-#EXTINF:-1 tvg-id="Golden Edge (Sal1)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",Golden Edge (Sal1)
-http://201.159.113.219:49000/play/a02l/index.m3u8
-
 #EXTINF:-1 tvg-id="Golden Edge HD (L35)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",Golden Edge HD (L35)
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1624
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
+
+#EXTINF:-1 tvg-id="Golden Edge HD (Gua1)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",Golden Edge HD (Gua1)
+http://200.115.120.1:8000/play/ca037/index.m3u8
 
 #EXTINF:-1 tvg-id="Golden Plus HD (L33)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28016
+
+#EXTINF:-1 tvg-id="Golden Plus HD (L35)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS HD (L35)http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/75
 
 #EXTINF:-1 tvg-id="Golden Plus HD (Ven1)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS HD (Ven1)
 http://38.41.8.1:8000/play/a028
@@ -1026,6 +1034,9 @@ http://138.186.20.13:23200/play/a0bf
 
 #EXTINF:-1 tvg-id="Golden Plus HD (Bol1)" tvg-logo="https://i.imgur.com/0oOmSAo.png" group-title="Verch" group-title="Pelis",Golden PLUS HD (Bol1)
 http://177.222.108.82:2500/play/a0gv/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden Premiere HD (L35)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/83
 
 #EXTINF:-1 tvg-id="Golden Premiere HD (Rd1)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere HD (Rd1)
 http://204.157.251.250:8000/play/a06g/index.m3u8
