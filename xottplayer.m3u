@@ -296,9 +296,6 @@ http://45.5.117.182:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="Exa TV (Gua2)" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="Verch" group-title="Musical",Exa TV (Gua2)
 http://181.78.105.146:6060/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-id="Telehit Plus (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus (L8)
-https://bgtv.xyz/play/2-800.php?idch=91
-
 #EXTINF:-1 tvg-id="Telehit Plus (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus (Gua1)
 http://200.115.120.1:8000/play/ca048/index.m3u8
 
@@ -307,6 +304,9 @@ http://170.82.37.21:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="Telehit M HD (Col4)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit M HD (Col4)
 http://138.186.20.13:23200/play/a0gz
+
+#EXTINF:-1 tvg-id="Telehit HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=91
 
 #EXTINF:-1 tvg-id="Telehit HD (Col4)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (Col4)
 http://138.186.20.13:23200/play/a0fs
@@ -1263,6 +1263,13 @@ http://168.181.122.234:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTime movie" tvg-logo="https://i.imgur.com/b9cvzgC.png" group-title="Verch" group-title="Pelis",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A3CINE (es) HD (L8)" tvg-logo="https://i.imgur.com/4UT1wsJ.png" group-title="Verch" group-title="Pelis",A3CINE (es) HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=945
+
+#EXTINF:-1 tvg-id="M+ (es) HD (L8)" tvg-logo="https://i.imgur.com/uLg7xqa.png" group-title="Verch" group-title="Pelis",M+ (es) HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=981
+
 
 + Pelis Premium +
 
