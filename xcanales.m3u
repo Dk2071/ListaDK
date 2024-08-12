@@ -1,37 +1,3 @@
-Skip to content
-Navigation Menu
-Dk2071
-/
-ListaDK
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-BreadcrumbsListaDK
-/xottplayer.m3u
-Go to file
-t
-Latest commit
-Dk2071
-Dk2071
-Update xottplayer.m3u
-f5a7a06
- · 
-now
-History
-3621 lines (2407 loc) · 289 KB
-BreadcrumbsListaDK
-/xottplayer.m3u
-File metadata and controls
-
-Code
-
-Blame
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Azteca Uno (Mx)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno (Mx)
@@ -3653,4 +3619,3 @@ http://170.82.37.21:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="Private (Honw)" tvg-logo="https://i.imgur.com/A0thWJX.png" group-title="Verch" group-title="XXX",Private (Honw)
 http://170.82.37.21:8000/play/a04m/index.m3u8
-ListaDK/xottplayer.m3u at main · Dk2071/ListaDK 
