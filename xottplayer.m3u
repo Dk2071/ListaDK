@@ -1849,6 +1849,12 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/626
 #EXTINF:-1 tvg-id="beIN Sports Ñ HD (L8)" tvg-logo="https://i.imgur.com/YPqbowl.png" group-title="Verch" group-title="Deportes",beIN Sports Ñ HD (L8)
 https://bgtv.xyz/play/2-800.php?idch=376
 
+#EXTINF:-1 tvg-id="Movistar Deportes HD (PerX1)" tvg-logo="https://i.imgur.com/bmUZ2cV.png" group-title="Verch" group-title="Deportes",Movistar Deportes HD (PerX1)
+http://177.53.155.236:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="Movistar Plus (PerX1)" tvg-logo="https://i.imgur.com/uLg7xqa.png" group-title="Verch" group-title="Deportes",Movistar Plus (PerX1)
+http://177.53.155.236:8000/play/a09o/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT Sports Premium (Col7)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TNT Sports Premium (Col7)
 http://190.60.40.37:12500/play/a0bw/index.m3u8
 
