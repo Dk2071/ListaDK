@@ -129,6 +129,8 @@ https://vivo.Canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Mexiquense TV HD (L33)" tvg-logo="https://i.imgur.com/aLI7iQx.jpg" group-title="Verch" group-title="General",Mexiquense TV HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28053
 
+#EXTINF:-1 tvg-id="Movistar Plus (PerX1)" tvg-logo="https://i.imgur.com/uLg7xqa.png" group-title="Verch" group-title="General",Movistar Plus (PerX1)
+http://177.53.155.236:8000/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo 51 HD (Hon7)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo 51 HD (Hon7)
 http://190.92.10.66:4000/play/a004/index.m3u8
 
@@ -1851,9 +1853,6 @@ https://bgtv.xyz/play/2-800.php?idch=376
 
 #EXTINF:-1 tvg-id="Movistar Deportes HD (PerX1)" tvg-logo="https://i.imgur.com/bmUZ2cV.png" group-title="Verch" group-title="Deportes",Movistar Deportes HD (PerX1)
 http://177.53.155.236:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-id="Movistar Plus (PerX1)" tvg-logo="https://i.imgur.com/uLg7xqa.png" group-title="Verch" group-title="Deportes",Movistar Plus (PerX1)
-http://177.53.155.236:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports Premium (Col7)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TNT Sports Premium (Col7)
 http://190.60.40.37:12500/play/a0bw/index.m3u8
