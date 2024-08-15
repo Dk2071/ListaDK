@@ -371,8 +371,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d7
 #EXTINF:-1,MTV Yo!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 
+#EXTINF:-1 tvg-id="BANDAMAX (L8)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX (L8)
+https://bgtv.xyz/play/2-800.php?idch=8
+
 #EXTINF:-1 tvg-id="BANDAMAX (Honw)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX (Honw)
 http://170.82.37.21:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-id="BANDAMAX HD (L8)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=833
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3" tvg-id="5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" group-title="Verch" group-title="Musical", VR+ (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3.m3u8
@@ -647,7 +653,7 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="AXN HD (ES) (L8)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (ES) (L8)
 https://bgtv.xyz/play/2-800.php?idch=713
 
-#EXTINF:-1 tvg-id="AXN WHITE HD (ES) (L8)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN WHITE HD (ES) (L8)
+#EXTINF:-1 tvg-id="AXN WHITE HD (ES) (L8)" tvg-logo="https://i.imgur.com/VANzYBX.png" group-title="Verch" group-title="Entretenimiento",AXN WHITE HD (ES) (L8)
 https://bgtv.xyz/play/2-800.php?idch=714
 
 #EXTINF:-1 tvg-id="City TV HD (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV HD (Gua1) 
@@ -958,6 +964,12 @@ http://45.5.117.182:8000/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-id="Canal Claro (Sal1)" tvg-logo="https://i.imgur.com/z7NM5GR.jpg" group-title="Verch" group-title="Pelis",Canal Claro (Sal1)
 http://201.159.113.219:49000/play/a00r/index.m3u8
 
+#EXTINF:-1 tvg-id="Cinemax (L8)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (L8)
+https://bgtv.xyz/play/2-800.php?idch=20
+
+#EXTINF:-1 tvg-id="Cinemax Sur (L8)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax Sur (L8)
+https://bgtv.xyz/play/2-800.php?idch=739
+
 #EXTINF:-1 tvg-id="Cinemax (Gua3)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Gua3)
 http://181.78.105.146:8800/play/a06y
 
@@ -970,6 +982,9 @@ http://204.157.251.250:8000/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax (Ven1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Ven1)
 http://38.41.8.1:8000/play/a05v
 
+#EXTINF:-1 tvg-id="Cinemax HD (L8)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=638
+
 #EXTINF:-1 tvg-id="Cinemax HD (Bol1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (Bol1)
 http://177.222.108.82:2500/play/a0i3/index.m3u8
 
@@ -978,6 +993,12 @@ http://45.71.252.16:8000/play/a0il/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax HD (Ven1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (Ven1)
 http://38.41.8.1:8000/play/a00y
+
+#EXTINF:-1 tvg-id="Cine Canal (L8)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (L8)
+https://bgtv.xyz/play/2-800.php?idch=18
+
+#EXTINF:-1 tvg-id="Cine Canal Sur (L8)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal Sur (L8)
+https://bgtv.xyz/play/2-800.php?idch=738
 
 #EXTINF:-1 tvg-id="Cine Canal (Mx)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Mx)
 http://181.78.105.146:2000/play/a04q/index.m3u8
@@ -990,6 +1011,9 @@ http://181.78.105.146:8800/play/a070
 
 #EXTINF:-1 tvg-id="Cine Canal (Col0)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Col0)
 http://181.78.23.26:45000/play/a006
+
+#EXTINF:-1 tvg-id="Cine Canal HD (L8)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=479
 
 #EXTINF:-1 tvg-id="Cine Canal HD (Gua2)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal HD (Gua2)
 http://181.78.105.146:6060/play/a03d/index.m3u8
@@ -1647,10 +1671,16 @@ http://181.78.105.146:8800/play/a00d
 
 + Deportes +
 
-#EXTINF:-1 tvg-id="TUDN (1) (Mx)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",,TUDN (1) (Mx)
+#EXTINF:-1 tvg-id="TUDN (L8)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (L8)
+https://bgtv.xyz/play/2-800.php?idch=939
+
+#EXTINF:-1 tvg-id="TUDN HD (L8)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=878
+
+#EXTINF:-1 tvg-id="TUDN (1) (Mx)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) (Mx)
 http://181.78.105.146:2000/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN (1) (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",,TUDN (1) (Gua3)
+#EXTINF:-1 tvg-id="TUDN (1) (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) (Gua3)
 http://181.78.105.146:8800/play/a07e
 
 #EXTINF:-1 tvg-id="TUDN (1) HD (Gua0)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (Gua0)
@@ -1959,6 +1989,24 @@ https://bgtv.xyz/play/2-800.php?idch=318
 #EXTINF:-1 tvg-id="TNT Sports  HD Chile (L8)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TNT Sports HD Chile (L8)
 https://bgtv.xyz/play/2-800.php?idch=725
 
+#EXTINF:-1 tvg-id="DSPORTS (L8)" tvg-logo="https://i.imgur.com/WeGE9Es.png" group-title="Verch" group-title="Deportes",DSPORTS (L8)
+https://bgtv.xyz/play/2-800.php?idch=259
+
+#EXTINF:-1 tvg-id="DSPORTS (L8)" tvg-logo="https://i.imgur.com/WeGE9Es.png" group-title="Verch" group-title="Deportes",DSPORTS (L8)
+https://bgtv.xyz/play/2-800.php?idch=974
+
+#EXTINF:-1 tvg-id="DSPORTS HD (L8)" tvg-logo="https://i.imgur.com/WeGE9Es.png" group-title="Verch" group-title="Deportes",DSPORTS HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=935
+
+#EXTINF:-1 tvg-id="DSPORTS 2 HD (L8)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSPORTS 2 HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=667
+
+#EXTINF:-1 tvg-id="DSPORTS 2 HD (L8)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSPORTS 2 HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=975
+
+#EXTINF:-1 tvg-id="DSPORTS 2 HD (L8)" tvg-logo="https://i.imgur.com/BaGWiJ0.jpg" group-title="Verch" group-title="Deportes",DSPORTS 2 SUR HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=978
+
 #EXTINF:-1 tvg-id="TyC Sports (Col0)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TyC Sports (Col0)
 http://181.78.23.26:45000/play/a04m
 
@@ -1976,6 +2024,9 @@ http://177.222.108.82:2500/play/a0h0/index.m3u8
 
 #EXTINF:-1 tvg-id="DEPORTES TVC 1 (Hon7)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="Verch" group-title="Deportes",DEPORTES TVC 1 (Hon7)
 http://190.92.10.66:4000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="AYM SPORTS HD (L8)" tvg-logo="https://i.imgur.com/ZndxxCE.png" group-title="Verch" group-title="Deportes",AYM SPORTS HD (L8)
+https://bgtv.xyz/play/2-800.php?idch=148
 
 #EXTINF:-1 tvg-id="Golf Channel (Gua3)" tvg-logo="https://i.imgur.com/pfFEal3.png" group-title="Verch" group-title="Deportes",Golf Channel (Gua3)
 http://181.78.105.146:8800/play/a00j
