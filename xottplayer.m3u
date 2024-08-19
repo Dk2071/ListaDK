@@ -1494,6 +1494,15 @@ http://38.41.8.1:8000/play/a00d
 #EXTINF:-1 tvg-id="HBO Signature HD (L35)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Pelis Premium",HBO Signature HD (L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/118
 
+#EXTINF:-1 tvg-id="MOVISTAR ACCION HD (L8)" tvg-logo="http://x.playerlatino.live/maccion.png" group-title="Verch" group-title="Pelis Premium",MOVISTAR ACCION HD (L8)
+https://bgtv.xyz/play/2-802.php?idch=364
+
+#EXTINF:-1 tvg-id="MOVISTAR ESTRENOS HD (L8)" tvg-logo="http://x.playerlatino.live/movistar_estrenos.png" group-title="Verch" group-title="Pelis Premium",MOVISTAR ESTRENOS HD (L8)
+https://bgtv.xyz/play/2-802.php?idch=976
+
+#EXTINF:-1 tvg-id="MOVISTAR SERIES HD (L8)" tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="Verch" group-title="Pelis Premium",MOVISTAR SERIES HD (L8)
+https://bgtv.xyz/play/2-802.php?idch=924
+
 + Artes & Cultura +
 
 #EXTINF:-1 tvg-id="Animal Planet (Gua2)" tvg-logo="https://i.imgur.com/XLschKu.jpg" group-title="Verch" group-title="Artes&Cultura",Animal Planet (Gua2)
@@ -3686,34 +3695,3 @@ https://jmp2.uk/SamsungTVPlus/USBD3300021KV.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20231229T003151SQUARE.png_20231229003151.png" tvg-chno="1552" group-title="TDT" group-title="ENG", Stingray Greatest Hits
 https://jmp2.uk/SamsungTVPlus/USBD3500022DN.m3u8
 
-+ XXX +
-
-#EXTINF:-1 tvg-id="Playboy (Gua0)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Gua0)
-http://45.5.117.182:8000/play/a0ed/index.m3u8
-
-#EXTINF:-1 tvg-id="Penthouse Gold (Hon2)" tvg-logo="https://i.imgur.com/7aAWiPx.png" group-title="Verch" group-title="XXX",Penthouse Gold (Hon2)
-http://45.166.92.22:58001/play/a04c/index.m3u8
-
-#EXTINF:-1 tvg-id="Playboy (Gua3)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Gua3)
-http://181.78.105.146:8800/play/a01a
-
-#EXTINF:-1 tvg-id="Venus (Gua3)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Gua3)
-http://181.78.105.146:8800/play/a02h
-
-#EXTINF:-1 tvg-id="Sextreme (Col7)" tvg-logo="https://i.imgur.com/PmrFYh3.png" group-title="Verch" group-title="XXX",Sextreme (Col7)
-http://190.60.40.37:12500/play/SEXTREME/index.m3u8
-
-#EXTINF:-1 tvg-id="Erotic 6 (Honw)" tvg-logo="https://i.imgur.com/MrkjYCL.png" group-title="Verch" group-title="XXX",Erotic 6 (Honw)
-http://170.82.37.21:8000/play/a04l/index.m3u8
-
-#EXTINF:-1 tvg-id="Venus (Honw)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Honw)
-http://170.82.37.21:8000/play/a002/index.m3u8
-
-#EXTINF:-1 tvg-id="Venus (Col7)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Col7)
-http://190.60.40.37:12500/play/VENUS/index.m3u8
-
-#EXTINF:-1 tvg-id="Playboy (Honw)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Honw)
-http://170.82.37.21:8000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-id="Private (Honw)" tvg-logo="https://i.imgur.com/A0thWJX.png" group-title="Verch" group-title="XXX",Private (Honw)
-http://170.82.37.21:8000/play/a04m/index.m3u8
