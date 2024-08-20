@@ -742,6 +742,9 @@ https://bgtv.xyz/play/2-802.php?idch=157
 #EXTINF:-1 tvg-id="FX (1)(Mx)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (1)(Mx)
 http://181.78.105.146:2000/play/a05z/index.m3u8
 
+#EXTINF:-1 tvg-id="FX (2)(L8)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (2)(L8)
+https://bgtv.xyz/play/2-802.php?idch=42
+
 #EXTINF:-1 tvg-id="FX (2)(Gua2)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (2)(Gua2)
 http://181.78.105.146:6060/play/a00q/index.m3u8
 
@@ -749,6 +752,9 @@ http://181.78.105.146:6060/play/a00q/index.m3u8
 http://181.78.105.146:8800/play/a01y
 
 #EXTINF:-1 tvg-id="FX (2)(Sal1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (2)(Sal1)http://201.159.113.219:49000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="FX HD (1)(L8)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX HD (1)(L8)
+https://bgtv.xyz/play/2-802.php?idch=495
 
 #EXTINF:-1 tvg-id="FX HD (2)(Gua1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX HD (2)(Gua1)
 http://200.115.120.1:8000/play/ca017/index.m3u8
@@ -779,11 +785,14 @@ http://45.166.92.22:58001/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="Life Time (1) (Mx)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (1) (Mx)
 http://181.78.105.146:2000/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-id="Life Time (2) (Gua0)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (2) (Gua0)
+#EXTINF:-1 tvg-id="Life Time (1) (Gua0)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (1) (Gua0)
 http://45.5.117.182:8000/play/a0ez/index.m3u8
 
-#EXTINF:-1 tvg-id="Life Time (2) (Hon1)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (2) (Hon1)
+#EXTINF:-1 tvg-id="Life Time (1) (Hon1)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (1) (Hon1)
 http://168.181.122.234:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="Life Time (2) (L8)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (2) (L8)
+https://bgtv.xyz/play/2-802.php?idch=152
 
 #EXTINF:-1 tvg-id="Life Time (2) HD (Col0)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (2) HD (Col0)
 http://181.78.23.26:45000/play/a00e
@@ -830,23 +839,26 @@ https://bgtv.xyz/play/2-802.php?idch=970
 #EXTINF:-1 tvg-id="Sony Channel (1) (Mx)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (1) (Mx)
 http://181.78.105.146:2000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Channel (2) (Gua2)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (2) (Gua2)
+#EXTINF:-1 tvg-id="Sony Channel (1) (Gua2)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (1) (Gua2)
 http://181.78.105.146:6060/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Channel (2) (Col0)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (2) (Col0)
 http://181.78.23.26:45000/play/a02z
 
+#EXTINF:-1 tvg-id="Sony Channel HD (1) (L8)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel HD (1) (L8)
+https://bgtv.xyz/play/2-802.php?idch=498
+
+#EXTINF:-1 tvg-id="Sony Channel (1) HD (Gua2)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (1) HD (Gua2)
+http://181.78.105.146:6060/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony Channel (1) HD (Hon2)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (1) HD (Hon2)
+http://45.166.92.22:58001/play/a04a/index.m3u8
+
 #EXTINF:-1 tvg-id="Sony Channel HD (2) (L33)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (2) HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28033
 
-#EXTINF:-1 tvg-id="Sony Channel HD (L33)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (2) HD (L33)
+#EXTINF:-1 tvg-id="Sony Channel HD (3) (L33)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (3) HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28035
-
-#EXTINF:-1 tvg-id="Sony Channel (2) HD (Gua2)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (2) HD (Gua2)
-http://181.78.105.146:6060/play/a03c/index.m3u8
-
-#EXTINF:-1 tvg-id="Sony Channel (2) HD (Hon2)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (2) HD (Hon2)
-http://45.166.92.22:58001/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel (Gua2)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="Verch" group-title="Entretenimiento",Star Channel (Gua2)
 http://181.78.105.146:6060/play/a03y/index.m3u8
