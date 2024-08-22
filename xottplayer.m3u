@@ -3817,17 +3817,17 @@ http://181.78.105.146:8800/play/a02h
 #EXTINF:-1 tvg-id="Sextreme (Col7)" tvg-logo="https://i.imgur.com/PmrFYh3.png" group-title="Verch" group-title="XXX",Sextreme (Col7)
 http://190.60.40.37:12500/play/SEXTREME/index.m3u8
 
-#EXTINF:-1 tvg-id="Erotic 6 (Honw)" tvg-logo="https://i.imgur.com/MrkjYCL.png" group-title="Verch" group-title="XXX",Erotic 6 (Honw)
-http://170.82.37.21:8000/play/a04l/index.m3u8
-
-#EXTINF:-1 tvg-id="Venus (Honw)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Honw)
-http://170.82.37.21:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="Venus (Sal2)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Sal2)
+http://45.167.3.81:45000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="Venus (Col7)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Col7)
 http://190.60.40.37:12500/play/VENUS/index.m3u8
 
-#EXTINF:-1 tvg-id="Playboy (Honw)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Honw)
-http://170.82.37.21:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="Playboy (Sal2)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Sal2)
+http://45.167.3.81:45000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="Private (Honw)" tvg-logo="https://i.imgur.com/A0thWJX.png" group-title="Verch" group-title="XXX",Private (Honw)
 http://170.82.37.21:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="Erotic 6 (Honw)" tvg-logo="https://i.imgur.com/MrkjYCL.png" group-title="Verch" group-title="XXX",Erotic 6 (Honw)
+http://170.82.37.21:8000/play/a04l/index.m3u8
