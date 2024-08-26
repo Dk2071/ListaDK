@@ -1746,10 +1746,10 @@ http://181.78.105.146:8800/play/a00d
 
 + Deportes +
 
-#EXTINF:-1 tvg-id="TUDN (L8)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (L8)
+#EXTINF:-1 tvg-id="TUDN (L8)" tvg-logo="https://i.imgur.com/0BrTdhf.jpg" group-title="Verch" group-title="Deportes",TUDN (L8)
 https://bgtv.xyz/play/2-810.php?idch=939
 
-#EXTINF:-1 tvg-id="TUDN HD (L8)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (L8)
+#EXTINF:-1 tvg-id="TUDN HD (L8)" tvg-logo="https://i.imgur.com/0BrTdhf.jpg" group-title="Verch" group-title="Deportes",TUDN HD (L8)
 https://bgtv.xyz/play/2-810.php?idch=878
 
 #EXTINF:-1 tvg-id="TUDN (1) (Mx)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) (Mx)
