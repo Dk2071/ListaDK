@@ -2161,31 +2161,49 @@ http://6oclock.xyz/Pumpkin1/Pumpkin1/28086
 #EXTINF:-1 tvg-id="FS1 USA HD (Hon7)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="USA",FS1 USA HD (Hon7)
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 
-+ TDT ESP  Xiaomi-Roku-LG-Vizio +
-
-#EXTINF:-1 tvg-id="Sonyone Compentencias (Roku)" tvg-logo="https://i.imgur.com/u9D1mRG.png" group-title="TDT" group-title="ESP",Sonyone Compentencias (Roku)
-https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sonyone Comedias (Roku)" tvg-logo="https://i.imgur.com/qLRZ3Qd.png" group-title="TDT" group-title="ESP",Sonyone Comedias (Roku)
-https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sonyone Novelas (Roku)" tvg-logo="https://i.imgur.com/vDS6YaO.png" group-title="TDT" group-title="ESP",Sonyone Novelas (Roku)
-https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sonyone Compentencias (Vizio)" tvg-logo="https://i.imgur.com/u9D1mRG.png" group-title="TDT" group-title="ESP",Sonyone Compentencias (Vizio)
-https://spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sonyone Comedias (Vizio)" tvg-logo="https://i.imgur.com/qLRZ3Qd.png" group-title="TDT" group-title="ESP",Sonyone Comedias (Vizio)
-https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sonyone Novelas (Vizio)" tvg-logo="https://i.imgur.com/vDS6YaO.png" group-title="TDT" group-title="ESP",Sonyone Novelas (Vizio)
-https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
++ TDT ESP  Xiaomi-Roku-LG-Vizio-TCL-Plex +
 
 #EXTINF:-1 tvg-id="Sonyone Compentencias (Xiaomi)" tvg-logo="https://i.imgur.com/u9D1mRG.png" group-title="TDT" group-title="ESP",Sonyone Compentencias (Xiaomi)
 https://spt-sonyonecompetencias-1-mx.xiaomi.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sonyone Compentencias (Roku)" tvg-logo="https://i.imgur.com/u9D1mRG.png" group-title="TDT" group-title="ESP",Sonyone Compentencias (Roku)
+https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Compentencias (Vizio)" tvg-logo="https://i.imgur.com/u9D1mRG.png" group-title="TDT" group-title="ESP",Sonyone Compentencias (Vizio)
+https://spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Compentencias (TCL)" tvg-logo="https://i.imgur.com/u9D1mRG.png" group-title="TDT" group-title="ESP",Sonyone Compentencias (TCL)
+https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Compentencias US (TCL)" tvg-logo="https://i.imgur.com/u9D1mRG.png" group-title="TDT" group-title="ESP",Sonyone Compentencias US (TCL)
+https://spt-competencias-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Comedias (Roku)" tvg-logo="https://i.imgur.com/qLRZ3Qd.png" group-title="TDT" group-title="ESP",Sonyone Comedias (Roku)
+https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Comedias (Vizio)" tvg-logo="https://i.imgur.com/qLRZ3Qd.png" group-title="TDT" group-title="ESP",Sonyone Comedias (Vizio)
+https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Comedias (TCL)" tvg-logo="https://i.imgur.com/qLRZ3Qd.png" group-title="TDT" group-title="ESP",Sonyone Comedias (TCL)
+https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Novelas (Roku)" tvg-logo="https://i.imgur.com/vDS6YaO.png" group-title="TDT" group-title="ESP",Sonyone Novelas (Roku)
+https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Novelas (Vizio)" tvg-logo="https://i.imgur.com/vDS6YaO.png" group-title="TDT" group-title="ESP",Sonyone Novelas (Vizio)
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Novelas (TCL)" tvg-logo="https://i.imgur.com/vDS6YaO.png" group-title="TDT" group-title="ESP",Sonyone Novelas (TCL)
+https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Novelas US (TCL)" tvg-logo="https://i.imgur.com/vDS6YaO.png" group-title="TDT" group-title="ESP",Sonyone Novelas US (TCL)
+https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sonyone Sharktank (Xiaomi)" tvg-logo="https://i.imgur.com/XrHMbhM.png" group-title="TDT" group-title="ESP",Sonyone Sharktank (Xiaomi)
 https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonyone Sharktank (TCL)" tvg-logo="https://i.imgur.com/XrHMbhM.png" group-title="TDT" group-title="ESP",Sonyone Sharktank (TCL)
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMC en Español (Vizio)" tvg-logo="https://i.imgur.com/TNBC7f2.png" group-title="TDT" group-title="ESP",AMC en Español (Vizio)
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
@@ -2193,20 +2211,31 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 Tastemade En Espanol (Vizio)
 https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FreeTV Drama (Roku)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a2c0242-bbe7-4cce-8cb3-aab334d39ea5/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Drama (Roku)
+https://live435.delivery.roku.com/4e0a3d3a-de67-4b64-8954-33ea2b9355b4/t2-origin/out/v1/live.m3u8
+
 #EXTINF:-1 tvg-id="FreeTV Drama (Vizio)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a2c0242-bbe7-4cce-8cb3-aab334d39ea5/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Drama (Vizio)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Drama (Roku)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a2c0242-bbe7-4cce-8cb3-aab334d39ea5/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Drama (Roku)
-https://live435.delivery.roku.com/4e0a3d3a-de67-4b64-8954-33ea2b9355b4/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-id="608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Drama (Plex)
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV Sureño (Roku)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Sureño (Roku)
 https://live335.delivery.roku.com/28e505f3-4875-472e-9586-946b89508cf2/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Hits (Xiaomi)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Hits (Xiaomi)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeTV Estelar (AR) (LG)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Estelar (AR) (LG)
+https://amg01024-olympusat-amg01024c9-lg-ar-1668.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-tucine-lgar/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/31b558aa-aff3-4529-a3e1-db97b394e97f/FreeTVBanda_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Banda (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
+#EXTINF:-1 tvg-id="FreeTV Estelar (CO) (LG)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Estelar (CO) (LG)
+https://amg01024-olympusat-amg01024c5-lg-co-1142.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-tucine-lgco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeTV Estelar (CL) (LG)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Estelar (CL) (LG)https://amg01024-olympusat-amg01024c5-lg-cl-1141.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-tucine-lgcl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FreeTV Estelar (PE) (LG)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Estelar (PE) (LG)
+https://amg01024-olympusat-amg01024c5-lg-pe-1143.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-tucine-lgpe/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Estelar (Plex)
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cfe65ea-0cf3-4d32-8165-a76e076878bd/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Familia (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-60240f57676235002df19f49.m3u8
@@ -2217,11 +2246,11 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Saber Más (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284195.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-id="608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Drama (Plex)
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8
+#EXTINF:-1 tvg-id="FreeTV Hits (Xiaomi)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Hits (Xiaomi)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Estelar (Plex)
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193.m3u8
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/31b558aa-aff3-4529-a3e1-db97b394e97f/FreeTVBanda_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Banda (Plex)
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" group-title="TDT" group-title="ESP", Canela Clásicos (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
@@ -2337,29 +2366,32 @@ https://tracetv-tracesportsstar-lgmx.amagi.tv/playlist.m3u8
 #EXTINF:-1 Trace Urban (MX)
 https://trace-urban-lg-mx.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rakuten Comedy Movies (LG)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20231213T032945SQUARE.png_20231213032945.png" group-title="TDT" group-title="ESP", Rakuten Comedy Movies (LG)
-https://rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Rakuten Comedy Movies (Xiaomi)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20231213T032945SQUARE.png_20231213032945.png" group-title="TDT" group-title="ESP", Rakuten Comedy Movies (Xiaomi)
 https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rakuten Series Crime (LG)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" group-title="TDT" group-title="ESP", Rakuten Series Crime (LG)
-https://rakuten-seriescrime-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten Comedy Movies (LG)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20231213T032945SQUARE.png_20231213032945.png" group-title="TDT" group-title="ESP", Rakuten Comedy Movies (LG)
+https://rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rakuten Series Crime (Xiaomi)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" group-title="TDT" group-title="ESP", Rakuten Series Crime (Xiaomi)
 https://rakuten-seriescrime-2-es.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rakuten Estilo Y Vida (LG)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20230712T021338SQUARE.png_20230712021338.png" tvg-chno="4404" group-title="TDT" group-title="ESP", Rakuten Estilo Y Vida (LG)
-https://rakuten-estilo-y-vida-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten Series Crime (LG)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png" group-title="TDT" group-title="ESP", Rakuten Series Crime (LG)
+https://rakuten-seriescrime-2-es.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rakuten Estilo Y Vida (Xiaomi)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20230712T021338SQUARE.png_20230712021338.png" tvg-chno="4404" group-title="TDT" group-title="ESP", Rakuten Estilo Y Vida (Xiaomi)
 https://rakuten-estilo-y-vida-2-es.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rakuten Action Movies (LG)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" group-title="TDT" group-title="ESP", Rakuten Action Movies (LG)
-https://rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten Estilo Y Vida (LG)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20230712T021338SQUARE.png_20230712021338.png" tvg-chno="4404" group-title="TDT" group-title="ESP", Rakuten Estilo Y Vida (LG)
+https://rakuten-estilo-y-vida-2-es.lg.wurl.tv/playlist.m3u8
 
 vg-id="Rakuten Action Movies (Xiaomi)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" group-title="TDT" group-title="ESP", Rakuten Action Movies (Xiaomi)
 https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten Action Movies (LG)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png" group-title="TDT" group-title="ESP", Rakuten Action Movies (LG)
+https://rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Family (ES)
+https://rakuten-family-2-es.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Rakuten Family (ES)
 https://rakuten-family-2-es.lg.wurl.tv/playlist.m3u8
@@ -2370,38 +2402,29 @@ https://rakuten-guardian-1-es.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Guardian (ES)
 https://rakuten-guardian-1-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Rakuten Family (ES)
-https://rakuten-family-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Romance (ES)
+https://rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Rakuten Romance (ES)
 https://rakuten-romance-2-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Rakuten Romance (ES)
-https://rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Rakuten Spotlight (ES)
-https://rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Rakuten Spotlight (ES)
-https://rakuten-spotlight-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (ES)
+https://rakuten-topfree-2-es.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Rakuten Top Free (ES)
 https://rakuten-topfree-2-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Rakuten Top Free (ES)
-https://rakuten-topfree-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (ES)
+https://rakuten-thriller-1-es.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Rakuten Thriller (ES)
 https://rakuten-thriller-2-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Rakuten Thriller (ES)
-https://rakuten-thriller-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (ES)
+https://rakuten-tvshows-2-es.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Rakuten TV Shows (ES)
 https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Rakuten TV Shows (ES)
-https://rakuten-tvshows-2-es.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Rakuten Viki (MX)
 https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
