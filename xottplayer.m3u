@@ -410,8 +410,8 @@ http://179.189.222.226:8000/play/ch56
 #EXTINF:-1 tvg-id="MI MUSICA ROMANTICA HD (Col2)" tvg-logo="https://i.imgur.com/rBZyzR0.png" group-title="Verch" group-title="Musical",MI M ROMANTICA HD (Col2)
 http://179.189.222.226:8000/play/ch54
 
-#EXTINF:-1 tvg-id="Stingray Concerts HD (Bol1)" tvg-logo="https://i.imgur.com/xwoq321.png" group-title="Verch" group-title="Musical",Stingray Concerts HD (Bol1)
-http://177.222.108.82:2500/play/a0h1/index.m3u8
+#EXTINF:-1 tvg-id="Stingray Concerts HD (Ven2)" tvg-logo="https://i.imgur.com/xwoq321.png" group-title="Verch" group-title="Musical",Stingray Concerts HD (Ven2)
+http://200.59.188.3:8000/play/a02j
 
 #EXTINF:-1 tvg-id="Concert Channel (Hon4)" tvg-logo="https://i.imgur.com/B0vgwPE.png" group-title="Verch" group-title="Musical",Concert Channel (Hon4)
 http://45.4.85.214:58001/play/a03k
@@ -764,6 +764,9 @@ http://6oclock.xyz/Pumpkin1/Pumpkin1/28033
 #EXTINF:-1 tvg-id="Sony Channel HD (3) (L33)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel HD (3) (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28035
 
+#EXTINF:-1 tvg-id="Starz Encore (L35)" tvg-logo="https://i.imgur.com/hCvbjEC.png" group-title="Verch" group-title="Entretenimiento",Starz Encore (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
+
 #EXTINF:-1 tvg-id="Star Channel (Gua2)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="Verch" group-title="Entretenimiento",Star Channel (Gua2)
 http://181.78.105.146:6060/play/a03y/index.m3u8
 
@@ -803,14 +806,17 @@ http://45.5.117.182:8000/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="Sun Channel (Gua3)" tvg-logo="https://i.imgur.com/8pjVpdX.png" group-title="Verch" group-title="Entretenimiento",Sun Channel (Gua3)
 http://181.78.105.146:8800/play/a023
 
-#EXTINF:-1 tvg-id="USA (Gua0)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA (Gua0)
+#EXTINF:-1 tvg-id="USA (Gua0)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Gua0)
 http://45.5.117.182:8000/play/a0hs/index.m3u8
 
-#EXTINF:-1 tvg-id="USA (Gua2)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA (Gua2)
+#EXTINF:-1 tvg-id="USA (Gua2)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Gua2)
 http://181.78.105.146:6060/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="USA (Rd1)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA (Rd1)
+#EXTINF:-1 tvg-id="USA (Rd1)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Rd1)
 http://204.157.251.250:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="USA HD (L35)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/31
 
 #EXTINF:-1 tvg-id="TNT NOVELAS (Gua2)" tvg-logo="https://i.imgur.com/857ej48.jpg" group-title="Verch" group-title="Entretenimiento",TNT NOVELAS (Gua2)
 http://181.78.105.146:6060/play/a01s/index.m3u8
