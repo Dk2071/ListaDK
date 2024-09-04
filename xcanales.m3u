@@ -302,14 +302,17 @@ http://45.5.117.182:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="Exa TV (Gua2)" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="Verch" group-title="Musical",Exa TV (Gua2)
 http://181.78.105.146:6060/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-id="Telehit Plus (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus (L8)
-http://bgtv.xyz/play/play-900.php?ul=154&token=asdasfasdda
-
-#EXTINF:-1 tvg-id="Telehit Plus (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus (Gua1)
-http://200.115.120.1:8000/play/ca048/index.m3u8
+#EXTINF:-1 tvg-id="Telehit (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit (L8)
+http://bgtv.xyz/play/play-900.php?ul=91&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Telehit HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (L8)
-http://bgtv.xyz/play/play-900.php?ul=91&token=asdasfasdda
+http://bgtv.xyz/play/play-900.php?ul=154&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="Telehit Plus HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus HD (L8)
+http://bgtv.xyz/play/play-900.php?ul=649&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="Telehit Plus HD (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus HD (Gua1)
+http://200.115.120.1:8000/play/ca048/index.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="Musical" , Vevo Latino ESP
 https://jmp2.uk/SamsungTVPlus/ESBC2100002LV.m3u8
@@ -1680,10 +1683,10 @@ http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:-1 tvg-id="TUDN (2) HD (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (2) HD (Gua3)
 http://181.78.105.146:8800/play/a07e
 
-#EXTINF:-1 tvg-id="PX SPORTS (L8)" tvg-logo="https://i.imgur.com/0BrTdhf.jpg" group-title="Verch" group-title="Deportes",PX SPORTS (L8)
+#EXTINF:-1 tvg-id="Afizzionados (L8)" tvg-logo="https://i.imgur.com/A05y72j.png" group-title="Verch" group-title="Deportes",Afizzionados (L8)
 http://bgtv.xyz/play/play-900.php?ul=939&token=asdasfasdda
 
-#EXTINF:-1 tvg-id="PX SPORTS HD (L8)" tvg-logo="https://i.imgur.com/0BrTdhf.jpg" group-title="Verch" group-title="Deportes",PX SPORTS HD (L8)
+#EXTINF:-1 tvg-id="Afizzionados HD (L8)" tvg-logo="https://i.imgur.com/A05y72j.png" group-title="Verch" group-title="Deportes",Afizzionados HD (L8)
 http://bgtv.xyz/play/play-900.php?ul=878&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Sky Sports LA LIGA (Hon7)" tvg-logo="https://i.imgur.com/pYAbKhE.png" group-title="Verch" group-title="Deportes",Sky Sports LA LIGA (Hon7)
@@ -1893,6 +1896,9 @@ http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN  Deportes (L35)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Deportes (L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
 
+#EXTINF:-1 tvg-id="Fox Sports Premium MX (L8)" tvg-logo="https://i.imgur.com/q2xv9Gv.jpg" group-title="Verch" group-title="Deportes",Fox Sports Premium MX (L8)
+http://bgtv.xyz/play/play-900.php?ul=276&token=asdasfasdda
+
 #EXTINF:-1 tvg-id="Fox Sports Premium HD MX (L35)" tvg-logo="https://i.imgur.com/q2xv9Gv.jpg" group-title="Verch" group-title="Deportes",Fox Sports Premium HD MX (L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
 
@@ -1986,7 +1992,7 @@ http://204.157.251.250:8000/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-id="Claro Sports 3 HD (Rd1)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 3 HD (Rd1)
 http://204.157.251.250:8000/play/a0ci/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN Sports (L8)" tvg-logo="https://i.imgur.com/YPqbowl.png" group-title="Verch" group-title="Deportes",beIN Sports HD (L8)
+#EXTINF:-1 tvg-id="beIN Sports HD (L8)" tvg-logo="https://i.imgur.com/YPqbowl.png" group-title="Verch" group-title="Deportes",beIN Sports HD (L8)
 http://bgtv.xyz/play/play-900.php?ul=9&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="beIN Sports XTRA Ñ HD (X1)" tvg-logo="https://i.imgur.com/YPqbowl.png" group-title="Verch" group-title="Deportes",beIN Sports XTRA Ñ HD (X1)
