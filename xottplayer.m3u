@@ -12,7 +12,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Azmundo (Gua2)" tvg-logo="https://i.imgur.com/QnPkuYJ.png" group-title="Verch" group-title="General",Azmundo (Gua2)
 http://181.78.105.146:6060/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40
+#EXTINF:-1 tvg-id="ADN 40 HD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40 HD (L35)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 HD (L35)
@@ -23,6 +23,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40 HD (L33)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Verch" group-title="General",ADN 40 HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28050
+
+#EXTINF:-1 tvg-id="Las Estrellas (L8)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas (L8)
+http://bgtv.xyz/play/play-900.php?ul=736&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Las Estrellas (Mx)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas (Mx)
 http://181.78.105.146:2000/play/a00g/index.m3u8
@@ -38,9 +41,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3
 
 #EXTINF:-1 tvg-id="Las Estrellas HD (L8)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas HD (L8)
 http://bgtv.xyz/play/play-900.php?ul=411&token=asdasfasdda
-
-#EXTINF:-1 tvg-id="Las Estrellas Sur (L8)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas Sur (L8)
-http://bgtv.xyz/play/play-900.php?ul=736&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Las Estrellas HD (Gua1)" tvg-logo="https://i.imgur.com/W4Eng9V.png" group-title="Verch" group-title="General",Las Estrellas HD (Gua1)
 http://200.115.120.1:8000/play/ca014/index.m3u8
@@ -314,15 +314,6 @@ http://bgtv.xyz/play/play-900.php?ul=649&token=asdasfasdda
 #EXTINF:-1 tvg-id="Telehit Plus HD (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus HD (Gua1)
 http://200.115.120.1:8000/play/ca048/index.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" tvg-chno="4710" group-title="Musical" , Vevo Latino ESP
-https://jmp2.uk/SamsungTVPlus/ESBC2100002LV.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20230809T005426SQUARE.png_20230809005426.png" tvg-chno="1527" group-title="Musical" , Vevo Latino USA
-https://jmp2.uk/SamsungTVPlus/USBC3600015GF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600001RQ" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20231024T234723SQUARE.png_20231024234724.png" tvg-chno="1530" group-title="Musical" , Vevo Country USA
-https://jmp2.uk/SamsungTVPlus/USBC3600001RQ.m3u8
-
 #EXTINF:-1 tvg-id="MI MUSICA REGGAETON HD (Col0)" tvg-logo="https://i.imgur.com/hJ8pzxO.png" group-title="Verch" group-title="Musical",MI M REGGAETON HD (Col0)
 http://181.78.23.26:45000/play/a04f
 
@@ -353,9 +344,6 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63226c03e67cf9cd9011fcdf.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-id="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical", TRACE Urban (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
 
-#EXTINF:-1,MTV Flow Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=googletv&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel
-
 #EXTINF:-1 tvg-id="ColosalTV.CR" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Verch" group-title="Musical",Colosal TV HD
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
@@ -383,14 +371,8 @@ http://38.41.8.1:8000/play/a08i
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" tvg-name="Vevo Reggaeton & Trap" group-title="Musical",Vevo Reggaeton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="Top Latino TV" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Verch" group-title="Musical", Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.imgur.com/Dvo1b82.png" tvg-name="VM Latino" group-title="Verch" group-title="Musical", VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tropical Moon Urban TV" tvg-logo="https://i.imgur.com/WcM7BP5.png" tvg-name="Tropical Moon Urban TV" group-title="Verch" group-title="Musical", Tropical Moon Urban TV
-https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13 Festival" tvg-logo="https://i.imgur.com/hTUe0Pw.png" tvg-name="13 Festival" group-title="Verch" group-title="Musical", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
@@ -398,29 +380,11 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="Rumba 98.5 FM" tvg-logo="https://i.imgur.com/snbcCWi.png" tvg-name="Rumba 98.5 FM" group-title="Verch" group-title="Musical", Rumba 98.5 FM
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dZMsj10.png" tvg-name="Onda Radio" group-title="Musical",Onda Radio
-https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" tvg-name="88 Stereo" group-title="Musical",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z6srIMD.png" tvg-name="Global TV" group-title="Musical",Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nz67Uq6.png" tvg-name="Telemusica TV" group-title="Musical",Telemusica TV
-https://canal.mediaserver.com.co/live/telemusica.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zAFt893.png" tvg-name="GO-RTV" group-title="Musical",GO-RTV
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QB3tz0d.png" tvg-name="SanjuaneraTV" group-title="Musical",SanjuaneraTV
-https://live.obslivestream.com/sanjuanera/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rVKroNW.png" tvg-name="Vallenato Internacional" group-title="Musical",Vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5G5kian.png" tvg-name="Retro Plus 2" group-title="Musical",Retro Plus 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" tvg-name="Now 80s" group-title="Musical",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
