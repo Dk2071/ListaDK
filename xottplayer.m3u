@@ -761,9 +761,6 @@ http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="Sony Channel HD (2) (L33)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel HD (2) (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28033
 
-#EXTINF:-1 tvg-id="Sony Channel HD (3) (L33)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel HD (3) (L33)
-http://6oclock.xyz/Pumpkin1/Pumpkin1/28035
-
 #EXTINF:-1 tvg-id="Starz Encore (L35)" tvg-logo="https://i.imgur.com/hCvbjEC.png" group-title="Verch" group-title="Entretenimiento",Starz Encore (L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
 
@@ -814,6 +811,9 @@ http://181.78.105.146:6060/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="USA (Rd1)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Rd1)
 http://204.157.251.250:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="USA HD (L33)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network HD (L33)
+http://6oclock.xyz/Pumpkin1/Pumpkin1/28035
 
 #EXTINF:-1 tvg-id="USA HD (L35)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network HD (L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/31
