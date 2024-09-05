@@ -518,8 +518,8 @@ http://45.167.3.81:45000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="Atres Series Int (Rd1)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="Verch" group-title="Entretenimiento",Atres Series Int (Rd1)
 http://204.157.251.250:8000/play/a066/index.m3u8
 
-#EXTINF:-1 tvg-id="Atres Series Int HD (Bol1)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="Verch" group-title="Entretenimiento",Atres Series Int HD (Bol1)
-http://177.222.108.82:2500/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-id="Atres Series Int HD (LAT1)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="Verch" group-title="Entretenimiento",Atres Series Int HD (LAT1)
+http://190.0.241.181:8000/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-id="Atres Series ES (L8)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="Verch" group-title="Entretenimiento",Atres Series ES (L8)
 http://bgtv.xyz/play/play-900.php?ul=444&token=asdasfasdda
@@ -946,11 +946,8 @@ http://38.41.8.1:8000/play/a05v
 #EXTINF:-1 tvg-id="Cinemax HD (L8)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (L8)
 http://bgtv.xyz/play/play-900.php?ul=638&token=asdasfasdda
 
-#EXTINF:-1 tvg-id="Cinemax HD (Bol1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (Bol1)
-http://177.222.108.82:2500/play/a0i3/index.m3u8
-
-EXTINF:-1 tvg-id="Cinemax HD (Ecua1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (Ecua1)
-http://45.71.252.16:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD (LAT1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (LAT1)
+http://190.0.241.181:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax HD (Ven1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (Ven1)
 http://38.41.8.1:8000/play/a00y
