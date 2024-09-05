@@ -860,32 +860,32 @@ http://6oclock.xyz/Pumpkin1/Pumpkin1/28036
 #EXTINF:-1 tvg-id="TCM (Col6)" tvg-logo="https://i.imgur.com/64FYETr.png" group-title="Verch" group-title="Entretenimiento",TCM (Col6)
 http://177.93.46.163:8000/play/a00c
 
-#EXTINF:-1 tvg-id="Warner (Mx)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (Mx)
+#EXTINF:-1 tvg-id="Warner (1) (Mx)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (1) (Mx)
 http://181.78.105.146:2000/play/a01f/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner (Gua2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (Gua2)
-http://181.78.105.146:6060/play/a02y/index.m3u8
-
-#EXTINF:-1 tvg-id="Warner (Gua0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (Gua0)
+#EXTINF:-1 tvg-id="Warner (2) (Gua0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (2) (Gua0)
 http://45.5.117.182:8000/play/a0hp/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner (Col0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (Col0)
+#EXTINF:-1 tvg-id="Warner (2) (Gua2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (2) (Gua2)
+http://181.78.105.146:6060/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner (3) (Col0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (3) (Col0)
 http://181.78.23.26:45000/play/a01e
 
-#EXTINF:-1 tvg-id="Warner HD (Gua1)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua1)
+#EXTINF:-1 tvg-id="Warner HD (1) (L33)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (1) (L33)
+http://6oclock.xyz/Pumpkin1/Pumpkin1/28045
+
+#EXTINF:-1 tvg-id="Warner HD (1) (Gua1)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua1)
 http://200.115.120.1:8000/play/ca047/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner HD (Gua2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua2)
-http://181.78.105.146:6060/play/a03bf/index.m3u8
-
-#EXTINF:-1 tvg-id="Warner HD (Gua0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua0)
+#EXTINF:-1 tvg-id="Warner HD (2) (Gua0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (2) (Gua0)
 http://45.5.117.182:8000/play/a0i2/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner HD (Hon2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Hon2)
-http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="Warner HD (2) (Gua2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (2) (Gua2)
+http://181.78.105.146:6060/play/a03bf/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner HD (L33)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (L33)
-http://6oclock.xyz/Pumpkin1/Pumpkin1/28045
+#EXTINF:-1 tvg-id="Warner HD (2) (Hon2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (2) (Hon2)
+http://45.166.92.22:58001/play/a049/index.m3u8
 
 + Pelis +
 
@@ -926,9 +926,6 @@ http://45.5.117.182:8000/play/a0eg/index.m3u8
 http://45.167.3.81:45000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax (L8)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (L8)
-http://bgtv.xyz/play/play-900.php?ul=20&token=asdasfasdda
-
-#EXTINF:-1 tvg-id="Cinemax Sur (L8)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax Sur (L8)
 http://bgtv.xyz/play/play-900.php?ul=739&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Cinemax (Gua3)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Gua3)
@@ -942,6 +939,9 @@ http://204.157.251.250:8000/play/a08o/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax (Ven1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Ven1)
 http://38.41.8.1:8000/play/a05v
+
+#EXTINF:-1 tvg-id="Cinemax HD (L8)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (L8)
+http://bgtv.xyz/play/play-900.php?ul=20&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Cinemax HD (L8)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax HD (L8)
 http://bgtv.xyz/play/play-900.php?ul=638&token=asdasfasdda
