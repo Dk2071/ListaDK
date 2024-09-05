@@ -1281,23 +1281,23 @@ http://38.41.8.1:8000/play/a05u
 #EXTINF:-1 tvg-id="HBO HD (L35)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
 
-#EXTINF:-1 tvg-id="HBO HD (L8)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L8)
-http://bgtv.xyz/play/play-900.php?ul=62&token=asdasfasdda
-
-#EXTINF:-1 tvg-id="HBO HD (L8)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L8)
-http://bgtv.xyz/play/play-900.php?ul=654&token=asdasfasdda
+#EXTINF:-1 tvg-id="HBO HD (Gua0)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (Gua0)
+http://45.5.117.182:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD (Gua2)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (Gua2)
 http://181.78.105.146:6060/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO HD (Gua0)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (Gua0)
-http://45.5.117.182:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD (Hon2)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (Hon2)
 http://45.166.92.22:58001/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD (Hon4)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (Hon4)
 http://45.4.85.214:58001/play/a04u
+
+#EXTINF:-1 tvg-id="HBO HD (L8)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L8)
+http://bgtv.xyz/play/play-900.php?ul=62&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="HBO HD (L8)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L8)
+http://bgtv.xyz/play/play-900.php?ul=654&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="HBO HD (Ven1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (Ven1)
 http://38.41.8.1:8000/play/a01u
