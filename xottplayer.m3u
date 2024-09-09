@@ -2436,6 +2436,209 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ION (Vizio)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20230809T005359SQUARE.png_20230809005400.png" tvg-chno="1051" group-title="TDT" group-title="ENG", ION (Vizio)
 https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", OAN Plus -TCL
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", One America News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-oneamericanews-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Scripps News -TCL
+https://scripps-newsy-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Scripps News alt -TCL
+https://scripps-newsy-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Cheddar -TCL
+https://cheddar-cheddar-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Africa News English -TCL
+https://euronews-africanews-english-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Euronews World -TCL 
+https://euronews-euronews-world-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bloomberg TV -TCL
+https://bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bloomberg Originals -TCL
+https://bloomberg-quicktake-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsmax 2 -TCL
+https://newsmax-newsmaxtv-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsmax 2 US alt -TCL
+https://newsmax-newsmaxtv-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsmax 2 .CA -TCL
+https://newsmax-newsmaxtv-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Americas Voice -TCL
+https://p1media-realamericasvoice-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Weather Nation -TCL
+https://weathernation-weathernation-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", GB News -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsworld -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Leadstory -TCL
+https://amg02703-leadstory-amg02703c5-tcl-us-1960.playouts.now.amagi.tv/playlist/amg02703-leadstoryfast-leadstorymega-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsnet -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-newsnet-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", ROI -TCL
+https://rise-financial-roi-tv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", ROI .CA -TCL
+https://rise-financial-roi-tv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION -TCL
+https://scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION alt -TCL
+https://scripps-ion-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION Plus -TCL
+https://ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION Mystery -TCL
+https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION Mystery alt -TCL
+https://scripps-ionmystery-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bounce XL -TCL
+https://scripps-bouncexl-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bounce XL alt -TCL
+https://scripps-bouncexl-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Grit Xtra -TCL
+https://scripps-gritxtra-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Grit Xtra alt -TCL
+https://scripps-gritxtra-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Craction TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-cractionstv-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Emergency -TCL
+https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Emergency .CA -TCL
+https://rightsboosterltd-emergency-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Conflict -TCL
+https://rightsboosterltd-conflict-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Conflict .CA -TCL
+https://rightsboosterltd-conflict-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Strongman Champions League -TCL
+https://rightsboosterltd-scl-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Lovenature Spanish -TCL (Geo)
+https://amg01515-blueskyeus-amg01515c1-tclideo-northamerica-496.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanish-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Davinci -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Crackle -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Crackle -TCL (Geo)
+https://amg00540-crackleplus-amg00540c1-tclideo-northamerica-879.playouts.now.amagi.tv/playlist/amg00540-crackleplusfast-crackle-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Filmzie -TCL
+https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Gravitas Movies -TCL
+https://gravitas-movies-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Mytime Movie Network -TCL
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Soul Cinema -TCL (Geo)
+https://amg01785-soulofthesouthfast-amg01785c1-tclideo-northamerica-692.playouts.now.amagi.tv/playlist/amg01785-soulofthesouth-soulcinema-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Maverick Black Cinema -TCL
+https://maverick-maverick-black-cinema-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Maverick Black Cinema .CA -TCL
+https://maverick-maverick-black-cinema-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Beyond Paranormal -TCL
+https://videoelephantlimited-beyondparanormal-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Beyond Paranormal .CA -TCL
+https://videoelephantlimited-beyondparanormal-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Travel Escapes -TCL
+https://videoelephantlimited-travelescapes-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Travel Escapes .CA -TCL
+https://videoelephantlimited-travelescapes-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Air and Space -TCL
+https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Air and Space .CA -TCL
+https://wingspan-airandspace-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Action -TCL
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trailers from Hell -TCL
+https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Watch Mojo -TCL
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Watch Mojo .CA -TCL
+https://watchmojo-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bloody Disgusting -TCL
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Young Hollywood -TCL
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Made in Hollywood -TCL
+https://connection3-ent-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Made in Hollywood .CA -TCL
+https://connection3-ent-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Cinelife -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Popcorn Flix -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-popcornflix-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", The Grid -TCL
+https://bec-thegrid-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Nosey -TCL
+https://nosey-realnosey-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Nosey alt -TCL
+https://nosey-realnosey-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Dont tell the Bride -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-dttb-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Shades of Black -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeat-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Mansa Mix -TCL
+https://mansa-mansamix-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Backstage -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebackstage-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trace Sports Stars -TCL
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Crime -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Crime and Punishment -TCL
+https://rightsboosterltd-crime-and-punishment-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Witz -TCL
+https://bec-witz-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Stories -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Drone TV -TCL
+https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Drone TV .CA -TCL
+https://airvuz-dronetv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Unexplained -TCL
+https://gravitas-unexplained-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Docsville -TCL
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Pulse -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Museum TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Xploration Station -TCL
+https://srpdigital-xplorationstation-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Xploration Station .CA -TCL
+https://srpdigital-xplorationstation-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Escapes -TCL
+https://escapes-escapes-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Documentary + -TCL
+https://documentaryplus-documentaryplus-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Documentary + .CA -TCL
+https://documentaryplus-documentaryplus-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Dread TV -TCL
+https://epicpictures-dreadtv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Now 70s -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Now 80s -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Now 90s -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Qwest Jazz -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trace Urban -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trace Urban -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trace Latina -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trace Latina -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trace Brazuca -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Outdoor Action TV -TCL
+https://careco-outdoor-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Pac 12 -TCL (Geo)
+https://amg00384-pac12fast-amg00384c1-tclideo-northamerica-409.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", MTRSPRT 1 -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", MTRSPRT 1 -TCL alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Women's Sport Network
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Ultimate Classic Wrestling -TCL
+https://answermedia-ultimateclassicwrestling-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT" group-title="ENG", Cops .CA -TCL
+https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
+
 
 + XXX +
 
