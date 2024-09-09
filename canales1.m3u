@@ -305,7 +305,7 @@ http://45.5.117.182:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="Exa TV (Gua2)" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="Verch" group-title="Musical",Exa TV (Gua2)
 http://181.78.105.146:6060/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-id="Telehit (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit (L8)
+#EXTINF:-1 tvg-id="Telehit HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (L8)
 http://bgtv.xyz/play/play-900.php?ul=91&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Telehit HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (L8)
@@ -335,17 +335,47 @@ http://181.78.23.26:45000/play/a04k
 #EXTINF:-1 tvg-id="FreeTV Hits (Vizio)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Verch" group-title="Musical", FreeTV Hits (Vizio)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flashvizio-vizious/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FreeTV Hits (Xiaomi)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Verch" group-title="Musical", FreeTV Hits (Xiaomi)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0" tvg-id="5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fb210a8-0d8a-47b5-84da-f6457988f8cd/labocinalatina_logo_light_-_Jordan_Warkol.png" group-title="Verch" group-title="Musical", La Bocina Latina (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-631932e2f6672ff675ee5ec0.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6329474265c8569187176338" tvg-id="5e20b730f2f8d5003d739db7-6329474265c8569187176338" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Verch" group-title="Musical", TRACE Brazuca (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6329474265c8569187176338.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf" tvg-id="5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical", TRACE Latina (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63226c03e67cf9cd9011fcdf.m3u8
 
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Latina (LG) (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-mx/playlist.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Latina (TCL)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Latina (TCL) (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-tcl-ideo/playlist.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Brazuca (LG) (MX)
+https://trace-brazuca-lg-mx.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Brazuca alt (LG) (MX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-brazuca-lg-mx/playlist.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Brazuca (TCL) 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6329474265c8569187176338" tvg-id="5e20b730f2f8d5003d739db7-6329474265c8569187176338" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Verch" group-title="Musical", TRACE Brazuca (Plex)
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6329474265c8569187176338.m3u8
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-id="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical", TRACE Urban (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Urban (MX)
+https://trace-urban-lg-mx.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Urban (TCL)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Urban (TCL) (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-tcl-ideo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ColosalTV.CR" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Verch" group-title="Musical",Colosal TV HD
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
@@ -355,6 +385,9 @@ http://bgtv.xyz/play/play-900.php?ul=8&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="BANDAMAX HD (L8)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX HD (L8)
 http://bgtv.xyz/play/play-900.php?ul=833&token=asdasfasdda
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/31b558aa-aff3-4529-a3e1-db97b394e97f/FreeTVBanda_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Verch" group-title="Musical", FreeTV Banda (Plex)
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3" tvg-id="5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" group-title="Verch" group-title="Musical", VR+ (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3.m3u8
@@ -371,7 +404,7 @@ http://45.166.92.22:58001/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="HTV (Ven1)" tvg-logo="https://i.imgur.com/WopGnN1.jpg" group-title="Verch" group-title="Musical",HTV (Ven1)
 http://38.41.8.1:8000/play/a08i
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" tvg-name="Vevo Reggaeton & Trap" group-title="Musical",Vevo Reggaeton & Trap
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" tvg-name="Vevo Reggaeton & Trap" group-title="Verch" group-title="Musical", Vevo Reggaeton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="VM Latino" tvg-logo="https://i.imgur.com/Dvo1b82.png" tvg-name="VM Latino" group-title="Verch" group-title="Musical", VM Latino
@@ -383,28 +416,40 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="Rumba 98.5 FM" tvg-logo="https://i.imgur.com/snbcCWi.png" tvg-name="Rumba 98.5 FM" group-title="Verch" group-title="Musical", Rumba 98.5 FM
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" tvg-name="88 Stereo" group-title="Musical",88 Stereo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" tvg-name="88 Stereo" group-title="Verch" group-title="Musical", 88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z6srIMD.png" tvg-name="Global TV" group-title="Musical",Global TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6srIMD.png" tvg-name="Global TV" group-title="Verch" group-title="Musical", Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" tvg-name="Now 80s" group-title="Musical",Now 80s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jtfCHo9.png" tvg-name="Now 70s" group-title="Verch" group-title="Musical", Now 70s (Samsung)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jtfCHo9.png" tvg-name="Now 70s" group-title="Verch" group-title="Musical", Now 70s (TCL)
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" tvg-name="Now 80s" group-title="Verch" group-title="Musical", Now 80s (Samsung)
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yo8lEu1.png" tvg-name="Now 90s" group-title="Musical",Now 90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" tvg-name="Now 80s" group-title="Verch" group-title="Musical", Now 80s (TCL)
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yO5dTG.jpg" tvg-name="Now Rock" group-title="Verch" group-title="Musical", Now Rock (Samsung)
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyOjdZs.png" tvg-name="Retro Music TV" group-title="Musical",Retro Music TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yO5dTG.jpg" tvg-name="Now Rock" group-title="Verch" group-title="Musical", Now Rock (TCL)
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyOjdZs.png" tvg-name="Retro Music TV"  group-title="Verch" group-title="Musical", Retro Music TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3i1HtE.jpg" tvg-name="The Retro Channel" group-title="Musical",The Retro Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3i1HtE.jpg" tvg-name="The Retro Channel"  group-title="Verch" group-title="Musical", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" tvg-name="ON FM" group-title="Musical",ON FM
+#EXTINF:-1 tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" tvg-name="ON FM"  group-title="Verch" group-title="Musical", ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" tvg-name="Vevo 2K" group-title="Musical",Vevo 2K
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" tvg-name="Vevo 2K"  group-title="Verch" group-title="Musical", Vevo 2K (Roku)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="MI MUSICA POPULAR HD (Col2)" tvg-logo="https://i.imgur.com/P1rgs5C.png" group-title="Verch" group-title="Musical",MI M POPULAR HD (Col2)
@@ -464,29 +509,32 @@ http://45.5.117.182:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-id="MTV SIM HD (Gua2)" tvg-logo="https://i.imgur.com/UEwue6C.jpg" group-title="Verch" group-title="Musical",MTV SIM HD (Gua2)
 http://181.78.105.146:6060/play/a03n/index.m3u8
 
-#EXTINF:-1,WMX Hip Hop (Geo) 
+#EXTINF:-1 group-title="Verch" group-title="Musical", MTV Flow Latino (Roku)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=googletv&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", MTV Yo! (Roku)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", MTV Biggest Pop (Roku)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", WMX POP (Geo) (Roku)
+https://live881.delivery.roku.com/cf3a07f2-bf98-47b6-834f-56d63719433f/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", MTV Block Party (Roku)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", MTV Spankin New (Roku)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d73c186a8060007fd7aca/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=ROKU_ADS_PLATFORM_TYPE&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel
+
+#EXTINF:-1 group-title="Verch" group-title="Musical", WMX Hip Hop (Geo) (Roku)
 https://live892.delivery.roku.com/3f86f05d-a194-4812-976d-baca4c95c645/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1,WMX Rock (Geo)
+#EXTINF:-1 group-title="Verch" group-title="Musical", WMX Rock (Geo) (Roku)
 https://live855.delivery.roku.com/6b0d7ecb-f95a-4b4a-97a5-b971c2adce93/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1,Trace Brazuca (MX)
-https://trace-brazuca-lg-mx.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Trace Brazuca alt (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-brazuca-lg-mx/playlist.m3u8
-
-#EXTINF:-1,Trace Latina (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-mx/playlist.m3u8
-
-#EXTINF:-1,Trace Sport Stars (MX)
-https://tracetv-tracesportsstar-lgmx.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Trace Urban (MX)
-https://trace-urban-lg-mx.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-id="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical", TRACE Urban
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
+#EXTINF:-1 group-title="Verch" group-title="Musical", Qwest Jazz (TCL)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
 
 
 + Entretenimiento +
@@ -2222,12 +2270,6 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Saber Más (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284195.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Hits (Xiaomi)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Hits (Xiaomi)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/31b558aa-aff3-4529-a3e1-db97b394e97f/FreeTVBanda_Circle_1500x1000_-_Ralph_Campillo.png" group-title="TDT" group-title="ESP", FreeTV Banda (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-id="5e20b730f2f8d5003d739db7-64fba469bb3e0baa5dcc0947" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" group-title="TDT" group-title="ESP", Canela Clásicos (Plex)
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
 
@@ -2294,30 +2336,6 @@ https://live889.delivery.roku.com/0fe70d5f-4a06-4860-8520-947f00096078/t2-origin
 #EXTINF:-1 MMC (Geo)
 https://live463.delivery.roku.com/5a472ee2-a93d-4cbd-a12d-afff4ed79fbe/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 MTV Flow Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=googletv&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel
-
-#EXTINF:-1 MTV Spankin New
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d73c186a8060007fd7aca/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=ROKU_ADS_PLATFORM_TYPE&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel
-
-#EXTINF:-1 MTV Biggest Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-
-#EXTINF:-1 MTV Block Party
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-
-#EXTINF:-1 WMX POP (Geo)
-https://live881.delivery.roku.com/cf3a07f2-bf98-47b6-834f-56d63719433f/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 MTV Yo!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-
-#EXTINF:-1 WMX Hip Hop (Geo) 
-https://live892.delivery.roku.com/3f86f05d-a194-4812-976d-baca4c95c645/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 WMX Rock (Geo)
-https://live855.delivery.roku.com/6b0d7ecb-f95a-4b4a-97a5-b971c2adce93/t2-origin/out/v1/live.m3u8
-
 #EXTINF:-1 Caillou (ES)
 https://dhx-caillou-1-es.xiaomi.wurl.tv/playlist.m3u8
 
@@ -2327,20 +2345,8 @@ https://fastmedia-yu-gi-oh-5-es.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 Naruto (Geo)
 https://amg00609-palatinmedia-amg00609c1-xiaomi-international-544.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-naruto-xiaomiinternational/playlist.m3u8
 
-#EXTINF:-1 Trace Brazuca (MX)
-https://trace-brazuca-lg-mx.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 Trace Brazuca alt (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-brazuca-lg-mx/playlist.m3u8
-
-#EXTINF:-1 Trace Latina (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-mx/playlist.m3u8
-
 #EXTINF:-1 Trace Sport Stars (MX)
 https://tracetv-tracesportsstar-lgmx.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 Trace Urban (MX)
-https://trace-urban-lg-mx.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rakuten Comedy Movies (Xiaomi)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20231213T032945SQUARE.png_20231213032945.png" group-title="TDT" group-title="ESP", Rakuten Comedy Movies (Xiaomi)
 https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8
@@ -2437,3 +2443,278 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ION (Vizio)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20230809T005359SQUARE.png_20230809005400.png" tvg-chno="1051" group-title="TDT" group-title="ENG", ION (Vizio)
 https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="TDT" group-title="ENG", OAN Plus -TCL
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", One America News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-oneamericanews-tcl-ideo/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Scripps News -TCL
+https://scripps-newsy-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Scripps News alt -TCL
+https://scripps-newsy-2-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Cheddar -TCL
+https://cheddar-cheddar-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Africa News English -TCL
+https://euronews-africanews-english-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Euronews World -TCL 
+https://euronews-euronews-world-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bloomberg TV -TCL
+https://bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bloomberg Originals -TCL
+https://bloomberg-quicktake-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsmax 2 -TCL
+https://newsmax-newsmaxtv-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsmax 2 US alt -TCL
+https://newsmax-newsmaxtv-2-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsmax 2 .CA -TCL
+https://newsmax-newsmaxtv-2-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Americas Voice -TCL
+https://p1media-realamericasvoice-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Weather Nation -TCL
+https://weathernation-weathernation-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", GB News -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-tclus/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsworld -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Leadstory -TCL
+https://amg02703-leadstory-amg02703c5-tcl-us-1960.playouts.now.amagi.tv/playlist/amg02703-leadstoryfast-leadstorymega-tclus/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Newsnet -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-newsnet-tcl-ideo/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", ROI -TCL
+https://rise-financial-roi-tv-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", ROI .CA -TCL
+https://rise-financial-roi-tv-1-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION -TCL
+https://scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION alt -TCL
+https://scripps-ion-2-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION Plus -TCL
+https://ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION Mystery -TCL
+https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", ION Mystery alt -TCL
+https://scripps-ionmystery-2-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bounce XL -TCL
+https://scripps-bouncexl-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bounce XL alt -TCL
+https://scripps-bouncexl-2-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Grit Xtra -TCL
+https://scripps-gritxtra-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Grit Xtra alt -TCL
+https://scripps-gritxtra-2-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Craction TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-cractionstv-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Emergency -TCL
+https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Emergency .CA -TCL
+https://rightsboosterltd-emergency-1-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Conflict -TCL
+https://rightsboosterltd-conflict-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Conflict .CA -TCL
+https://rightsboosterltd-conflict-1-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Strongman Champions League -TCL
+https://rightsboosterltd-scl-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Lovenature Spanish -TCL (Geo)
+https://amg01515-blueskyeus-amg01515c1-tclideo-northamerica-496.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanish-tclideonorthamerica/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Davinci -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Crackle -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Crackle -TCL (Geo)
+https://amg00540-crackleplus-amg00540c1-tclideo-northamerica-879.playouts.now.amagi.tv/playlist/amg00540-crackleplusfast-crackle-tclideonorthamerica/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Filmzie -TCL
+https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Gravitas Movies -TCL
+https://gravitas-movies-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Mytime Movie Network -TCL
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Soul Cinema -TCL (Geo)
+https://amg01785-soulofthesouthfast-amg01785c1-tclideo-northamerica-692.playouts.now.amagi.tv/playlist/amg01785-soulofthesouth-soulcinema-tclideonorthamerica/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Maverick Black Cinema -TCL
+https://maverick-maverick-black-cinema-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Maverick Black Cinema .CA -TCL
+https://maverick-maverick-black-cinema-2-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Beyond Paranormal -TCL
+https://videoelephantlimited-beyondparanormal-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Beyond Paranormal .CA -TCL
+https://videoelephantlimited-beyondparanormal-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Travel Escapes -TCL
+https://videoelephantlimited-travelescapes-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Travel Escapes .CA -TCL
+https://videoelephantlimited-travelescapes-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Air and Space -TCL
+https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Air and Space .CA -TCL
+https://wingspan-airandspace-1-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Action -TCL
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trailers from Hell -TCL
+https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Watch Mojo -TCL
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Watch Mojo .CA -TCL
+https://watchmojo-1-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Bloody Disgusting -TCL
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Young Hollywood -TCL
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Made in Hollywood -TCL
+https://connection3-ent-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Made in Hollywood .CA -TCL
+https://connection3-ent-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Cinelife -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Popcorn Flix -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-popcornflix-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", The Grid -TCL
+https://bec-thegrid-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Nosey -TCL
+https://nosey-realnosey-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Nosey alt -TCL
+https://nosey-realnosey-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Dont tell the Bride -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-dttb-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Shades of Black -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeat-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Mansa Mix -TCL
+https://mansa-mansamix-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Backstage -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebackstage-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Trace Sports Stars -TCL
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Crime -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Crime and Punishment -TCL
+https://rightsboosterltd-crime-and-punishment-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Witz -TCL
+https://bec-witz-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Real Stories -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Drone TV -TCL
+https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Drone TV .CA -TCL
+https://airvuz-dronetv-1-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Unexplained -TCL
+https://gravitas-unexplained-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Docsville -TCL
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-tclus/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Pulse -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-tclus/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Museum TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Xploration Station -TCL
+https://srpdigital-xplorationstation-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Xploration Station .CA -TCL
+https://srpdigital-xplorationstation-1-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Escapes -TCL
+https://escapes-escapes-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Documentary + -TCL
+https://documentaryplus-documentaryplus-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Documentary + .CA -TCL
+https://documentaryplus-documentaryplus-2-ca.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Dread TV -TCL
+https://epicpictures-dreadtv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Outdoor Action TV -TCL
+https://careco-outdoor-action-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Pac 12 -TCL (Geo)
+https://amg00384-pac12fast-amg00384c1-tclideo-northamerica-409.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-tclideonorthamerica/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", MTRSPRT 1 -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", MTRSPRT 1 -TCL alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Women's Sport Network
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Ultimate Classic Wrestling -TCL
+https://answermedia-ultimateclassicwrestling-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TDT" group-title="ENG", Cops .CA -TCL
+https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
