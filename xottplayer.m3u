@@ -296,8 +296,11 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="Teleritmo HD (X1)" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Verch" group-title="Musical",Teleritmo HD (X1)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-id="Claro Musica (Col0)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Claro Musica (Col0)
+#EXTINF:-1 tvg-id="Sin Limites (Col0)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Sin Limites (Col0)
 http://181.78.23.26:45000/play/a028
+
+#EXTINF:-1 tvg-id="Sin Limites (PerX1)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Sin Limites (PerX1)
+http://177.53.155.236:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="Exa TV (Gua0)" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="Verch" group-title="Musical",Exa TV (Gua0)
 http://45.5.117.182:8000/play/a0hz/index.m3u8
@@ -854,10 +857,10 @@ http://45.5.117.182:8000/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="Sun Channel (Gua3)" tvg-logo="https://i.imgur.com/8pjVpdX.png" group-title="Verch" group-title="Entretenimiento",Sun Channel (Gua3)
 http://181.78.105.146:8800/play/a023
 
-#EXTINF:-1 tvg-id="USA (Gua0)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Gua0)
+#EXTINF:-1 tvg-id="USA Network (Gua0)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Gua0)
 http://45.5.117.182:8000/play/a0hs/index.m3u8
 
-#EXTINF:-1 tvg-id="USA (Gua2)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Gua2)
+#EXTINF:-1 tvg-id="USA Network (Gua2)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Gua2)
 http://181.78.105.146:6060/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="USA (Rd1)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Rd1)
@@ -1220,6 +1223,9 @@ http://181.78.105.146:6060/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="TNT HD (Gua3)" tvg-logo="https://i.imgur.com/kTuxMeb.png" group-title="Verch" group-title="Pelis",TNT HD (Gua3)
 http://181.78.105.146:8800/play/a060
 
+#EXTINF:-1 tvg-id="TNT HD (PerX1)" tvg-logo="https://i.imgur.com/kTuxMeb.png" group-title="Verch" group-title="Pelis",TNT HD (PerX1)
+http://177.53.155.236:8000/play/a08t/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT Series (Mx)" tvg-logo="https://i.imgur.com/5Ycjk4F.png" group-title="Verch" group-title="Pelis",TNT Series (Mx)
 http://181.78.105.146:2000/play/a00m/index.m3u8
 
@@ -1248,6 +1254,9 @@ http://168.181.122.234:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Series HD (Sal2)" tvg-logo="https://i.imgur.com/5Ycjk4F.png" group-title="Verch" group-title="Pelis",TNT Series HD (Sal2)
 http://45.167.3.81:45000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series HD (PerX1)" tvg-logo="https://i.imgur.com/5Ycjk4F.png" group-title="Verch" group-title="Pelis",TNT Series HD (PerX1)
+http://177.53.155.236:8000/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal (Mx)" tvg-logo="https://i.imgur.com/LWPW3nF.jpg" group-title="Verch" group-title="Pelis",Universal (Mx)
 http://181.78.105.146:2000/play/a03d/index.m3u8
@@ -1901,6 +1910,9 @@ http://45.181.121.194:8000/play/210
 
 #EXTINF:-1 tvg-id="ESPN Premium HD (Ven2)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (Ven2)
 http://200.59.188.3:8000/play/a0gh
+
+#EXTINF:-1 tvg-id="ESPN Premium HD (PerX1)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (PerX1)
+http://177.53.155.236:8000/play/a0c4/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium HD (L8)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (L8)
 http://bgtv.xyz/play/play-900.php?ul=487&token=asdasfasdda
