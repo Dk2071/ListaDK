@@ -1836,6 +1836,9 @@ http://6oclock.xyz/Pumpkin1/Pumpkin1/27998
 #EXTINF:-1 tvg-id="ESPN 3 HD (1)(L35)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/91
 
+#EXTINF:-1 tvg-id="ESPN 3 HD (1)(L35)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/90
+
 #EXTINF:-1 tvg-id="ESPN 3 HD (1)(Gua0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1)(Gua0)
 http://45.5.117.182:8000/play/a0jn/index.m3u8
 
@@ -1880,9 +1883,6 @@ http://45.167.3.81:45000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4 HD (3)sur (Sal2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (3)sur (Sal2)
 http://177.53.155.236:8000/play/a0c2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4 HD (USA)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD USA
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/90
 
 #EXTINF:-1 tvg-id="ESPN 5 (1)(Sal2)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 (1)(Sal2)
 http://45.167.3.81:45000/play/a067/index.m3u8
