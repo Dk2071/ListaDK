@@ -1960,9 +1960,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
 http://bgtv.xyz/play/play-911.php?ul=512&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Fox Sports MX (L8)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX (L8) 
-http://bgtv.xyz/play/play-911.php?ul=52&token=asdasfasdda
-
-#EXTINF:-1 tvg-id="Fox Sports MX (L8)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX (L8) 
 http://bgtv.xyz/play/play-911.php?ul=748&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Fox Sports MX HD (L33)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (L33)
@@ -1973,6 +1970,9 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
 
 #EXTINF:-1 tvg-id="Fox Sports MX HD (L8)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (L8) 
 http://bgtv.xyz/play/play-911.php?ul=527&token=asdasfasdda
+
+#EXTINF:-1 tvg-id="Fox Sports MX HD (L8)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (L8) 
+http://bgtv.xyz/play/play-911.php?ul=52&token=asdasfasdda
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX (L8)" tvg-logo="https://i.imgur.com/Medu37O.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX (L8)
 http://bgtv.xyz/play/play-911.php?ul=528&token=asdasfasdda
