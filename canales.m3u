@@ -308,16 +308,16 @@ http://45.5.117.182:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="Exa TV (Gua2)" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="Verch" group-title="Musical",Exa TV (Gua2)
 http://181.78.105.146:6060/play/a038/index.m3u8
 
+#EXTINF:-1 tvg-id="Telehit Plus HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus HD (L8)
+http://bgtv.xyz/play/play-941.php?ul=154&token=asdasdasdasdasd
+
 #EXTINF:-1 tvg-id="Telehit HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (L8)
 http://bgtv.xyz/play/play-941.php?ul=91&token=asdasdasdasdasd
 
 #EXTINF:-1 tvg-id="Telehit HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (L8)
-http://bgtv.xyz/play/play-941.php?ul=154&token=asdasdasdasdasd
-
-#EXTINF:-1 tvg-id="Telehit Plus HD (L8)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus HD (L8)
 http://bgtv.xyz/play/play-941.php?ul=649&token=asdasdasdasdasd
 
-#EXTINF:-1 tvg-id="Telehit Plus HD (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus HD (Gua1)
+#EXTINF:-1 tvg-id="Telehit HD (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit HD (Gua1)
 http://200.115.120.1:8000/play/ca048/index.m3u8
 
 #EXTINF:-1 tvg-id="MI MUSICA REGGAETON HD (Col0)" tvg-logo="https://i.imgur.com/hJ8pzxO.png" group-title="Verch" group-title="Musical",MI M REGGAETON HD (Col0)
@@ -326,11 +326,17 @@ http://181.78.23.26:45000/play/a04f
 #EXTINF:-1 tvg-id="MI MUSICA REGGAETON HD (Col2)" tvg-logo="https://i.imgur.com/hJ8pzxO.png" group-title="Verch" group-title="Musical",MI M REGGAETON HD (Col2)
 http://179.189.222.226:8000/play/ch53
 
+#EXTINF:-1 tvg-id="MI MUSICA REGGAETON HD (Col5)" tvg-logo="https://i.imgur.com/hJ8pzxO.png" group-title="Verch" group-title="Musical",MI M REGGAETON HD (Col5)
+http://181.78.6.106:45000/play/b0119
+
 #EXTINF:-1 tvg-id="MI MUSICA SALSA HD (Col0)" tvg-logo="https://i.imgur.com/zsZssiv.png" group-title="Verch" group-title="Musical",MI M SALSA HD (Col0)
 http://181.78.23.26:45000/play/a04h
 
 #EXTINF:-1 tvg-id="MI MUSICA SALSA HD (Col2)" tvg-logo="https://i.imgur.com/zsZssiv.png" group-title="Verch" group-title="Musical",MI M SALSA HD (Col2)
 http://179.189.222.226:8000/play/ch55
+
+#EXTINF:-1 tvg-id="MI MUSICA SALSA HD (Col5)" tvg-logo="https://i.imgur.com/zsZssiv.png" group-title="Verch" group-title="Musical",MI M SALSA HD (Col5)
+http://181.78.6.106:45000/play/b0121
 
 #EXTINF:-1 tvg-id="RUMBA TV HD (Col0)" tvg-logo="https://i.imgur.com/PYuwJdV.png" group-title="Verch" group-title="Musical",RUMBA TV HD (Col0)
 http://181.78.23.26:45000/play/a04k
@@ -458,8 +464,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 tvg-id="MI MUSICA POPULAR HD (Col2)" tvg-logo="https://i.imgur.com/P1rgs5C.png" group-title="Verch" group-title="Musical",MI M POPULAR HD (Col2)
 http://179.189.222.226:8000/play/ch56
 
+#EXTINF:-1 tvg-id="MI MUSICA POPULAR HD (Col5)" tvg-logo="https://i.imgur.com/P1rgs5C.png" group-title="Verch" group-title="Musical",MI M POPULAR HD (Col5)
+http://181.78.6.106:45000/play/b0120
+
 #EXTINF:-1 tvg-id="MI MUSICA ROMANTICA HD (Col2)" tvg-logo="https://i.imgur.com/rBZyzR0.png" group-title="Verch" group-title="Musical",MI M ROMANTICA HD (Col2)
 http://179.189.222.226:8000/play/ch54
+
+#EXTINF:-1 tvg-id="MI MUSICA ROMANTICA HD (Col5)" tvg-logo="https://i.imgur.com/rBZyzR0.png" group-title="Verch" group-title="Musical",MI M ROMANTICA HD (Col5)
+http://181.78.6.106:45000/play/b0122
 
 #EXTINF:-1 tvg-id="Stingray Concerts HD (Ven2)" tvg-logo="https://i.imgur.com/xwoq321.png" group-title="Verch" group-title="Musical",Stingray Concerts HD (Ven2)
 http://200.59.188.3:8000/play/a02j
@@ -620,10 +632,10 @@ http://bgtv.xyz/play/play-941.php?ul=713&token=asdasdasdasdasd
 #EXTINF:-1 tvg-id="AXN WHITE HD (ES) (L8)" tvg-logo="https://i.imgur.com/VANzYBX.png" group-title="Verch" group-title="Entretenimiento",AXN WHITE HD (ES) (L8)
 http://bgtv.xyz/play/play-941.php?ul=714&token=asdasdasdasdasd
 
-#EXTINF:-1 tvg-id="City TV HD (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV HD (Gua1) 
+#EXTINF:-1 tvg-id="City TV (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Gua1) 
 http://200.115.120.1:8000/play/ca075/index.m3u8
 
-#EXTINF:-1 tvg-id="City TV HD (Col0)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV HD (Col0)
+#EXTINF:-1 tvg-id="City TV (Col0)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Col0)
 http://181.78.23.26:45000/play/a02v
 
 #EXTINF:-1 tvg-id="Comedy Central (Mx)" tvg-logo="https://i.imgur.com/YiCebcx.png" group-title="Verch" group-title="Entretenimiento",Comedy Central (Mx)
@@ -2754,3 +2766,4 @@ https://answermedia-ultimateclassicwrestling-1-us.tcltvplus.wurl.tv/playlist.m3u
 
 #EXTINF:-1 group-title="TDT" group-title="ENG", Cops .CA -TCL
 https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
+
