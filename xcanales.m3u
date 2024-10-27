@@ -192,14 +192,14 @@ http://181.78.23.26:45000/play/a04t
 #EXTINF:-1 tvg-id="POP TV" tvg-logo="" group-title="Verch" group-title="General",POP TV
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Caracol TV (Gua1)" tvg-logo="https://i.imgur.com/NBatagT.jpg" group-title="Verch" group-title="General",Caracol TV (Gua1)
+http://200.115.120.1:8000/play/ca067/index.m3u8
+
+#EXTINF:-1 tvg-id="Caracol TV (Col0)" tvg-logo="https://i.imgur.com/NBatagT.jpg" group-title="Verch" group-title="General",Caracol TV (Col0)
+http://181.78.23.26:45000/play/a02g
+
 #EXTINF:-1 tvg-id="Caracol TV INT HD (L33)" tvg-logo="https://i.imgur.com/NBatagT.jpg" group-title="Verch" group-title="General",Caracol TV INT HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/27978
-
-#EXTINF:-1 tvg-id="Caracol TV HD" tvg-logo="https://i.imgur.com/NBatagT.jpg" group-title="Verch" group-title="General",Caracol TV HD
-http://45.177.53.7:8000/play/a03n/index.m3u8
-
-#EXTINF:-1 tvg-id="Caracol TV HD" tvg-logo="https://i.imgur.com/NBatagT.jpg" group-title="Verch" group-title="General",Caracol TV HD
-http://45.177.53.7:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="RCN Novelas (Gua2)" tvg-logo="https://i.imgur.com/42umkDy.jpg" group-title="Verch" group-title="General",RCN Novelas (Gua2)
 http://181.78.105.146:6060/play/a00r/index.m3u8
