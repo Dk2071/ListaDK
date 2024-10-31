@@ -2812,5 +2812,5 @@ http://45.228.234.167:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="Playboy (Sal2)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Sal2)
 http://45.167.3.81:45000/play/a00q/index.m3u8
 
-#EXTINF:-1 tvg-id="Penthouse Gold (Hon2v)" tvg-logo="https://i.imgur.com/7aAWiPx.png" group-title="Verch" group-title="XXX",Penthouse Gold (Hon2v)
+#EXTINF:-1 tvg-id="Penthouse Goldd (Hon2v)" tvg-logo="https://i.imgur.com/7aAWiPx.png" group-title="Verch" group-title="XXX",Penthouse Gold (Hon2v)
 http://45.166.92.22:58001/play/a04c/index.m3u8
