@@ -308,8 +308,8 @@ http://45.5.117.182:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="Exa TV (Gua2)" tvg-logo="https://i.imgur.com/kUgVQqP.png" group-title="Verch" group-title="Musical",Exa TV (Gua2)
 http://181.78.105.146:6060/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-id="Telehit Plus (L1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus (L1)
-http://bgtv.xyz/play/play-127.php?ul=154&token=dfghdfghfghdfghdfg
+#EXTINF:-1 tvg-id="Telehit Plus ((L10)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus (L10)
+http://bgtv.xyz/play/play-127.php?tlatino=236&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="Telehit Plus (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",Telehit Plus (Gua1)
 http://200.115.120.1:8000/play/ca048/index.m3u8
@@ -334,6 +334,9 @@ http://179.189.222.226:8000/play/ch55
 
 #EXTINF:-1 tvg-id="RUMBA TV HD (Col0)" tvg-logo="https://i.imgur.com/PYuwJdV.png" group-title="Verch" group-title="Musical",RUMBA TV HD (Col0)
 http://181.78.23.26:45000/play/a04k
+
+#EXTINF:-1 tvg-id="Music Top HD (L10)" tvg-logo="https://i.imgur.com/NYlEKjA.png" group-title="Verch" group-title="Musical",Music Top HD (L10)
+http://bgtv.xyz/play/play-127.php?tlatino=387&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="FreeTV Hits (Vizio)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Verch" group-title="Musical", FreeTV Hits (Vizio)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flashvizio-vizious/playlist.m3u8
