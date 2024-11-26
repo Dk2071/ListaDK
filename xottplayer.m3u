@@ -347,59 +347,47 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flashvizio-vizious/
 #EXTINF:-1 tvg-id="FreeTV Hits (Xiaomi)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Verch" group-title="Musical", FreeTV Hits (Xiaomi)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0" tvg-id="5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fb210a8-0d8a-47b5-84da-f6457988f8cd/labocinalatina_logo_light_-_Jordan_Warkol.png" group-title="Verch" group-title="Musical", La Bocina Latina (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-631932e2f6672ff675ee5ec0.m3u8
+#EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical",Trace Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf" tvg-id="5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical", TRACE Latina (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63226c03e67cf9cd9011fcdf.m3u8
-
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Latina (LG) (MX)
+#EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical",Trace Latina (LG)mx
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-mx/playlist.m3u8
 
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Latina (TCL)
+#EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical",Trace Latina (TCL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
 
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Latina (TCL) (Geo)
+#EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png"group-title="Verch" group-title="Musical",Trace Latina (TCL)geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-tcl-ideo/playlist.m3u8
 
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Brazuca (LG) (MX)
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Verch" group-title="Musical",Trace Brazuca
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Verch" group-title="Musical",Trace Brazuca (LG)mx
 https://trace-brazuca-lg-mx.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Brazuca alt (LG) (MX)
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Verch" group-title="Musical",Trace Brazuca alt (LG)mx
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-brazuca-lg-mx/playlist.m3u8
 
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Brazuca (TCL) 
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Verch" group-title="Musical",Trace Brazuca (TCL) 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6329474265c8569187176338" tvg-id="5e20b730f2f8d5003d739db7-6329474265c8569187176338" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Verch" group-title="Musical", TRACE Brazuca (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6329474265c8569187176338.m3u8
+#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical",Trace Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-id="5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical", TRACE Urban (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
-
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Urban (MX)
+#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical",Trace Urban (MX)
 https://trace-urban-lg-mx.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Urban (TCL)
+#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical",Trace Urban (TCL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
 
-#EXTINF:-1 group-title="Verch" group-title="Musical", Trace Urban (TCL) (Geo)
+#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png" group-title="Verch" group-title="Musical",Trace Urban (TCL)geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-tcl-ideo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ColosalTV.CR" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Verch" group-title="Musical",Colosal TV HD
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BANDAMAX (L1)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX (L1)
 http://bgtv.xyz/play/play-127.php?ul=8&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="BANDAMAX HD (L1)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX HD (L1)
 http://bgtv.xyz/play/play-127.php?ul=833&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/31b558aa-aff3-4529-a3e1-db97b394e97f/FreeTVBanda_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Verch" group-title="Musical", FreeTV Banda (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3" tvg-id="5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" group-title="Verch" group-title="Musical", VR+ (Plex)
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3.m3u8
 
 #EXTINF:-1 tvg-id="VideoRola (Mx)" tvg-logo="https://i.imgur.com/SC96zq5.png" group-title="Verch" group-title="Musical",VideoRola (Mx)
 http://181.78.105.146:2000/play/a04c/index.m3u8
