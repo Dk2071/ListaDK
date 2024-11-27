@@ -725,13 +725,13 @@ http://45.5.117.182:8000/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet (Gua2)" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet (Gua2)
 http://181.78.105.146:6060/play/a00u/index.m3u8
 
-EXTINF:-1 tvg-id="El Gourmet HD (L10)mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (L10)mx
+EXTINF:-1 tvg-id="El Gourmet HD (L10) mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (L10) mx
 http://bgtv.xyz/play/play-127.php?tlatino=106&token=dfghdfghfghdfghdfg
 
-EXTINF:-1 tvg-id="El Gourmet MX (L1)mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet (L1)mx
+EXTINF:-1 tvg-id="El Gourmet MX (L1) mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet (L1) mx
 http://bgtv.xyz/play/play-127.php?ul=157&token=dfghdfghfghdfghdfg
 
-EXTINF:-1 tvg-id="El Gourmet HD (L33)mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (L33)mx
+EXTINF:-1 tvg-id="El Gourmet HD (L33)mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (L33) mx
 http://6oclock.xyz/Pumpkin1/Pumpkin1/27994
 
 #EXTINF:-1 tvg-id="FX (1)(Mx)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (1) (Mx)
