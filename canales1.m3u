@@ -725,13 +725,13 @@ http://45.5.117.182:8000/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet (Gua2)" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet (Gua2)
 http://181.78.105.146:6060/play/a00u/index.m3u8
 
-EXTINF:-1 tvg-id="El Gourmet HD (L10)mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (L10)mx
+EXTINF:-1 tvg-id="El Gourmet HD (L10) mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (L10) mx
 http://bgtv.xyz/play/play-127.php?tlatino=106&token=dfghdfghfghdfghdfg
 
-EXTINF:-1 tvg-id="El Gourmet MX (L1)mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet (L1)mx
+EXTINF:-1 tvg-id="El Gourmet MX (L1) mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet (L1) mx
 http://bgtv.xyz/play/play-127.php?ul=157&token=dfghdfghfghdfghdfg
 
-EXTINF:-1 tvg-id="El Gourmet HD (L33)mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (L33)mx
+EXTINF:-1 tvg-id="El Gourmet HD (L33)mx" tvg-logo="https://i.imgur.com/c2kWLUy.png" group-title="Verch" group-title="Entretenimiento",El Gourmet HD (L33) mx
 http://6oclock.xyz/Pumpkin1/Pumpkin1/27994
 
 #EXTINF:-1 tvg-id="FX (1)(Mx)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (1) (Mx)
@@ -749,6 +749,9 @@ http://181.78.105.146:8800/play/a01y
 #EXTINF:-1 tvg-id="FX (2)(Sal2)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (2) (Sal2)
 http://45.167.3.81:45000/play/a02u/index.m3u8
 
+#EXTINF:-1 tvg-id="FX HD (1) (L10)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX HD (1) (L10)
+http://bgtv.xyz/play/play-127.php?tlatino=70&token=dfghdfghfghdfghdfg
+
 #EXTINF:-1 tvg-id="FX HD (1) (L1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX HD (1) (L1)
 http://bgtv.xyz/play/play-127.php?ul=495&token=dfghdfghfghdfghdfg
 
@@ -764,7 +767,8 @@ http://45.5.117.182:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="FX HD (2) (Gua3)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX HD (2) (Gua3)
 http://181.78.105.146:8800/play/a04u
 
-#EXTINF:-1 tvg-id="FX HD (2) (Sal2)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX HD (2) (Sal2)http://45.167.3.81:45000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="FX HD (2) (Sal2)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX HD (2) (Sal2)
+http://45.167.3.81:45000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="Hola! TV (Mx)" tvg-logo="https://i.imgur.com/W3TTedy.png" group-title="Verch" group-title="Entretenimiento",Hola! TV (Mx)
 http://181.78.105.146:2000/play/a00n/index.m3u8
@@ -1814,6 +1818,14 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TUDN (1) (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) (Gua3)
 http://181.78.105.146:8800/play/a07e
 
+#EXTINF:-1 tvg-id="TUDN (1) (L1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) (L1)
+http://bgtv.xyz/play/play-127.php?ul=698&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-id="TUDN (1) (L1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) (L1)
+http://bgtv.xyz/play/play-127.php?ul=822&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-id="TUDN (1) (L1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) (L1)http://bgtv.xyz/play/play-127.php?ul=997&token=dfghdfghfghdfghdfg
+
 #EXTINF:-1 tvg-id="TUDN (1) HD (Gua0)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (Gua0)
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
 
@@ -2843,5 +2855,4 @@ https://answermedia-ultimateclassicwrestling-1-us.tcltvplus.wurl.tv/playlist.m3u
 
 #EXTINF:-1 group-title="TDT" group-title="ENG", Cops .CA -TCL
 https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
-
 
