@@ -569,6 +569,9 @@ http://bgtv.xyz/play/play-127.php?ul=1&token=dfghdfghfghdfghdfg
 #EXTINF:-1 tvg-id="A&E (1) HD (L33)" tvg-logo="https://i.imgur.com/qpS9g9y.png" group-title="Verch" group-title="Entretenimiento",A&E (1) HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/27969
 
+#EXTINF:-1 tvg-id="A&E (1) HD (L35)" tvg-logo="https://i.imgur.com/qpS9g9y.png" group-title="Verch" group-title="Entretenimiento",A&E (1) HD (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
+
 #EXTINF:-1 tvg-id="A&E (1) HD (L1)" tvg-logo="https://i.imgur.com/qpS9g9y.png" group-title="Verch" group-title="Entretenimiento",A&E (1) HD (L1)
 http://bgtv.xyz/play/play-127.php?ul=474&token=dfghdfghfghdfghdfg
 
@@ -1452,9 +1455,6 @@ http://bgtv.xyz/play/play-127.php?ul=981&token=dfghdfghfghdfghdfg
 #EXTINF:-1 tvg-id="HBO (Hon4)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO (Hon4)
 http://45.4.85.214:58001/play/a03r
 
-#EXTINF:-1 tvg-id="HBO HD (L35)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L35)
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
-
 #EXTINF:-1 tvg-id="HBO HD (L10)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L10)
 http://bgtv.xyz/play/play-127.php?tlatino=31&token=dfghdfghfghdfghdfg
 
@@ -1472,9 +1472,6 @@ http://bgtv.xyz/play/play-127.php?ul=62&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="HBO HD (L1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L1)
 http://bgtv.xyz/play/play-127.php?ul=654&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-id="HBO HD (L10)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (L10)
-http://bgtv.xyz/play/play-127.php?tlatino=128&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="HBO HD (Ven1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO HD (Ven1)
 http://186.167.80.82:8126/play/a0d9/index.m3u8
@@ -1515,15 +1512,6 @@ http://45.4.85.214:58001/play/a03s
 #EXTINF:-1 tvg-id="HBO 2 HD (L35)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/121
 
-#EXTINF:-1 tvg-id="HBO 2 HD (L1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (L1)
-http://bgtv.xyz/play/play-127.php?ul=300&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-id="HBO 2 HD (L1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (L1)
-http://bgtv.xyz/play/play-127.php?ul=732&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-id="HBO 2 HD (L10)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (L10)
-http://bgtv.xyz/play/play-127.php?tlatino=32&token=dfghdfghfghdfghdfg
-
 #EXTINF:-1 tvg-id="HBO 2 HD (Gua0)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (Gua0)
 http://45.5.117.182:8000/play/a0eP/index.m3u8
 
@@ -1536,7 +1524,19 @@ http://45.5.117.182:8000/play/a0et/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2 HD (Hon4)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (Hon4)
 http://45.4.85.214:58001/play/a04v
 
-#EXTINF:-1 tvg-id="HBO 2 HD (Ven1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (Ven1)
+#EXTINF:-1 tvg-id="HBO 2 HD (2) (L1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (2) (L1)
+http://bgtv.xyz/play/play-127.php?ul=300&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-id="HBO 2 HD (2) (L1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (2) (L1)
+http://bgtv.xyz/play/play-127.php?ul=732&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-id="HBO 2 HD (2) (L10)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (2) (L10)
+http://bgtv.xyz/play/play-127.php?tlatino=32&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-id="HBO 2 HD (2) (L10)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (2) (L10)
+http://bgtv.xyz/play/play-127.php?tlatino=128&token=dfghdfghfghdfghdfg
+
+#EXTINF:-1 tvg-id="HBO 2 HD (Ven1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (3) (Ven1)
 http://186.167.80.82:8126/play/a0de/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family (L35)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family (L35)
