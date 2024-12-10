@@ -1982,29 +1982,29 @@ http://45.167.3.81:45000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD (2) (L1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (2) (L1)
 http://bgtv.xyz/play/play-127.php?ul=485&token=dfghdfghfghdfghdfg
 
-#EXTINF:-1 tvg-id="ESPN 4 (1)(Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (1)(Gua3)
+#EXTINF:-1 tvg-id="ESPN 4 (2)(Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (2)(Gua3)
 http://181.78.105.146:8800/play/a08p
 
-#EXTINF:-1 tvg-id="ESPN 4 (1)(Sal2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (1)(Sal2)
+#EXTINF:-1 tvg-id="ESPN 4 (2)(Sal2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (2)(Sal2)
 http://45.167.3.81:45000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4 (3)S (L1)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (3)S (L1)
 http://bgtv.xyz/play/play-127.php?ul=37&token=dfghdfghfghdfghdfg
 
-#EXTINF:-1 tvg-id="ESPN 4 HD (1) (Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (1) (Gua3)
+#EXTINF:-1 tvg-id="ESPN 4 HD (1) (L35)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (1) (L35)
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/90
+
+#EXTINF:-1 tvg-id="ESPN 4 HD (2) (Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (2) (Gua3)
 http://181.78.105.146:8800/play/a08r
 
-#EXTINF:-1 tvg-id="ESPN 4 HD (1) (Sal2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (1) (Sal2)
+#EXTINF:-1 tvg-id="ESPN 4 HD (2) (Sal2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (2) (Sal2)
 http://45.167.3.81:45000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4 HD (1) (Hon2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (1) (Hon2)
+#EXTINF:-1 tvg-id="ESPN 4 HD (2) (Hon2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (2) (Hon2)
 http://190.97.183.98:8000/play/a0pt/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4 HD (3)S (Sal2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (3)S (Sal2)
 http://177.53.155.236:8000/play/a0c2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4 HD (USA) (L35)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (USA) (L35)
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/90
 
 #EXTINF:-1 tvg-id="ESPN 5 (1) (Sal2)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 (1) (Sal2)
 http://45.167.3.81:45000/play/a067/index.m3u8
