@@ -1871,6 +1871,9 @@ http://45.167.3.81:45000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="ESPN (3)S (Hon2)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN (3)S (Hon2)
 http://190.97.183.98:8000/play/a0rc/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN (4)S (PerX1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN (4)S (PerX1)
+http://177.53.155.236:8000/play/a07i/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN HD (1)(L33)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (1)(L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28000
 
@@ -1899,7 +1902,7 @@ http://177.53.155.236:8000/play/a00l/index.m3u8
 http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 (1) (L1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (1) (L1)
-http://bgtv.xyz/play/play-127.php?ul=35&token=dfghdfghfghdfghdfg
+http://bgtv.xyz/play/play-127.php?ul=531&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="ESPN 2 (2) (Gua0)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (2) (Gua0)
 http://45.5.117.182:8000/play/a0hy/index.m3u8
@@ -1911,10 +1914,7 @@ http://181.78.105.146:6060/play/a037/index.m3u8
 http://45.167.3.81:45000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 (3)S (L1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (3)S (L1)
-http://bgtv.xyz/play/play-127.php?ul=531&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-id="ESPN 2 (3)S (PerX1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (3)S (PerX1)
-http://177.53.155.236:8000/play/a07i/index.m3u8
+http://bgtv.xyz/play/play-127.php?ul=35&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="ESPN 2 (3)S (PerX1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (3)S (PerX1)
 http://177.53.155.236:8000/play/a03d/index.m3u8
