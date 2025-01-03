@@ -365,7 +365,7 @@ http://181.78.23.26:45000/play/a04k
 #EXTINF:-1 tvg-id="Music Top HD (L10)" tvg-logo="https://i.imgur.com/NYlEKjA.png" group-title="Verch" group-title="Musical",Music Top HD (L10)
 http://bgtv.xyz/play/play-132.php?tlatino=387&token=dfghdfghfghdfghdfg
 
-#EXTINF:-1 tvg-id="Top Latino TV (Ll0)" tvg-logo="https://imgur.com/8sbWbNx.png" group-title="Verch" group-title="Musical",Top Latino TV (Ll0)
+#EXTINF:-1 tvg-id="Top Latino TV (L10)" tvg-logo="https://imgur.com/8sbWbNx.png" group-title="Verch" group-title="Musical",Top Latino TV (L10)
 http://bgtv.xyz/play/play-132.php?tlatino=123&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="FreeTV Hits (Vizio)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Verch" group-title="Musical", FreeTV Hits (Vizio)
@@ -1304,8 +1304,11 @@ http://181.78.105.146:6060/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal HD (2) (Ven2)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal HD (2) (Ven2)
 http://200.59.188.3:8000/play/a024
 
-#EXTINF:-1 tvg-id="Studio Universal HD (L33)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal (3) HD (L33)
+#EXTINF:-1 tvg-id="Studio Universal HD (3) (L33)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal HD (3) (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28034
+
+#EXTINF:-1 tvg-id="Studio Universal HD (3) (L10)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal HD (3) (L10)
+http://bgtv.xyz/play/play-132.php?tlatino=80&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="TNT (Mx)" tvg-logo="https://i.imgur.com/kTuxMeb.png" group-title="Verch" group-title="Pelis",TNT (Mx)
 http://181.78.105.146:2000/play/a018/index.m3u8
@@ -1547,9 +1550,6 @@ http://bgtv.xyz/play/play-132.php?ul=300&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="HBO 2 HD O (L1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD O (L1)
 http://bgtv.xyz/play/play-132.php?ul=732&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-id="HBO 2 HD O (L10)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD O (L10)
-http://bgtv.xyz/play/play-132.php?tlatino=32&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="HBO 2 HD O (L10)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD O (L10)
 http://bgtv.xyz/play/play-132.php?tlatino=128&token=dfghdfghfghdfghdfg
