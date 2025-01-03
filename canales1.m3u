@@ -365,6 +365,9 @@ http://181.78.23.26:45000/play/a04k
 #EXTINF:-1 tvg-id="Music Top HD (L10)" tvg-logo="https://i.imgur.com/NYlEKjA.png" group-title="Verch" group-title="Musical",Music Top HD (L10)
 http://bgtv.xyz/play/play-132.php?tlatino=387&token=dfghdfghfghdfghdfg
 
+#EXTINF:-1 tvg-id="Top Latino TV (L10)" tvg-logo="https://imgur.com/8sbWbNx.png" group-title="Verch" group-title="Musical",Top Latino TV (L10)
+http://bgtv.xyz/play/play-132.php?tlatino=123&token=dfghdfghfghdfghdfg
+
 #EXTINF:-1 tvg-id="FreeTV Hits (Vizio)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Verch" group-title="Musical", FreeTV Hits (Vizio)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flashvizio-vizious/playlist.m3u8
 
@@ -421,6 +424,9 @@ http://181.78.105.146:6060/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV (Hon2)" tvg-logo="https://i.imgur.com/WopGnN1.jpg" group-title="Verch" group-title="Musical",HTV (Hon2)
 http://190.97.183.98:8000/play/a0c9/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV (L10)" tvg-logo="https://i.imgur.com/WopGnN1.jpg" group-title="Verch" group-title="Musical",HTV (L10)
+http://bgtv.xyz/play/play-132.php?tlatino=89&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" tvg-name="Vevo Reggaeton & Trap" group-title="Verch" group-title="Musical", Vevo Reggaeton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1298,8 +1304,11 @@ http://181.78.105.146:6060/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal HD (2) (Ven2)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal HD (2) (Ven2)
 http://200.59.188.3:8000/play/a024
 
-#EXTINF:-1 tvg-id="Studio Universal HD (L33)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal (3) HD (L33)
+#EXTINF:-1 tvg-id="Studio Universal HD (3) (L33)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal HD (3) (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28034
+
+#EXTINF:-1 tvg-id="Studio Universal HD (3) (L10)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal HD (3) (L10)
+http://bgtv.xyz/play/play-132.php?tlatino=80&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="TNT (Mx)" tvg-logo="https://i.imgur.com/kTuxMeb.png" group-title="Verch" group-title="Pelis",TNT (Mx)
 http://181.78.105.146:2000/play/a018/index.m3u8
@@ -1541,9 +1550,6 @@ http://bgtv.xyz/play/play-132.php?ul=300&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="HBO 2 HD O (L1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD O (L1)
 http://bgtv.xyz/play/play-132.php?ul=732&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-id="HBO 2 HD O (L10)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD O (L10)
-http://bgtv.xyz/play/play-132.php?tlatino=32&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="HBO 2 HD O (L10)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD O (L10)
 http://bgtv.xyz/play/play-132.php?tlatino=128&token=dfghdfghfghdfghdfg
@@ -2062,9 +2068,6 @@ http://bgtv.xyz/play/play-132.php?ul=487&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="ESPN Premium HD (L1)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (L1)
 http://bgtv.xyz/play/play-132.php?ul=952&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-id="ESPN HD (USA)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN HD (USA)
-http://143.244.60.30/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN  Deportes (L35)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Deportes (L35)
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
@@ -2840,5 +2843,4 @@ https://answermedia-ultimateclassicwrestling-1-us.tcltvplus.wurl.tv/playlist.m3u
 
 #EXTINF:-1 group-title="TDT" group-title="ENG", Cops .CA -TCL
 https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
-
 
