@@ -1481,7 +1481,7 @@ http://181.78.105.146:6060/play/a04f/index.m3u8
 http://138.118.105.190:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus HD (BZ1)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Pelis Premium",HBO Plus HD (BZ1)
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/index.m3u8
+https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus HD O (L1)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Pelis Premium",HBO Plus O HD (L1)
 http://bgtv.xyz/play/play-132.php?ul=728&token=dfghdfghfghdfghdfg
@@ -1514,7 +1514,7 @@ http://bgtv.xyz/play/play-132.php?ul=732&token=dfghdfghfghdfghdfg
 http://bgtv.xyz/play/play-132.php?tlatino=128&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="HBO 2 HD O (BZ1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD O (BZ1)
-https://streamer1.nexgen.bz/HBO2/tracks-v1a2/index.m3u8
+https://streamer1.nexgen.bz/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family (L1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family (L1)
 http://bgtv.xyz/play/play-132.php?ul=63&token=dfghdfghfghdfghdfg
@@ -1538,10 +1538,10 @@ http://181.78.105.146:6060/play/a00k/index.m3u8
 http://138.118.105.190:8000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family HD (BZ1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family HD (BZ1)
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/index.m3u8
+https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Mundi HD (BZ1)" tvg-logo="https://i.imgur.com/Pl2f98K.png" group-title="Verch" group-title="Pelis Premium",HBO Mundi HD (BZ1)
-https://streamer1.nexgen.bz/HBO_MUNDI/tracks-v1a1/index.m3u8
+https://streamer1.nexgen.bz/HBO_MUNDI/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme (L1)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme (L1)
 http://bgtv.xyz/play/play-132.php?ul=814&token=dfghdfghfghdfghdfg
@@ -1553,7 +1553,7 @@ http://138.118.105.190:8000/play/a03c/index.m3u8
 http://200.113.4.75:7210/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme HD (BZ1)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme HD (BZ1)
-https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/index.m3u8
+https://streamer1.nexgen.bz/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme HD (Gua2)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme HD (Gua2)
 http://181.78.105.146:6060/play/a00l/index.m3u8
@@ -1562,13 +1562,13 @@ http://181.78.105.146:6060/play/a00l/index.m3u8
 http://bgtv.xyz/play/play-132.php?ul=977&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="HBO Pop HD (BZ1)" tvg-logo="https://i.imgur.com/CjKz57d.png" group-title="Verch" group-title="Pelis Premium",HBO Pop HD (BZ1)
-https://streamer1.nexgen.bz/HBO_POP/tracks-v1a2/index.m3u8
+https://streamer1.nexgen.bz/HBO_POP/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature (Gua4)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Pelis Premium",HBO Signature (Gua4)
 http://138.118.105.190:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature HD (BZ1)" tvg-logo="https://i.imgur.com/nOD1BMt.jpg" group-title="Verch" group-title="Pelis Premium",HBO Signature HD (BZ1)
-https://streamer1.nexgen.bz/HBO_SIG/tracks-v1a2/index.m3u8
+https://streamer1.nexgen.bz/HBO_SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="MOVISTAR ACCION HD (L1)" tvg-logo="http://x.playerlatino.live/maccion.png" group-title="Verch" group-title="Pelis Premium",MOVISTAR ACCION HD (L1)
 http://bgtv.xyz/play/play-132.php?ul=364&token=dfghdfghfghdfghdfg
