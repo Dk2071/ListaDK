@@ -629,11 +629,11 @@ http://181.78.105.146:6060/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="AXN HD (2) (Gua3)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (2) (Gua3)
 http://181.78.105.146:8800/play/a07a
 
-#EXTINF:-1 tvg-id="AXN HD (2) (Hon2)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (2) (Hon2)
-http://190.97.183.98:8000/play/a0ac/index.m3u8
-
 #EXTINF:-1 tvg-id="AXN HD (2) (Sal2)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (2) (Sal2)
 http://45.167.3.81:45000/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN HD (2) (BZ1)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (2) (BZ1)
+https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN HD (ES) (L1)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (ES) (L1)
 http://bgtv.xyz/play/play-132.php?ul=713&token=dfghdfghfghdfghdfg
@@ -914,14 +914,14 @@ http://45.5.117.182:8000/play/a0hs/index.m3u8
 #EXTINF:-1 tvg-id="USA Network (Gua2)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Gua2)
 http://181.78.105.146:6060/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="USA Network (Hon2)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (Hon2)
-http://190.97.183.98:8000/play/a0az/index.m3u8
-
 #EXTINF:-1 tvg-id="USA Network (PerX1)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network (PerX1)
 http://177.53.155.236:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="USA Network HD (L33)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network HD (L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/28035
+
+#EXTINF:-1 tvg-id="USA Network HD (BZ1)" tvg-logo="https://i.imgur.com/pVQe0o3.png" group-title="Verch" group-title="Entretenimiento",USA Network HD (BZ1)
+https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS (Gua2)" tvg-logo="https://i.imgur.com/857ej48.jpg" group-title="Verch" group-title="Entretenimiento",TNT NOVELAS (Gua2)
 http://181.78.105.146:6060/play/a01s/index.m3u8
