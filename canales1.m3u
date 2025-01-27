@@ -560,12 +560,6 @@ http://45.5.117.182:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-id="A&E (2) HD (Sal2)" tvg-logo="https://i.imgur.com/RqPtjKw.png" group-title="Verch" group-title="Entretenimiento",A&E (2) HD (Sal2)
 http://45.167.3.81:45000/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-id="A&E (2) HD (Ven1)" tvg-logo="https://i.imgur.com/RqPtjKw.png" group-title="Verch" group-title="Entretenimiento",A&E (2) HD (Ven1)
-http://186.148.195.206:8000/play/a0id/index.m3u8
-
-#EXTINF:-1 tvg-id="Atres Series Int HD (Ven1)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="Verch" group-title="Entretenimiento",Atres Series Int HD (Ven1)
-http://186.148.195.206:8000/play/a0j0/index.m3u8
-
 #EXTINF:-1 tvg-id="Atres Series ES (L1)" tvg-logo="https://i.imgur.com/gwxjMz8.png" group-title="Verch" group-title="Entretenimiento",Atres Series ES (L1)
 http://bgtv.xyz/play/play-132.php?ul=444&token=dfghdfghfghdfghdfg
 
@@ -610,9 +604,6 @@ http://45.167.3.81:45000/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN HD (2) (BZ1)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (2) (BZ1)
 https://streamer1.nexgen.bz/AXN/tracks-v1a2/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN HD (2) (Ven1)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (2) (Ven1)
-http://186.148.195.206:8000/play/a0if/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN HD (ES) (L1)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (ES) (L1)
 http://bgtv.xyz/play/play-132.php?ul=713&token=dfghdfghfghdfghdfg
@@ -941,9 +932,6 @@ http://181.78.105.146:6060/play/a03bf/index.m3u8
 + Pelis +
 
 
-#EXTINF:-1 tvg-id="AMC (1)(Ven1)" tvg-logo="https://i.imgur.com/TNBC7f2.png" group-title="Verch" group-title="Pelis",AMC (1)(Ven1)
-http://186.148.195.206:8000/play/a0ex/index.m3u8
-
 #EXTINF:-1 tvg-id="AMC (2)(L1)" tvg-logo="https://i.imgur.com/TNBC7f2.png" group-title="Verch" group-title="Pelis",AMC (2)(L1)
 http://bgtv.xyz/play/play-132.php?ul=183&token=dfghdfghfghdfghdfg
 
@@ -961,9 +949,6 @@ http://bgtv.xyz/play/play-132.php?tlatino=82&token=dfghdfghfghdfghdfg
 
 #EXTINF:-1 tvg-id="AMC HD (1)(L1)" tvg-logo="https://i.imgur.com/iX2raOz.png" group-title="Verch" group-title="Pelis",AMC HD (1)(L1)
 http://bgtv.xyz/play/play-132.php?ul=475&token=dfghdfghfghdfghdfg
-
-#EXTINF:-1 tvg-id="AMC HD (1)(Ven1)" tvg-logo="https://i.imgur.com/iX2raOz.png" group-title="Verch" group-title="Pelis",AMC HD (1)(Ven1)
-http://186.148.195.206:8000/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC HD (2)(L33)" tvg-logo="https://i.imgur.com/iX2raOz.png" group-title="Verch" group-title="Pelis",AMC HD (2)(L33)
 http://6oclock.xyz/Pumpkin1/Pumpkin1/27970
@@ -2674,3 +2659,31 @@ https://answermedia-ultimateclassicwrestling-1-us.tcltvplus.wurl.tv/playlist.m3u
 https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
 
 
++ XXX +
+
+#EXTINF:-1 tvg-id="Playboy (Gua0)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Gua0)
+http://45.5.117.182:8000/play/a0ed/index.m3u8
+
+#EXTINF:-1 tvg-id="Playboy (Gua3)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Gua3)
+http://181.78.105.146:8800/play/a01a
+
+#EXTINF:-1 tvg-id="Venus (Gua3)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Gua3)
+http://181.78.105.146:8800/play/a02h
+
+#EXTINF:-1 tvg-id="Venus (Sal2)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Sal2)
+http://45.167.3.81:45000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="Playboy (Sal2)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Sal2)
+http://45.167.3.81:45000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="Sextreme (Mx2)" tvg-logo="https://i.imgur.com/PmrFYh3.png" group-title="Verch" group-title="XXX",Sextreme (Mx2)
+http://181.114.57.246:4000/play/5NF6H3EAyctLSrEz/index.m3u8
+
+#EXTINF:-1 tvg-id="HustlerTV HD" tvg-logo="https://i.imgur.com/ZGEj9Bu.png" group-title="Verch" group-title="XXX",HustlerTV HD
+https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sextreme (Col7v)" tvg-logo="https://i.imgur.com/PmrFYh3.png" group-title="Verch" group-title="XXX",Sextreme (Col7v)
+http://190.60.40.37:12500/play/SEXTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="Penthouse Gold (Hon2v)" tvg-logo="https://i.imgur.com/7aAWiPx.png" group-title="Verch" group-title="XXX",Penthouse Gold (Hon2v)
+http://45.166.92.22:58001/play/a04c/index.m3u8
