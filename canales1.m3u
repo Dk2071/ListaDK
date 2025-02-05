@@ -1625,13 +1625,19 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 tvg-id="ESPN (2) (Gua2)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN (2) (Gua2)
 http://181.78.105.146:6060/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN HD (1) (Gua0)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN HD (1) (Gua0)
-http://45.5.117.182:8000/play/a0jn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN Sur (Col1)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Sur (Col1)
+http://190.0.241.181:8000/play/a0c6/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN HD (2) (Gua2)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (2) (Gua2)
 http://181.78.105.146:6060/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN HD (3)s (PerX1)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN HD (3)s (PerX1)
+#EXTINF:-1 tvg-id="ESPN Sur HD (Col1)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Sur HD (Col1)
+http://190.0.241.181:8000/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Sur HD (Col4)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Sur HD (Col4)
+http://190.109.176.90:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Sur HD (PerX1)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Sur HD (PerX1)
 http://177.53.155.236:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 (1) (Mx)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (1) (Mx)
@@ -1649,14 +1655,20 @@ http://45.5.117.182:8000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 (2) (Gua2)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (2) (Gua2)
 http://181.78.105.146:6060/play/a037/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2 (3)s (PerX1)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN 2 (3)s (PerX1)
+#EXTINF:-1 tvg-id="ESPN 2 Sur (PerX1)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN 2 Sur (PerX1)
 http://177.53.155.236:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2 (3)s (PerX1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (3)s (PerX1)
+#EXTINF:-1 tvg-id="ESPN 2 Sur (PerX1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 Sur (PerX1)
 http://177.53.155.236:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 HD (1) (Gua0)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (1) (Gua0)
 http://45.5.117.182:8000/play/a0kf/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 Sur HD (Col1)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN 2 Sur HD (Col1)
+http://190.0.241.181:8000/play/a0bh/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 Sur HD (Col4)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN 2 Sur HD (Col4)
+http://190.109.176.90:8000/play/a09a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 (1) (Mx)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1) (Mx)
 http://181.78.105.146:2000/play/a03n/index.m3u8
@@ -1673,7 +1685,7 @@ http://181.78.105.146:8800/play/a025
 #EXTINF:-1 tvg-id="ESPN 3 (1) (Gua0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1) (Gua0)
 http://45.5.117.182:8000/play/a0pq/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3 (1) (PerX1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1) (PerX1)
+#EXTINF:-1 tvg-id="ESPN 3 Sur (PerX1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 Sur (PerX1)
 http://177.53.155.236:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 HD (1) (Gua0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1) (Gua0)
@@ -1682,32 +1694,56 @@ http://45.5.117.182:8000/play/a0jn/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD (1) (Gua3)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1) (Gua3)
 http://181.78.105.146:8800/play/a053
 
-#EXTINF:-1 tvg-id="ESPN 3 HD (1) (Gua3)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1) (Gua3)
-http://181.78.105.146:8800/play/a08u
-
 #EXTINF:-1 tvg-id="ESPN 3 HD (1) (Gua0)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1) (Gua0)
 http://45.5.117.182:8000/play/a0kg/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4 (2) (Mx2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (2) Mx2)
+#EXTINF:-1 tvg-id="ESPN 3 HD (1) (Gua3)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 HD (1) (Gua3)
+http://181.78.105.146:8800/play/a08u
+
+#EXTINF:-1 tvg-id="ESPN 3 Sur HD (Col1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 Sur HD (Col1)
+http://190.0.241.181:8000/play/a0c1/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3 Sur HD (Col1)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 Sur HD (Col1)
+http://190.0.241.181:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3 Sur HD (Col4)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 Sur HD (Col4)
+http://190.109.176.90:8000/play/a08u/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4 (1) (Mx2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (1) Mx2)
 http://201.174.162.89:9981/stream/channelid/2122659265?profile=pass
 
-#EXTINF:-1 tvg-id="ESPN 4 (2) (Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (2) (Gua3)
+#EXTINF:-1 tvg-id="ESPN 4 (1) (Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (1) (Gua3)
 http://181.78.105.146:8800/play/a08p
 
-#EXTINF:-1 tvg-id="ESPN 4 HD (2) (Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (2) (Gua3)
+#EXTINF:-1 tvg-id="ESPN 4 HD (1) (Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (1) (Gua3)
 http://181.78.105.146:8800/play/a08r
 
-#EXTINF:-1 tvg-id="ESPN 4 HD (3)s (Sal2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 HD (3)s (Sal2)
+#EXTINF:-1 tvg-id="ESPN 4 Sur HD (Sal2)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 Sur HD (Sal2)
 http://177.53.155.236:8000/play/a0c2/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 5 (3)s (PerX1)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 (3)s (PerX1)
+#EXTINF:-1 tvg-id="ESPN 4 Sur HD (Col1)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 Sur HD (Col1)
+http://190.0.241.181:8000/play/a0b8/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4 Sur HD (Col1)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 Sur HD (Col1)
+http://190.0.241.181:8000/play/a08t/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4 Sur HD (Col4)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 Sur HD (Col4)
+http://190.109.176.90:8000/play/a0da/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5 (1) (Gua1)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 (1) (Gua1)
+http://200.115.120.1:8000/play/ca119/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5 Sur (PerX1)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 Sur (PerX1)
 http://177.53.155.236:8000/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5 HD (1) (Gua3)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 HD (1) (Gua3)
 http://181.78.105.146:8800/play/a08x
 
-#EXTINF:-1 tvg-id="ESPN 5 HD (3)s (Gua1)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 HD (3)s (Gua1)
-http://200.115.120.1:8000/play/ca119/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5 Sur HD (Col1)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 Sur HD (Col1)
+http://190.0.241.181:8000/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5 Sur HD (Col4)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 Sur HD (Col4)
+http://190.109.176.90:8000/play/a0dq/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6 (Gua0)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 (Gua0)
 http://45.5.117.182:8000/play/a0f0/index.m3u8
@@ -1724,13 +1760,28 @@ http://177.53.155.236:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6 HD (Gua2)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 HD (Gua2)
 http://181.78.105.146:6060/play/a05n/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 6 HD (Col1)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 HD (Col1)
+http://190.0.241.181:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6 HD (Col4)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 HD (Col4)
+http://190.109.176.90:8000/play/a00p/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 7 (PerX1)" tvg-logo="https://i.imgur.com/4Jd6COB.png" group-title="Verch" group-title="Deportes",Espn 7 (PerX1)
 http://177.53.155.236:8000/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 7 HD (Col1)" tvg-logo="https://i.imgur.com/4Jd6COB.png" group-title="Verch" group-title="Deportes",Espn 7 HD (Col1)
+http://190.0.241.181:8000/play/a0bw/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 7 HD (Col4)" tvg-logo="https://i.imgur.com/4Jd6COB.png" group-title="Verch" group-title="Deportes",Espn 7 HD (Col4)
+http://190.109.176.90:8000/play/a0gu/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Premium HD (Col4)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (Col4)
+http://190.109.176.90:8000/play/a0dw/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium HD (PerX1)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (PerX1)
 http://177.53.155.236:8000/play/a0c4/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN  Deportes (Hon7)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Deportes (Hon7)
+#EXTINF:-1 tvg-id="ESPN  Deportes HD (Hon7)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Deportes HD (Hon7)
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports MX HD (Mx2)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes",Fox Sports MX HD (Mx2)
