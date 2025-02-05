@@ -1835,6 +1835,9 @@ http://201.174.162.89:9981/stream/channelid/1631509901?profile=pass
 #EXTINF:-1 tvg-id="AYM SPORTS HD (L1)" tvg-logo="https://i.imgur.com/ZndxxCE.png" group-title="Verch" group-title="Deportes",AYM SPORTS HD (L1)
 http://bgtv.xyz/play/play-132.php?ul=148&token=dfghdfghfghdfghdfg
 
+#EXTINF:-1 tvg-id="Win Sports + HD (Col0)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Win Sports + HD (Col0)
+http://181.78.23.26:45000/play/a03d
+
 #EXTINF:-1 tvg-id="DAZN F1 (L1)" tvg-logo="https://i.imgur.com/7WKCv68.png" group-title="Verch" group-title="Deportes",DAZN F1 (L1)
 http://bgtv.xyz/play/play-132.php?ul=192&token=dfghdfghfghdfghdfg
 
