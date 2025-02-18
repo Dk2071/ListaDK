@@ -1682,8 +1682,8 @@ http://190.109.176.90:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Sur HD (Ven1)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Sur HD (Ven1)
 http://190.60.38.114:1010/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Sur HD (PerX1)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Sur HD (PerX1)
-http://177.53.155.236:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="ESPN Sur HD (Ven3)" tvg-logo="https://i.imgur.com/vIXMNWa.png" group-title="Verch" group-title="Deportes",ESPN Sur HD (Ven3)
+http://179.63.36.2:8000/play/a0o2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 (1) (Mx)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (1) (Mx)
 http://181.78.105.146:2000/play/a063/index.m3u8
@@ -1826,11 +1826,11 @@ http://190.0.241.181:8000/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7 HD (Col4)" tvg-logo="https://i.imgur.com/4Jd6COB.png" group-title="Verch" group-title="Deportes",Espn 7 HD (Col4)
 http://190.109.176.90:8000/play/a0gu/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN Premium HD (Ven3)" tvg-logo="https://i.imgur.com/3Ka8iby.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (Ven3)
+http://179.63.36.2:8000/play/a0ko/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN Premium HD (Col4)" tvg-logo="https://i.imgur.com/3Ka8iby.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (Col4)
 http://190.109.176.90:8000/play/a0dw/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN Premium HD (PerX1)" tvg-logo="https://i.imgur.com/3Ka8iby.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (PerX1)
-http://177.53.155.236:8000/play/a0c4/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN  Deportes HD (Hon7)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Deportes HD (Hon7)
 http://190.92.10.66:4000/play/a003/index.m3u8
@@ -1901,16 +1901,16 @@ http://bgtv.xyz/play/play-132.php?ul=192&token=dfghdfghfghdfghdfg
 #EXTINF:-1 tvg-id="MLB NETWORK USA HD (L22)" tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Verch" group-title="Deportes",MLB NETWORK USA HD (L22)
 http://212.102.60.231/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Lista 22", NBA TV hd
+#EXTINF:-1 tvg-id="NBA TV HD USA HD (L22)" tvg-logo="https://i.imgur.com/qmdRVEC.png" group-title="Verch" group-title="Deportes",NBA TV HD USA HD (L22)
 http://212.102.60.231/NBA_TV/index.m3u8
 
-#EXTINF:-1 group-title="Lista 22", NFL NETWORK
+#EXTINF:-1 tvg-id="NFL NETWORK USA HD (L22)" tvg-logo="https://i.imgur.com/OerDqf7.png" group-title="Verch" group-title="Deportes",NFL NETWORK USA HD (L22)
 http://212.102.60.231/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Lista 22", NBC
+#EXTINF:-1 tvg-id="NBC HD USA HD (L22)" tvg-logo="https://i.imgur.com/2KLKbbM.png" group-title="Verch" group-title="Deportes",NBC HD USA HD (L22)
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 group-title="Lista 22", NHL
+#EXTINF:-1 tvg-id="NHL NETWORK USA HD (L22)" tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Verch" group-title="Deportes",NHL NETWORK USA HD (L22)
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf Channel (Gua3)" tvg-logo="https://i.imgur.com/pfFEal3.png" group-title="Verch" group-title="Deportes",Golf Channel (Gua3)
