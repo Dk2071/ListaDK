@@ -1322,6 +1322,12 @@ http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 tvg-id="Win Sports + HD (ColX)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Win Sports + HD (ColX)
 http://181.78.4.186:8000/play/a0qc/index.m3u8
 
+#EXTINF:-1 tvg-id="UFC USA HD (L22)" tvg-logo="https://i.imgur.com/Flww3NV.png" group-title="Verch" group-title="Deportes",UFC USA HD (L22)
+http://fl1.moveonjoy.com/UFC/index.m3u8
+
+#EXTINF:-1 tvg-id="WWE USA HD (L22)" tvg-logo="https://i.imgur.com/SSRu2Bz.png" group-title="Verch" group-title="Deportes",WWE USA HD (L22)
+http://fl2.moveonjoy.com/WWE/index.m3u8
+
 #EXTINF:-1 tvg-id="MLB NETWORK USA HD (L22)" tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Verch" group-title="Deportes",MLB NETWORK USA HD (L22)
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
@@ -1342,6 +1348,9 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="TENNIS CHANNEL USA HD (L22)" tvg-logo="https://i.imgur.com/14EnCDa.png" group-title="Verch" group-title="Deportes",TENNIS CHANNEL USA HD (L22)
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="VICE USA HD (L22)" tvg-logo="https://i.imgur.com/PTGQq2l.png" group-title="Verch" group-title="Deportes",VICE SPORTS USA HD (L22)
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-id="Golf Channel (Gua3)" tvg-logo="https://i.imgur.com/pfFEal3.png" group-title="Verch" group-title="Deportes",Golf Channel (Gua3)
 http://181.78.105.146:8800/play/a00j
