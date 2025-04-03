@@ -1352,6 +1352,49 @@ http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="VICE USA HD (L22)" tvg-logo="https://i.imgur.com/PTGQq2l.png" group-title="Verch" group-title="Deportes",VICE SPORTS USA HD (L22)
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 
+#EXTINF:-1 tvg-id="STADIUM USA HD (L22)" tvg-logo="https://i.imgur.com/ysfclbr.jpeg" group-title="Verch" group-title="Deportes",STADIUM USA HD (L22)
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TSN 1 HD (L22)" tvg-logo="https://i.imgur.com/6sQmGjg.jpeg" group-title="Verch" group-title="Deportes",TSN 1 HD (L22)
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN 1 HD (L22)" tvg-logo="https://i.imgur.com/6sQmGjg.jpeg" group-title="Verch" group-title="Deportes",TSN 1 HD (L22)
+http://212.102.60.231/TSN_1/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TSN 2 HD (L22)" tvg-logo="https://i.imgur.com/FMwE51A.jpeg" group-title="Verch" group-title="Deportes",TSN 2 HD (L22)
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN 2 HD (L22)" tvg-logo="https://i.imgur.com/FMwE51A.jpeg" group-title="Verch" group-title="Deportes",TSN 2 HD (L22)
+http://212.102.60.231/TSN_2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TSN 3 HD (L22)" tvg-logo="https://i.imgur.com/GtcHdK1.jpeg" group-title="Verch" group-title="Deportes",TSN 3 HD (L22)
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN 3 HD (L22)" tvg-logo="https://i.imgur.com/GtcHdK1.jpeg" group-title="Verch" group-title="Deportes",TSN 3 HD (L22)
+http://212.102.60.231/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN 4 HD (L22)" tvg-logo="https://i.imgur.com/agTRVEh.jpeg" group-title="Verch" group-title="Deportes",TSN 4 HD (L22)
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN 4 HD (L22)" tvg-logo="https://i.imgur.com/agTRVEh.jpeg" group-title="Verch" group-title="Deportes",TSN 4 HD (L22)
+http://212.102.60.231/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN 5 HD (L22)" tvg-logo="https://i.imgur.com/ER4bBmy.jpeg" group-title="Verch" group-title="Deportes",TSN 5 HD (L22)
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN 5 HD (L22)" tvg-logo="https://i.imgur.com/ER4bBmy.jpeg" group-title="Verch" group-title="Deportes",TSN 5 HD (L22)
+http://212.102.60.231/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="MOTOR TREND HD (L22)" tvg-logo="https://i.imgur.com/YYxyv7w.png" group-title="Verch" group-title="Deportes",MOTOR TREND HD(L22)
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+
+#EXTINF:-1 tvg-id="MOTOR TREND HD (L22)" tvg-logo="https://i.imgur.com/YYxyv7w.png" group-title="Verch" group-title="Deportes",MOTOR TREND HD(L22)
+http://212.102.60.231/MOTOR_TREND/index.m3u8
+
 #EXTINF:-1 tvg-id="Golf Channel (Gua3)" tvg-logo="https://i.imgur.com/pfFEal3.png" group-title="Verch" group-title="Deportes",Golf Channel (Gua3)
 http://181.78.105.146:8800/play/a00j
 
