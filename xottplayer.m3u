@@ -392,7 +392,7 @@ http://181.78.105.146:2000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="A&E (1) (Gua0)" tvg-logo="https://i.imgur.com/RqPtjKw.png" group-title="Verch" group-title="Entretenimiento",A&E (1) (Gua0)
 http://181.78.105.146:2000/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-id="A&E (2) (Col0)" tvg-logo="https://i.imgur.com/qpS9g9y.png" group-title="Verch" group-title="Entretenimiento",A&E (2) (Col0)
+#EXTINF:-1 tvg-id="A&E (1) (Col0)" tvg-logo="https://i.imgur.com/qpS9g9y.png" group-title="Verch" group-title="Entretenimiento",A&E (1) (Col0)
 http://181.78.23.26:45000/play/a01m
 
 #EXTINF:-1 tvg-id="AXN (1) (Mx)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN (1) (Mx)
@@ -652,7 +652,7 @@ http://181.78.23.26:45000/play/a006
 #EXTINF:-1 tvg-id="Cine Canal HD (Gua2)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal HD (Gua2)
 http://181.78.105.146:6060/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Canal HD (Gua1)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal HD (Gua11)
+#EXTINF:-1 tvg-id="Cine Canal HD (Gua1)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal HD (Gua1)
 http://200.115.120.1:8000/play/ca032/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Canal HD (BZ1)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal HD (BZ11)
@@ -1466,6 +1466,9 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 tvg-id="Movistar Deportes (Per1)" tvg-logo="https://i.imgur.com/bmUZ2cV.png" group-title="Verch" group-title="Deportes",Movistar Deportes (Per1)
 http://177.53.155.236:8000/play/a0gm/index.m3u8
 
+#EXTINF:-1 tvg-id="Movistar Deportes (Ecua2)" tvg-logo="https://i.imgur.com/bmUZ2cV.png" group-title="Verch" group-title="Deportes",Movistar Deportes (Ecua2)
+http://45.71.37.194:8010/play/a08c/index.m3u8
+
 #EXTINF:-1 tvg-id="TyC Sports (Col0)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TyC Sports (Col0)
 http://181.78.23.26:45000/play/a04m
 
@@ -2141,6 +2144,12 @@ http://45.5.117.182:8000/play/a0gf/index.m3u8
 
 #EXTINF:-1 tvg-id="HustlerTV HD (BZ1)" tvg-logo="https://i.imgur.com/ZGEj9Bu.png" group-title="Verch" group-title="XXX",HustlerTV HD (BZ1)
 https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Sextreme (Ecua2)" tvg-logo="https://i.imgur.com/PmrFYh3.png" group-title="Verch" group-title="XXX",Sextreme (Ecua2)
+http://45.71.37.194:8010/play/a0a4/index.m3u8
+
+#EXTINF:-1 tvg-id="Sextreme (Ecua2)" tvg-logo="https://i.imgur.com/PmrFYh3.png" group-title="Verch" group-title="XXX",Sextreme (Ecua2)
+http://45.71.37.194:8010/play/a0jc/index.m3u8
 
 #EXTINF:-1 tvg-id="Sextreme (Col7v)" tvg-logo="https://i.imgur.com/PmrFYh3.png" group-title="Verch" group-title="XXX",Sextreme (Col7v)
 http://190.60.40.37:12500/play/SEXTREME/index.m3u8
