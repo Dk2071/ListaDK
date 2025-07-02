@@ -1402,7 +1402,7 @@ http://45.68.35.218:4001/play/a021/index.m3u8
 http://45.68.35.218:4001/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="FS1 USA HD (L22)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes,FS1 USA HD (L22)
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://fl5.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="FS1 USA HD (Hon3)" tvg-logo="https://i.imgur.com/hg4ZhKF.png" group-title="Verch" group-title="Deportes,FS1 USA HD (Hon3)
 http://190.92.10.66:4000/play/a0h7/index.m3u8
@@ -1434,10 +1434,7 @@ http://212.102.60.231/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="EuroSport 2 (Gua1)" tvg-logo="https://i.imgur.com/2xVN0O0.png" group-title="Verch" group-title="Deportes",EuroSport 2 (Gua1)
 http://200.115.120.1:8000/play/ca042/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT Sports Premium HD (Hon2)" tvg-logo="https://i.imgur.com/uzjnxzE.png" group-title="Verch" group-title="Deportes",TNT Sports Premium HD (Hon2)
-http://45.68.35.218:4001/play/a030/index.m3u8
-
-#EXTINF:-1 tvg-id="Movistar + La Liga HD (Gua1)" tvg-logo="http://x.playerlatino.live/movistar_laliga.png" group-title="Verch" group-title="Deportes",Movistar + La Liga HD (Gua1)
+#EXTINF:-1 tvg-id="TNT Sports Premium HD (Gua1)" tvg-logo="https://i.imgur.com/uzjnxzE.png" group-title="Verch" group-title="Deportes",TNT Sports Premium HD (Gua1)
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
 #EXTINF:-1 tvg-id="Movistar Deportes (Per1)" tvg-logo="https://i.imgur.com/bmUZ2cV.png" group-title="Verch" group-title="Deportes",Movistar Deportes (Per1)
@@ -1448,24 +1445,6 @@ http://45.71.37.194:8010/play/a08c/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sports (Col0)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TyC Sports (Col0)
 http://181.78.23.26:45000/play/a04m
-
-#EXTINF:-1 tvg-id="Tigo Sports + (Gua3)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Tigo Sports + (Gua3)
-http://181.78.105.146:8800/play/a07w
-
-#EXTINF:-1 tvg-id="Tigo Sports HD (Hon3)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Tigo Sports HD (Hon3)
-http://190.92.10.66:4000/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-id="Tigo Sports HD (Hon2)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Tigo Sports HD (Hon2)
-http://45.68.35.218:4001/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-id="Tigo Sports + HD (Hon2)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Tigo Sports + HD (Hon2)
-http://45.68.35.218:4001/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-id="Tigo Sports + HD (Hon2)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Tigo Sports + HD (Hon2)
-http://45.68.35.218:4001/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="DEPORTES TVC 1 (Hon3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="Verch" group-title="Deportes",DEPORTES TVC 1 (Hon3)
-http://190.92.10.66:4000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="Win Sports + HD (Col0)" tvg-logo="https://i.imgur.com/FCjy6Pq.png" group-title="Verch" group-title="Deportes",Win Sports + HD (Col0)
 http://181.78.23.26:45000/play/a03d
@@ -1507,7 +1486,7 @@ http://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="VICE USA HD (L22)" tvg-logo="https://i.imgur.com/PTGQq2l.png" group-title="Verch" group-title="Deportes",VICE SPORTS USA HD (L22)
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
+http://fl5.moveonjoy.com/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-id="STADIUM USA HD (L22)" tvg-logo="https://i.imgur.com/ysfclbr.jpeg" group-title="Verch" group-title="Deportes",STADIUM USA HD (L22)
 http://fl5.moveonjoy.com/STADIUM/index.m3u8
