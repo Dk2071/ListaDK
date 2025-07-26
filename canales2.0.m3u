@@ -628,8 +628,8 @@ https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Movies (Ecua1)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="Verch" group-title="Pelis",Sony Movies (Ecua1)
 http://170.244.209.135:8000/play/a07i/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Movies HD (Gua44)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="Verch" group-title="Pelis",Sony Movies HD (Gua44)
-http://45.186.106.207:8000/play/a082/index.m3u8
+#EXTINF:-1 tvg-id="Sony Movies HD (Arg1)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="Verch" group-title="Pelis",Sony Movies HD (Arg1)
+http://201.217.246.177:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Movies HD (Ecua2)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="Verch" group-title="Pelis",Sony Movies HD (Ecua2)
 http://190.61.117.35:8000/play/a05t
@@ -747,8 +747,8 @@ http://181.78.74.69:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2 (Per1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 (Per1)
 http://177.53.155.236:8000/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2 HD (Gua44)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (Gua44)
-http://45.186.106.207:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD (Chi2)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (Chi2)
+http://45.184.87.142:8000/play/a05a
 
 #EXTINF:-1 tvg-id="HBO 2 HD (BZ1)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 HD (BZ1)
 https://streamer1.nexgen.bz/HBO2/index.m3u8
@@ -771,8 +771,8 @@ http://181.205.130.194:4000/play/a0dr
 #EXTINF:-1 tvg-id="HBO Family (Per1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family (Per1)
 http://177.53.155.236:8000/play/a0gy/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family HD (Gua44)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family HD (Gua44)
-http://45.186.106.207:8000/play/a07p/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD (Per2)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family HD (Per2)
+http://38.211.242.128:8001/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family HD (BZ1)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family HD (BZ1)
 https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
@@ -1908,5 +1908,4 @@ https://answermedia-ultimateclassicwrestling-1-us.tcltvplus.wurl.tv/playlist.m3u
 
 #EXTINF:-1 group-title="TDT" group-title="ENG", Cops .CA -TCL
 https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
-
 
