@@ -72,8 +72,11 @@ https://vivo.Canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo 51 HD (Hon3 Test)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo 51 HD (Hon3 Test)
 http://190.92.10.66:4000/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo 51 HD (Usa1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo 51 HD (Usa1)
-http://72.76.116.158:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo Miami HD (Usa1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo Miami HD (Usa1)
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo PR HD (Usa1)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo PR HD (Usa1)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo I (Col0)" tvg-logo="https://i.imgur.com/GSfz9u2.png" group-title="Verch" group-title="General",Telemundo I (Col0)
 http://181.78.23.26:45000/play/a01t
