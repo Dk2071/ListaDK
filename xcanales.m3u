@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Azteca Guate (Gua1)" tvg-logo="https://i.imgur.com/QnPkuYJ.png" group-title="Verch" group-title="General",Azteca Guate (Gua1)
 http://200.115.120.1:8000/play/ca015/index.m3u8
 
+#EXTINF:-1 tvg-id="Azteca Guate HD (Gua6)" tvg-logo="https://i.imgur.com/QnPkuYJ.png" group-title="Verch" group-title="General",Azteca Guate HD (Gua6)
+http://200.12.41.194:8000/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="Azteca Uno HD (X1)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="General",Azteca Uno HD (X1)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -75,23 +78,26 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="UniMas HD (Usa3)" tvg-logo="https://i.imgur.com/XvCzxwm.png" group-title="Verch" group-title="General",UniMas HD (Usa3)
 http://104.238.205.28:8989/278726_.m3u8
 
-#EXTINF:-1 tvg-id="Univision HD (Gua2)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD (Gua2)
-http://181.78.106.127:9000/play/ca006/index.m3u8
-
 #EXTINF:-1 tvg-id="Univision (Gua1)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision (Gua1)
 http://200.115.120.1:8000/play/ca106/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision HD (Gua2)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD (Gua2)
+http://181.78.106.127:9000/play/ca006/index.m3u8
+
+#EXTINF:-1 tvg-id="Univision HD (Gua2)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD (Gua2)
 http://181.78.106.127:9000/play/ca024/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVISION MIAMI HD (Hon3 Test)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",UNIVISION MIAMI HD (Hon3 Test)
-http://190.92.10.66:4000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Univision HD (Gua5)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",Univision HD (Gua5)
+http://45.228.234.30:16000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVISION USA HD (USA3)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",UNIVISION USA HD (USA3)
 http://104.238.205.28:8989/278699_.m3u8
 
-#EXTINF:-1 tvg-id="NBC EAST USA HD (L22)" tvg-logo="https://i.imgur.com/2KLKbbM.png" group-title="Verch" group-title="General",NBC EAST USA HD (L22)
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="UNIVISION MIAMI HD (Hon3 Test)" tvg-logo="https://i.imgur.com/LaWpQzF.png" group-title="Verch" group-title="General",UNIVISION MIAMI HD (Hon3 Test)
+http://190.92.10.66:4000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="Unicable HD (Gua5)" tvg-logo="https://i.imgur.com/D1fcZFZ.png" group-title="Verch" group-title="General",Unicable HD (Gua5)
+http://45.228.234.30:16000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="Telenovelas (1) (Gua1)" tvg-logo="https://i.imgur.com/8vzKv22.png" group-title="Verch" group-title="General",Telenovelas (1) (Gua1)
 http://200.115.120.1:8000/play/ca019/index.m3u8
@@ -135,6 +141,9 @@ http://181.78.106.127:9000/play/ca019/index.m3u8
 #EXTINF:-1 tvg-id="MVS TV HD" tvg-logo="https://i.imgur.com/EzbA7Zc.png" group-title="Verch" group-title="General",MVS TV HD
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
+#EXTINF:-1 tvg-id="France24 (Gua6)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="General",France24 (Gua6)
+http://200.12.41.194:8000/play/a09z/index.m3u8
+
 #EXTINF:-1 tvg-id="France24 (Col9)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Verch" group-title="General",France24 (Col9)
 http://190.102.123.28:8097/play/a0dh/index.m3u8
 
@@ -143,6 +152,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3 (Gua1)" tvg-logo="https://i.imgur.com/4RVFHzB.png" group-title="Verch" group-title="General",Antena 3 (Gua1)
 http://200.115.120.1:8000/play/ca018/index.m3u8
+
+#EXTINF:-1 tvg-id="Antena 3 HD (Gua6)" tvg-logo="https://i.imgur.com/4RVFHzB.png" group-title="Verch" group-title="General",Antena 3 HD (Gua6)
+http://200.12.41.194:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Noticias Caracol Colombia HD" tvg-logo="https://i.imgur.com/s3yJkkv.jpg" group-title="Verch" group-title="General",Noticias Caracol Colombia HD (TDT esp)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -176,6 +188,9 @@ http://200.115.96.61:9090/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="BANDAMAX HD (Gua2)" tvg-logo="https://i.imgur.com/gwNaO6v.png" group-title="Verch" group-title="Musical",BANDAMAX HD (Gua2)
 http://181.78.106.127:9000/play/ca064/index.m3u8
 
+#EXTINF:-1 tvg-id="Sin Limites (Gua6)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Sin Limites (Gua6)
+http://200.12.41.194:8000/play/a02c/index.m3u8
+
 #EXTINF:-1 tvg-id="Sin Limites (Col0)" tvg-logo="https://i.imgur.com/VU9LakY.jpg" group-title="Verch" group-title="Musical",Sin Limites (Col0)
 http://181.78.23.26:45000/play/a028
 
@@ -184,6 +199,9 @@ https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEHIT MX (Gua1)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",TELEHIT MX (Gua1)
 http://200.115.120.1:8000/play/ca048/index.m3u8
+
+#EXTINF:-1 tvg-id="TELEHIT MX (Gua6)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",TELEHIT MX (Gua6)
+http://200.12.41.194:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEHIT MUSICA PLUS HD (Gua2)" tvg-logo="https://i.imgur.com/YH4dWPW.png" group-title="Verch" group-title="Musical",TELEHIT MUSICA PLUS HD (Gua2)
 http://181.78.106.127:9000/play/ca065/index.m3u8
@@ -334,6 +352,9 @@ http://104.238.205.28:8989/278390_.m3u8
 #EXTINF:-1 tvg-id="A&E HD (Gua2)" tvg-logo="https://i.imgur.com/RqPtjKw.png" group-title="Verch" group-title="Entretenimiento",A&E HD (Gua2)
 http://181.78.106.127:9000/play/ca086/index.m3u8
 
+#EXTINF:-1 tvg-id="AXN (1) (Gua6)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN HD (Gua6)
+http://200.12.41.194:8000/play/a04p/index.m3u8
+
 #EXTINF:-1 tvg-id="AXN (2) (Col0)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN (2) (Col0)
 http://181.78.23.26:45000/play/a030
 
@@ -363,6 +384,9 @@ http://170.244.209.135:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia HD (Gua2)" tvg-logo="https://i.imgur.com/y1tyldk.jpg" group-title="Verch" group-title="Entretenimiento",Distrito Comedia HD (Gua2)
 http://181.78.106.127:9000/play/ca055/index.m3u8
+
+#EXTINF:-1 tvg-id="Distrito Comedia HD (Gua6)" tvg-logo="https://i.imgur.com/y1tyldk.jpg" group-title="Verch" group-title="Entretenimiento",Distrito Comedia HD (Gua6)
+http://200.12.41.194:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment (2)(Col0)" tvg-logo="https://i.imgur.com/ON7XsWT.png" group-title="Verch" group-title="Entretenimiento",E! Entertainment (2)(Col0)
 http://181.78.23.26:45000/play/a01f
@@ -404,6 +428,9 @@ http://201.230.137.204:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel (Gua2)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="Verch" group-title="Entretenimiento",Star Channel (Gua2)
 http://181.78.106.127:9000/play/ca068/index.m3u8
+
+#EXTINF:-1 tvg-id="Star Channel (Gua6)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="Verch" group-title="Entretenimiento",Star Channel (Gua6)
+http://200.12.41.194:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel (Col0)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="Verch" group-title="Entretenimiento",Star Channel (Col0)
 http://181.78.23.26:45000/play/a008
@@ -461,6 +488,15 @@ http://200.115.120.1:8000/play/ca022/index.m3u8
 #EXTINF:-1 tvg-id="TCM (Gua2)" tvg-logo="https://i.imgur.com/64FYETr.png" group-title="Verch" group-title="Entretenimiento",TCM (Gua2)
 http://181.78.106.127:9000/play/ca074/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT Series (Gua1)" tvg-logo="https://i.imgur.com/5Ycjk4F.png" group-title="Verch" group-title="Entretenimiento",TNT Series (Gua1) 
+http://200.115.120.1:8000/play/ca035/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series HD (Gua6)" tvg-logo="https://i.imgur.com/5Ycjk4F.png" group-title="Verch" group-title="Entretenimiento",TNT Series HD (Gua6) 
+http://200.12.41.194:8000/play/a0km/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series HD (Ecua1)" tvg-logo="https://i.imgur.com/5Ycjk4F.png" group-title="Verch" group-title="Entretenimiento",TNT Series HD (Ecua1)
+http://170.244.209.135:8000/play/a0dt/index.m3u8
+
 #EXTINF:-1 tvg-id="Warner (Gua1)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (Gua1)
 http://200.115.120.1:8000/play/ca047/index.m3u8
 
@@ -475,6 +511,12 @@ http://104.238.205.28:8989/278454_.m3u8
 
 #EXTINF:-1 tvg-id="Warner HD (Gua2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua2)
 http://181.78.106.127:9000/play/ca071/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner HD (Gua4)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua4)
+http://190.14.10.19:16000/play/a06m/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner HD (Gua5)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua5)
+http://45.228.234.30:16000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner HD (2) (Ecua1)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (2) (Ecua1)
 http://170.244.209.135:8000/play/a0dd/index.m3u8
@@ -510,6 +552,9 @@ http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Canal (Gua2)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Gua2)
 http://181.78.106.127:9000/play/ca095/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine Canal (Gua6)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Gua6)
+http://200.12.41.194:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Canal (Col0)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Col0)
 http://181.78.23.26:45000/play/a006
@@ -577,8 +622,17 @@ http://200.115.120.1:8000/play/ca037/index.m3u8
 #EXTINF:-1 tvg-id="Golden Edge (Gua2)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",Golden Edge (Gua2)
 http://181.78.106.127:9000/play/ca078/index.m3u8
 
+#EXTINF:-1 tvg-id="Golden Edge HD (Gua6)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",Golden Edge HD (Gua6)
+http://200.12.41.194:8000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden Premiere HD (Gua6)" tvg-logo="https://i.imgur.com/jOM4VEf.png" group-title="Verch" group-title="Pelis",Golden Premiere HD (Gua6)
+http://200.12.41.194:8000/play/a00r/index.m3u8
+
 #EXTINF:-1 tvg-id="Sony Movies (Ecua1)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="Verch" group-title="Pelis",Sony Movies (Ecua1)
 http://170.244.209.135:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony Movies HD (Gua6)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="Verch" group-title="Pelis",Sony Movies HD (Gua6)
+http://200.12.41.194:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Movies HD (Arg1)" tvg-logo="https://i.imgur.com/nHLTYpL.png" group-title="Verch" group-title="Pelis",Sony Movies HD (Arg1)
 http://201.217.246.177:8000/play/a05k/index.m3u8
@@ -625,12 +679,6 @@ http://200.113.4.75:7210/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="TNT O HD (Gua2)" tvg-logo="https://i.imgur.com/kTuxMeb.png" group-title="Verch" group-title="Pelis",TNT O HD (Gua2)
 http://181.78.106.127:9000/play/ca077/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT Series (Gua1)" tvg-logo="https://i.imgur.com/5Ycjk4F.png" group-title="Verch" group-title="Pelis",TNT Series (Gua1) 
-http://200.115.120.1:8000/play/ca035/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT Series HD (Ecua1)" tvg-logo="https://i.imgur.com/5Ycjk4F.png" group-title="Verch" group-title="Pelis",TNT Series HD (Ecua1)
-http://170.244.209.135:8000/play/a0dt/index.m3u8
-
 #EXTINF:-1 tvg-id="Universal Channel (Ecua1)" tvg-logo="https://i.imgur.com/LWPW3nF.jpg" group-title="Verch" group-title="Pelis",Universal Channel (1) (Ecua1)
 http://170.244.209.135:8000/play/a0et/index.m3u8
 
@@ -651,6 +699,9 @@ http://190.61.55.34:2401/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Cinema HD (Gua2)" tvg-logo="https://i.imgur.com/immQVbM.jpg" group-title="Verch" group-title="Pelis",Universal Cinema HD (Gua2)
 http://181.78.106.127:9000/play/ca083/index.m3u8
+
+#EXTINF:-1 tvg-id="Claro Cinema (Gua6)" tvg-logo="https://i.imgur.com/LWPW3nF.jpg" group-title="Verch" group-title="Pelis",Claro Cinema (Gua6)
+http://200.12.41.194:8000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Cinema HD (Gua2)" tvg-logo="https://i.imgur.com/LWPW3nF.jpg" group-title="Verch" group-title="Pelis",Claro Cinema HD (Gua2)
 http://181.78.106.127:9000/play/ca084/index.m3u8
@@ -954,6 +1005,9 @@ http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBS SPORTS NETWORK HD (L22)" tvg-logo="https://i.imgur.com/S4uCPz0.png" group-title="Verch" group-title="Deportes",CBS SPORTS NETWORK HD (L22)
 http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="Azteca Deportes (Gua6)" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Verch" group-title="Deportes",Azteca Deportes (Gua6)
+http://200.12.41.194:8000/play/a015/index.m3u8
+
 #EXTINF:-1 tvg-id="Adrenalina (Usa3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",Adrenalina (Usa3)
 http://104.238.205.28:8989/278572_.m3u8
 
@@ -963,19 +1017,13 @@ http://104.238.205.28:8989/278573_.m3u8
 #EXTINF:-1 tvg-id="TUDN (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Gua1)
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN USA (Gua2)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA (Gua2)
-http://45.186.106.220:5550/play/a04u/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN USA HD (Hon3 Test)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Hon3 Test)
-http://190.92.10.66:4000/play/a002/index.m3u8
-
 #EXTINF:-1 tvg-id="TUDN USA HD (Usa2)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Usa2)
 http://206.212.244.71:8080/Abxc5k/363887/11885
 
-#EXTINF:-1 tvg-id="TUDN USA HD (Usa3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Usa3)
+#EXTINF:-1 tvg-id="TUDN USA HD (Usa3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN(Vix) USA HD (Usa3)
 http://104.238.205.28:8989/278570_.m3u8
 
-#EXTINF:-1 tvg-id="TUDN USA HD (Usa3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Usa3)
+#EXTINF:-1 tvg-id="TUDN USA HD (Usa3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN(Vix) USA HD (Usa3)
 http://104.238.205.28:8989/278571_.m3u8
 
 #EXTINF:-1 tvg-id="TUDN HD (Gua2)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua2)
@@ -984,14 +1032,17 @@ http://181.78.106.127:9000/play/ca025/index.m3u8
 #EXTINF:-1 tvg-id="TUDN HD (Gua2)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua2)
 http://181.78.106.127:9000/play/ca036/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN HD (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua3)
-http://190.14.1.214:40000/play/a09p
-
 #EXTINF:-1 tvg-id="TUDN HD (Gua4)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua4)
 http://190.14.10.19:16000/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN HD (Gua5)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua5)
 http://45.228.234.30:16000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN HD (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua3)
+http://190.14.1.214:40000/play/a09p
+
+#EXTINF:-1 tvg-id="TUDN USA HD (Hon3 Test)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Hon3 Test)
+http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS (Gua1)" tvg-logo="https://i.imgur.com/WeGE9Es.png" group-title="Verch" group-title="Deportes",DSPORTS (Gua1)
 http://200.115.120.1:8000/play/ca124/index.m3u8
@@ -1118,6 +1169,12 @@ http://181.205.130.194:4000/play/a06o
 
 #EXTINF:-1 tvg-id="Claro Sports HD (mx)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports HD (mx)
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Claro Sports HD (Gua6)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports HD (Gua6)
+http://200.12.41.194:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-id="Claro Sports HD (Gua6)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports HD (Gua6)
+http://200.12.41.194:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports 2 HD (Gua2)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports 2 HD (Gua2)
 http://181.78.106.127:9000/play/ca037/index.m3u8
@@ -1546,5 +1603,220 @@ https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
 #EXTINF:-1 tvg-id="Sextreme (Per2)" tvg-logo="https://i.imgur.com/PmrFYh3.png" group-title="Verch" group-title="XXX",Sextreme (Per2)
 http://38.183.182.166:8000/play/a0t3/index.m3u8
 
-#EXTINF:-1 tvg-id="PornBox (Fapadoo.com) (Usa2)" tvg-logo="https://i.imgur.com/7aAWiPx.png" group-title="Verch" group-title="XXX",PornBox (Fapadoo.com) (Usa2)
+#EXTINF:-1 tvg-id="PornBox (Fapadoo.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Fapadoo.com) (Usa2)
 http://206.212.244.71:8080/Abxc5k/363887/159983
+
+#EXTINF:-1 tvg-id="PornBox (Kings.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Kings.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159984
+
+#EXTINF:-1 tvg-id="PornBox (FirstAnalQuest.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (FirstAnalQuest.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159985
+
+#EXTINF:-1 tvg-id="PornBox (Fit18.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Fit18.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159986
+
+#EXTINF:-1 tvg-id="PornBox (GotMYLF.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (GotMYLF.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159987
+
+#EXTINF:-1 tvg-id="PornBox (Hentaied.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Hentaied.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159988
+
+#EXTINF:-1 tvg-id="PornBox (LETSDOEIT-Herlimit.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (LETSDOEIT-Herlimit.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159989
+
+#EXTINF:-1 tvg-id="PornBox (Holed.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Holed.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159990
+
+#EXTINF:-1 tvg-id="PornBox (HotwifeXXX.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (HotwifeXXX.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159991
+
+#EXTINF:-1 tvg-id="PornBox (Hussiepass.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Hussiepass.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159992
+
+#EXTINF:-1 tvg-id="PornBox (Interracialpass.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Interracialpass.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159993
+
+#EXTINF:-1 tvg-id="PornBox (JaysPOV.net) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (JaysPOV.net) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159994
+
+#EXTINF:-1 tvg-id="PornBox (JoiBabes.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (JoiBabes.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159995
+
+#EXTINF:-1 tvg-id="PornBox (KinkySpa.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (KinkySpa.com) (Usa2)http://206.212.244.71:8080/Abxc5k/363887/159996
+
+#EXTINF:-1 tvg-id="PornBox (EvilAngel.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (EvilAngel.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159997
+
+#EXTINF:-1 tvg-id="PornBox (KinkyFamily.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (KinkyFamily.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159998
+
+#EXTINF:-1 tvg-id="PornBox (LETSDOEIT-KinkyInlaws) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (LETSDOEIT-KinkyInlaws) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/159999
+
+#EXTINF:-1 tvg-id="PornBox (111Customs.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (111Customs.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160001
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160002
+
+#EXTINF:-1 tvg-id="PornBox (LETSDOEIT-WhiteBoxxx) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (LETSDOEIT-WhiteBoxxx) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160003
+
+#EXTINF:-1 tvg-id="PornBox (LifeSelector.com) (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (LifeSelector.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160004
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160005
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (LoveHomePorn.com) (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160006
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Lubed.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160007
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (AlexLegend.com) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160008
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Mamacitaz) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160009
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160050
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160051
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160052
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160053
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160054
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160055
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160056
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160057
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160058
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160059
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160060
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160061
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160062
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160063
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160064
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160065
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160066
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160067
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160068
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160069
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160070
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160071
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160072
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160073
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160074
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160075
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160076
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160078
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160079
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160080
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160081
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160082
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160083
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160084
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160085
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160086
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160087
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160088
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160089
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160090
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160091
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160092
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (ShaidenRogue) (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160093
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (SolaZola) (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160094
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (RealSweetBunny.com) (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160095
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Tessa Winters) (Usa2) 
+http://206.212.244.71:8080/Abxc5k/363887/160096
+
+#EXTINF:-1 tvg-id="PornBox (Usa2)" tvg-logo="https://i.imgur.com/OQMok27.png" group-title="Verch" group-title="XXX",PornBox (Yiny Leon) (Usa2)
+http://206.212.244.71:8080/Abxc5k/363887/160098
