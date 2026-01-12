@@ -917,12 +917,6 @@ http://206.212.244.71:8080/Abxc5k/363887/11885
 #EXTINF:-1 tvg-id="TUDN USA HD (X1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (X1)
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
-#EXTINF:-1 tvg-id="TUDN HD (Gua4)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua4)
-http://190.14.10.19:16000/play/a09v/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN USA HD (Hon3 Test)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Hon3 Test)
-http://190.92.10.66:4000/play/a002/index.m3u8
-
 #EXTINF:-1 tvg-id="DSPORTS (Gua1)" tvg-logo="https://i.imgur.com/WeGE9Es.png" group-title="Verch" group-title="Deportes",DSPORTS (Gua1)
 http://200.115.120.1:8000/play/ca124/index.m3u8
 
@@ -1012,9 +1006,6 @@ http://201.230.137.204:8000/play/a0io/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium HD (Arg1)" tvg-logo="https://i.imgur.com/3Ka8iby.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (Arg1)
 http://201.217.246.177:8000/play/a078/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports Premium HD (Gua4)" tvg-logo="https://i.imgur.com/q2xv9Gv.jpg" group-title="Verch" group-title="Deportes",Fox Sports Premium HD (Gua4)
-http://190.14.10.19:16000/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes (Tubi)" tvg-logo="https://i.imgur.com/YX1oHhH.png" group-title="Verch" group-title="Deportes",Fox Deportes (Tubi)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
