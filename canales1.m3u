@@ -697,12 +697,8 @@ http://64.76.53.91:9002/play/a006
 #EXTINF:-1 tvg-id="FMH Movies HD (Col8)" tvg-logo="https://i.imgur.com/kv1yhZH.png" group-title="Verch" group-title="Pelis",FMH Movies HD (Col8)
 http://64.76.53.91:9002/play/a008
 
-#EXTINF:-1 tvg-id="FMH Movies HD (Col8)" tvg-logo="https://i.imgur.com/kv1yhZH.png" group-title="Verch" group-title="Pelis",FMH Movies HD (Col8)
-http://64.76.53.91:9002/play/a001
-
 #EXTINF:-1 tvg-id="FMH Family HD (Col8)" tvg-logo="https://i.imgur.com/G8RoARX.png" group-title="Verch" group-title="Pelis",FMH Family HD (Col8)
 http://64.76.53.91:9002/play/a003
-
 
 + Pelis Premium +
 
@@ -954,11 +950,11 @@ http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:-1 tvg-id="TUDN HD (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua3)
 http://181.78.106.127:9000/play/ca025/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN HD (Gua5)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua5)
-http://45.228.234.30:16000/play/a02x/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN USA HD (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Gua3)
+#EXTINF:-1 tvg-id="TUDN HD (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua3)
 http://181.78.106.127:9000/play/ca036/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN USA HD (Gua5)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Gua5)
+http://45.228.234.30:16000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN USA HD (Usa2)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Usa2)
 http://206.212.244.71:8080/Abxc5k/363887/11885
@@ -966,8 +962,11 @@ http://206.212.244.71:8080/Abxc5k/363887/11885
 #EXTINF:-1 tvg-id="TUDN USA HD (X1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (X1)
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
-#EXTINF:-1 tvg-id="DSPORTS (Gua1)" tvg-logo="https://i.imgur.com/WeGE9Es.png" group-title="Verch" group-title="Deportes",DSPORTS (Gua1)
+#EXTINF:-1 tvg-id="Movistar PLUS HD (Gua1)" tvg-logo="https://i.imgur.com/bmUZ2cV.png" group-title="Verch" group-title="Deportes",Movistar + HD (Gua1)
 http://200.115.120.1:8000/play/ca124/index.m3u8
+
+#EXTINF:-1 tvg-id="Movistar PLUS HD (Gua3)" tvg-logo="https://i.imgur.com/bmUZ2cV.png" group-title="Verch" group-title="Deportes",Movistar + HD (Gua3)
+http://181.78.106.127:9000/play/ca027/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports HD (Gua3)" tvg-logo="https://i.imgur.com/pYAbKhE.png" group-title="Verch" group-title="Deportes",Sky Sports HD (Gua3)
 http://181.78.106.127:9000/play/ca028/index.m3u8
@@ -1113,9 +1112,6 @@ http://200.115.120.1:8000/play/ca118/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports Premium HD (Gua1)" tvg-logo="https://i.imgur.com/uzjnxzE.png" group-title="Verch" group-title="Deportes",TNT Sports Premium HD (Gua1)
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
-#EXTINF:-1 tvg-id="Movistar PLUS (Gua3)" tvg-logo="https://i.imgur.com/bmUZ2cV.png" group-title="Verch" group-title="Deportes",Movistar PLUS (Gua3)
-http://181.78.106.127:9000/play/ca027/index.m3u8
-
 #EXTINF:-1 tvg-id="TyC Sports (Gua1)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TyC Sports (Gua1)
 http://200.115.120.1:8000/play/ca043/index.m3u8
 
@@ -1159,6 +1155,9 @@ http://fl1.moveonjoy.com/TSN_5/index.m3u8
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 
 + Infantil +
+
+#EXTINF:-1 tvg-id="Animotion HD (Col8)" tvg-logo="https://i.imgur.com/YyhNYzA.jpeg" group-title="Verch" group-title="Infantil",Animotion HD (Col8)
+http://64.76.53.91:9002/play/a001
 
 #EXTINF:-1 tvg-id="NICK (Gua3)" tvg-logo="https://i.imgur.com/ds7yreU.png" group-title="Verch" group-title="Infantil",NICK (Gua3)
 http://181.78.106.127:9000/play/ca052/index.m3u8
