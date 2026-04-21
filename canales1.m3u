@@ -676,10 +676,7 @@ http://200.115.120.1:8000/play/ca61/index.m3u8
 #EXTINF:-1 tvg-id="TUDN (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Gua1)
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Gua1)
-http://200.115.120.1:8000/play/ca124/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN USA HD (Gua5)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (Gua5)
+#EXTINF:-1 tvg-id="TUDN HD (Gua5)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua5)
 http://45.228.234.30:16000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN USA HD (X1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN USA HD (X1)
@@ -878,6 +875,9 @@ http://200.115.120.1:8000/play/ca041/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX HD (Gua1)" tvg-logo="https://i.imgur.com/gbasOP7.png" group-title="Verch" group-title="Deportes",Fox Sports 2 MX HD (Gua1)
 http://200.115.120.1:8000/play/ca126/index.m3u8
+
+#EXTINF:-1 tvg-id="M+ (Gua1)" tvg-logo="https://i.imgur.com/0zDQDhm.png" group-title="Verch" group-title="Deportes",M+ (Gua1)
+http://200.115.120.1:8000/play/ca124/index.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports (Mx1)" tvg-logo="https://i.imgur.com/IBix5y6.png" group-title="Verch" group-title="Deportes",Claro Sports (Mx1)
 http://45.171.64.30:2000/play/a053/index.m3u8
@@ -1240,4 +1240,5 @@ https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TDT" group-title="ENG", Cops .CA -TCL
 https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
+
 
