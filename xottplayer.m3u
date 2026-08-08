@@ -1053,8 +1053,14 @@ http://38.194.226.190:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="NBA HD (Mx2)" tvg-logo="https://i.imgur.com/bduEl7r.jpg" group-title="Verch" group-title="Deportes",NBA HD (Mx2) 
 http://38.194.226.190:8000/play/a001/index.m3u8
 
+#EXTINF:-1 tvg-id="TUDN (Mx1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Mx1)
+http://45.171.64.30:2000/play/a08j/index.m3u8
+
 #EXTINF:-1 tvg-id="TUDN (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Gua1)
 http://200.115.120.1:8000/play/ca039/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN (Gua8)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (Gua1)
+http://45.171.64.30:8800/play/a07e
 
 #EXTINF:-1 tvg-id="TUDN HD (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN HD (Gua3)
 http://45.228.233.222:8000/play/a04y
@@ -1641,7 +1647,7 @@ https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
 
 + XXX +
 
-#EXTINF:-1 tvg-id="Playboy (Sal1)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Sal1)
+#EXTINF:-1 tvg-id="Playboy (Gua0)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Gua0)
 http://187.245.231.226:8000/play/a0mv/index.m3u8
 
 #EXTINF:-1 tvg-id="Playboy (Gua3)" tvg-logo="https://i.imgur.com/nb00bhD.png" group-title="Verch" group-title="XXX",Playboy (Gua3)
@@ -1662,7 +1668,7 @@ http://200.115.120.1:8000/play/ca99/index.m3u8
 #EXTINF:-1 tvg-id="BrazzersTV Europe HD" tvg-logo="https://i.imgur.com/bEnRzKN.png" group-title="Verch" group-title="XXX",BrazzersTV Europe HD
 http://200.115.120.1:8000/play/ca98/index.m3u8
 
-#EXTINF:-1 tvg-id="Venus (Sal1)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Sal1)
+#EXTINF:-1 tvg-id="Venus (Gua0)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Gua0)
 http://187.245.231.226:8000/play/a0nn/index.m3u8
 
 #EXTINF:-1 tvg-id="Venus (Hon3)" tvg-logo="https://i.imgur.com/X3ymOAC.png" group-title="Verch" group-title="XXX",Venus (Hon3)
